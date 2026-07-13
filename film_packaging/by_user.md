@@ -15,9 +15,9 @@ Want to contribute? [Check out the guidelines!](../contribution_guide.md)
 ☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️
 
 ```
-Last Updated: Jun 26 2026
-Unique items: 653
-Total scans : 1213
+Last Updated: Jul 13 2026
+Unique items: 659
+Total scans : 1226
 ```
 
 -----
@@ -253,9 +253,12 @@ Total scans : 1213
 - [[Chrisbes] Agfa AgfaColor HDC Plus (ref: 016b)](#chrisbes-agfa-agfacolor-hdc-plus-ref-016b)
 - [[Chrisbes] CineStill 800T (ref: 44c4)](#chrisbes-cinestill-800t-ref-44c4)
 - [[Chrisbes] Fujifilm Fujicolor HR100 (ref: 2335)](#chrisbes-fujifilm-fujicolor-hr100-ref-2335)
+- [[Chrisbes] Fujifilm Fujicolor Pro 400H (ref: 4be2)](#chrisbes-fujifilm-fujicolor-pro-400h-ref-4be2)
 - [[Chrisbes] Fujifilm Fujicolor Super HG (ref: 9942)](#chrisbes-fujifilm-fujicolor-super-hg-ref-9942)
 - [[Chrisbes] Fujifilm Fujicolor Super HR (ref: 7fd2)](#chrisbes-fujifilm-fujicolor-super-hr-ref-7fd2)
 - [[Chrisbes] Fujifilm Superia 200 (ref: fd36)](#chrisbes-fujifilm-superia-200-ref-fd36)
+- [[Chrisbes] Kodak Portra 400 (ref: f4af)](#chrisbes-kodak-portra-400-ref-f4af)
+- [[Chrisbes] Optik Oldschool OptiColour 200 (ref: 3617)](#chrisbes-optik-oldschool-opticolour-200-ref-3617)
 - [[Chrisbes] Reflx Lab 320D AHU (ref: 0bd5)](#chrisbes-reflx-lab-320d-ahu-ref-0bd5)
 - [[Chrisbes] Reflx Lab 400D (ref: 5801)](#chrisbes-reflx-lab-400d-ref-5801)
 - [[Chrisbes] Reflx Lab 640T AHU (ref: 2ce9)](#chrisbes-reflx-lab-640t-ahu-ref-2ce9)
@@ -297,6 +300,7 @@ Total scans : 1213
 - [[Luci 101] Gevaert Panchro Super (ref: fd4c)](#luci-101-gevaert-panchro-super-ref-fd4c)
 - [[Luci 101] Kodak Kodacolor II (ref: 8dcf)](#luci-101-kodak-kodacolor-ii-ref-8dcf)
 - [[Luci 101] ORWO DK5 (ref: e815)](#luci-101-orwo-dk5-ref-e815)
+- [[Luci 101] ORWO DK5 (ref: a2dd)](#luci-101-orwo-dk5-ref-a2dd)
 - [[Luci 101] ORWO NC 19 (ref: dca5)](#luci-101-orwo-nc-19-ref-dca5)
 - [[Luci 101] ORWO NP 22 (ref: 6b7f)](#luci-101-orwo-np-22-ref-6b7f)
 - [[Luci 101] ORWO OrwoChrome RC100 (ref: a9b6)](#luci-101-orwo-orwochrome-rc100-ref-a9b6)
@@ -608,6 +612,7 @@ Total scans : 1213
 - [[nyctomanica] Fujifilm FP-3000B (ref: 9d7e)](#nyctomanica-fujifilm-fp-3000b-ref-9d7e)
 - [[nyctomanica] Fujifilm Instax Wide (ref: 51ce)](#nyctomanica-fujifilm-instax-wide-ref-51ce)
 - [[nyctomanica] Fujifilm Instax Wide Monochrome (ref: 58d8)](#nyctomanica-fujifilm-instax-wide-monochrome-ref-58d8)
+- [[nyctomanica] Fujifilm Provia 100F (ref: 5c1e)](#nyctomanica-fujifilm-provia-100f-ref-5c1e)
 - [[nyctomanica] Impossible Project Color 600 (ref: 55a1)](#nyctomanica-impossible-project-color-600-ref-55a1)
 - [[nyctomanica] Impossible Project Color 600 (ref: b84c)](#nyctomanica-impossible-project-color-600-ref-b84c)
 - [[nyctomanica] Impossible Project PX 600 Silver Shade / First Flush (ref: 8636)](#nyctomanica-impossible-project-px-600-silver-shade--first-flush-ref-8636)
@@ -634,6 +639,7 @@ Total scans : 1213
 - [[nyctomanica] Polaroid 125i Gloss (ref: 7dd1)](#nyctomanica-polaroid-125i-gloss-ref-7dd1)
 - [[nyctomanica] Polaroid 664 (ref: 4c40)](#nyctomanica-polaroid-664-ref-4c40)
 - [[nyctomanica] Polaroid 664 (ref: 4f1a)](#nyctomanica-polaroid-664-ref-4f1a)
+- [[nyctomanica] Polaroid 669 (ref: 2e70)](#nyctomanica-polaroid-669-ref-2e70)
 - [[nyctomanica] Polaroid 669 (ref: 2c27)](#nyctomanica-polaroid-669-ref-2c27)
 - [[nyctomanica] Polaroid 672 (ref: b335)](#nyctomanica-polaroid-672-ref-b335)
 - [[nyctomanica] Polaroid 690 (ref: bd98)](#nyctomanica-polaroid-690-ref-bd98)
@@ -4822,6 +4828,20 @@ UUID  : 8ef818ff997b43d3961092bd540a2335
 	<img src="./lowres/00465_000.jpg" alt="Fujifilm Fujicolor HR100 35mm film box outside" loading="lazy" width="420" height="500">
 </a>
 
+#### [Chrisbes] Fujifilm Fujicolor Pro 400H (ref: 4be2)
+
+```
+Format: 120          |  Process : C-41    
+ISO   : 400          |  Expiry  : 2015-02 
+Type  : Multi-Pack-5 |  Quantity: N/A     
+Added : 2026-07-13   |  Author  : Chrisbes
+UUID  : 5c7c873716ad4ae3abe59d1532e34be2
+```
+
+<a href="./archive/00663_000.jpg" target="_blank">
+	<img src="./lowres/00663_000.jpg" alt="Fujifilm Fujicolor Pro 400H 120 film box outside" loading="lazy" width="404" height="500">
+</a>
+
 #### [Chrisbes] Fujifilm Fujicolor Super HG (ref: 9942)
 
 ```
@@ -4862,6 +4882,34 @@ UUID  : 94d1751b3c454ec590a5d79ee1f9fd36
 
 <a href="./archive/00506_000.jpg" target="_blank">
 	<img src="./lowres/00506_000.jpg" alt="Fujifilm Superia 200 35mm film box outside" loading="lazy" width="500" height="358">
+</a>
+
+#### [Chrisbes] Kodak Portra 400 (ref: f4af)
+
+```
+Format: 120          |  Process : C-41    
+ISO   : 400          |  Expiry  : 2021-07 
+Type  : Multi-Pack-5 |  Quantity: N/A     
+Added : 2026-07-13   |  Author  : Chrisbes
+UUID  : bd9d52c15a7b4d49b87ce856282cf4af
+```
+
+<a href="./archive/00662_000.jpg" target="_blank">
+	<img src="./lowres/00662_000.jpg" alt="Kodak Portra 400 120 film box outside" loading="lazy" width="370" height="500">
+</a>
+
+#### [Chrisbes] Optik Oldschool OptiColour 200 (ref: 3617)
+
+```
+Format: 120          |  Process : C-41    
+ISO   : 200          |  Expiry  : 2028-05 
+Type  : Single Pack  |  Quantity: N/A     
+Added : 2026-07-13   |  Author  : Chrisbes
+UUID  : 03e5b3b597e74b01b87a2d0f16623617
+```
+
+<a href="./archive/00661_000.jpg" target="_blank">
+	<img src="./lowres/00661_000.jpg" alt="Optik Oldschool OptiColour 200 120 film box outside" loading="lazy" width="500" height="423">
 </a>
 
 #### [Chrisbes] Reflx Lab 320D AHU (ref: 0bd5)
@@ -5772,6 +5820,55 @@ UUID  : 227450eabb63400cb0f7fb663797e815
 
 <a href="./archive/00531_000.jpg" target="_blank">
 	<img src="./lowres/00531_000.jpg" alt="ORWO DK5 35mm film box outside" loading="lazy" width="500" height="500">
+</a>
+
+#### [Luci 101] ORWO DK5 (ref: a2dd)
+
+```
+Format: 16mm         |  Process : BW      
+ISO   : Unknown      |  Expiry  : 1984-05 
+Type  : Single Pack  |  Quantity: 30.5m   
+Added : 2026-07-13   |  Author  : Luci 101
+UUID  : 26d4fcf00a04483f8dc3d0875d3ba2dd
+```
+
+<a href="./archive/00658_000.jpg" target="_blank">
+	<img src="./lowres/00658_000.jpg" alt="ORWO DK5 16mm film box outside" loading="lazy" width="500" height="138">
+</a>
+
+
+`UUID: 1c986802fc464163804128400195738e`↓
+
+<a href="./archive/00658_001.jpg" target="_blank">
+	<img src="./lowres/00658_001.jpg" alt="ORWO DK5 16mm film box outside" loading="lazy" width="493" height="500">
+</a>
+
+
+`UUID: 33ab1f5ae3984ff3b0a1593e23f4ac06`↓
+
+<a href="./archive/00658_002.jpg" target="_blank">
+	<img src="./lowres/00658_002.jpg" alt="ORWO DK5 16mm film box outside" loading="lazy" width="500" height="138">
+</a>
+
+
+`UUID: 4cfed229ab4b4d82b3a97fadcaed5a9f`↓
+
+<a href="./archive/00658_003.jpg" target="_blank">
+	<img src="./lowres/00658_003.jpg" alt="ORWO DK5 16mm film box outside" loading="lazy" width="500" height="130">
+</a>
+
+
+`UUID: 2015c96803d743838ac7ad1354443309`↓
+
+<a href="./archive/00658_004.jpg" target="_blank">
+	<img src="./lowres/00658_004.jpg" alt="ORWO DK5 16mm film box outside" loading="lazy" width="500" height="151">
+</a>
+
+
+`UUID: 9790f346b50243b6b83c3e7f2773b441`↓
+
+<a href="./archive/00658_005.jpg" target="_blank">
+	<img src="./lowres/00658_005.jpg" alt="ORWO DK5 16mm film box processing envelope" loading="lazy" width="500" height="484">
 </a>
 
 #### [Luci 101] ORWO NC 19 (ref: dca5)
@@ -12542,6 +12639,20 @@ UUID  : 48b08b5b3a8a4edc98fd29e6fd1c58d8
 	<img src="./lowres/00620_000.jpg" alt="Fujifilm Instax Wide Monochrome Instant Integral Film film box outside" loading="lazy" width="500" height="351">
 </a>
 
+#### [nyctomanica] Fujifilm Provia 100F (ref: 5c1e)
+
+```
+Format: 120          |  Process : E-6     
+ISO   : 100          |  Expiry  : 2021-02 
+Type  : Multi-Pack-5 |  Quantity: N/A     
+Added : 2026-07-13   |  Author  : nyctomanica
+UUID  : 9735f17239144e8a9ed11a5a0bac5c1e
+```
+
+<a href="./archive/00659_000.jpg" target="_blank">
+	<img src="./lowres/00659_000.jpg" alt="Fujifilm Provia 100F 120 film box outside" loading="lazy" width="500" height="243">
+</a>
+
 #### [nyctomanica] Impossible Project Color 600 (ref: 55a1)
 
 ```
@@ -12774,6 +12885,13 @@ UUID  : 36d1da1ac9804ac39bd98ab19d4db007
 	<img src="./lowres/00587_000.jpg" alt="Kodak Kodachrome 64 220 film box outside" loading="lazy" width="424" height="500">
 </a>
 
+
+`UUID: 95f0416b8f6d40cfb3a8e15892c5f2ae`↓
+
+<a href="./archive/00587_001.jpg" target="_blank">
+	<img src="./lowres/00587_001.jpg" alt="Kodak Kodachrome 64 220 film box processing envelope" loading="lazy" width="500" height="401">
+</a>
+
 #### [nyctomanica] Kodak Kodacolor Gold (ref: 4ccd)
 
 ```
@@ -12943,6 +13061,27 @@ UUID  : c2158d300cde448bb229862cfa014f1a
 
 <a href="./archive/00612_000.jpg" target="_blank">
 	<img src="./lowres/00612_000.jpg" alt="Polaroid 664 Instant Pack Film film box outside" loading="lazy" width="500" height="412">
+</a>
+
+#### [nyctomanica] Polaroid 669 (ref: 2e70)
+
+```
+Format: Instant Pack Film|  Process : Instant 
+ISO   : 80           |  Expiry  : 2008-10 
+Type  : Single Pack  |  Quantity: 10exp   
+Added : 2026-07-13   |  Author  : nyctomanica
+UUID  : e879c9f5665f4692a40ab8d839412e70
+```
+
+<a href="./archive/00660_000.jpg" target="_blank">
+	<img src="./lowres/00660_000.jpg" alt="Polaroid 669 Instant Pack Film film box inside" loading="lazy" width="500" height="225">
+</a>
+
+
+`UUID: 2e5f63ccf4454fad8c3deadb0c7ff0a6`↓
+
+<a href="./archive/00660_001.jpg" target="_blank">
+	<img src="./lowres/00660_001.jpg" alt="Polaroid 669 Instant Pack Film film box inside" loading="lazy" width="500" height="154">
 </a>
 
 #### [nyctomanica] Polaroid 669 (ref: 2c27)
@@ -13776,13 +13915,13 @@ UUID  : e54ce68c797b4846b9aee3f5818ecb58
 Rank  Username                      Contributions
 --------------------------------------------------
 1     dekuNukem                     339   
-2     Luci 101                      94    
+2     Luci 101                      100   
 3     @photos.by.qi                 72    
 4     Pelicram                      71    
 5     @ellafridalindblom            67    
 6     @recycling.film               66    
 7     @Hol.m35                      62    
-8     nyctomanica                   53    
+8     nyctomanica                   57    
 9     Mauphoto                      28    
 10    Dialupdude                    27    
 11    The Compartmentalist          25    
@@ -13795,10 +13934,10 @@ Rank  Username                      Contributions
 18    waldoboro                     16    
 19    yc128                         14    
 20    b0baspace                     14    
-21    @SirBrentsworth               13    
-22    benikum                       12    
-23    u/ReeeSchmidtyWerber          11    
-24    Chrisbes                      11    
+21    Chrisbes                      14    
+22    @SirBrentsworth               13    
+23    benikum                       12    
+24    u/ReeeSchmidtyWerber          11    
 25    @zruk_ts                      10    
 26    minidiscus                    10    
 27    lilyu.xyz                     9     

@@ -15,9 +15,9 @@ Want to contribute? [Check out the guidelines!](../contribution_guide.md)
 ☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️
 
 ```
-Last Updated: Jun 26 2026
-Unique items: 653
-Total scans : 1213
+Last Updated: Jul 13 2026
+Unique items: 659
+Total scans : 1226
 ```
 
 -----
@@ -182,6 +182,7 @@ Total scans : 1213
 - [Fujifilm Fujicolor Pro 400H (ref: dc37)](#fujifilm-fujicolor-pro-400h-ref-dc37)
 - [Fujifilm Fujicolor Pro 400H (ref: 29e0)](#fujifilm-fujicolor-pro-400h-ref-29e0)
 - [Fujifilm Fujicolor Pro 400H (ref: fb3a)](#fujifilm-fujicolor-pro-400h-ref-fb3a)
+- [Fujifilm Fujicolor Pro 400H (ref: 4be2)](#fujifilm-fujicolor-pro-400h-ref-4be2)
 - [Fujifilm Fujicolor Pro 400H (ref: 66e3)](#fujifilm-fujicolor-pro-400h-ref-66e3)
 - [Fujifilm Fujicolor Pro 400H (ref: ff20)](#fujifilm-fujicolor-pro-400h-ref-ff20)
 - [Fujifilm Fujicolor Pro400 (ref: 1b8d)](#fujifilm-fujicolor-pro400-ref-1b8d)
@@ -220,6 +221,7 @@ Total scans : 1213
 - [Fujifilm Neopan SS (ref: d848)](#fujifilm-neopan-ss-ref-d848)
 - [Fujifilm Neopan SS Rapid (ref: 9db3)](#fujifilm-neopan-ss-rapid-ref-9db3)
 - [Fujifilm Nexia A200 (ref: 43c0)](#fujifilm-nexia-a200-ref-43c0)
+- [Fujifilm Provia 100F (ref: 5c1e)](#fujifilm-provia-100f-ref-5c1e)
 - [Fujifilm Simple Ace (ref: 17e6)](#fujifilm-simple-ace-ref-17e6)
 - [Fujifilm Superia 100 (ref: 0f0c)](#fujifilm-superia-100-ref-0f0c)
 - [Fujifilm Superia 200 (ref: fd36)](#fujifilm-superia-200-ref-fd36)
@@ -433,6 +435,7 @@ Total scans : 1213
 - [Kodak Portra 160 (ref: ce56)](#kodak-portra-160-ref-ce56)
 - [Kodak Portra 160 (ref: 6b0a)](#kodak-portra-160-ref-6b0a)
 - [Kodak Portra 400 (ref: cf9c)](#kodak-portra-400-ref-cf9c)
+- [Kodak Portra 400 (ref: f4af)](#kodak-portra-400-ref-f4af)
 - [Kodak Portra 400 (ref: 9f18)](#kodak-portra-400-ref-9f18)
 - [Kodak Portra 400 (ref: 8b1c)](#kodak-portra-400-ref-8b1c)
 - [Kodak Portra 400 (ref: c869)](#kodak-portra-400-ref-c869)
@@ -551,6 +554,7 @@ Total scans : 1213
 - [ORWO Chrom UT18 (ref: 81b7)](#orwo-chrom-ut18-ref-81b7)
 - [ORWO Chrom UT21 (ref: 3fd5)](#orwo-chrom-ut21-ref-3fd5)
 - [ORWO DK5 (ref: e815)](#orwo-dk5-ref-e815)
+- [ORWO DK5 (ref: a2dd)](#orwo-dk5-ref-a2dd)
 - [ORWO NC 19 (ref: dca5)](#orwo-nc-19-ref-dca5)
 - [ORWO NP 20 SL (ref: b16c)](#orwo-np-20-sl-ref-b16c)
 - [ORWO NP 22 (ref: 6b7f)](#orwo-np-22-ref-6b7f)
@@ -566,6 +570,7 @@ Total scans : 1213
 - [Optik Oldschool Motion 200T (ref: 0d90)](#optik-oldschool-motion-200t-ref-0d90)
 - [Optik Oldschool Motion 500T (ref: bd42)](#optik-oldschool-motion-500t-ref-bd42)
 - [Optik Oldschool OptiColour 200 (ref: 099e)](#optik-oldschool-opticolour-200-ref-099e)
+- [Optik Oldschool OptiColour 200 (ref: 3617)](#optik-oldschool-opticolour-200-ref-3617)
 - [Optik Oldschool OptiColour 200 (ref: 80d7)](#optik-oldschool-opticolour-200-ref-80d7)
 - [Optik Oldschool OptiColour 200 (ref: a7c9)](#optik-oldschool-opticolour-200-ref-a7c9)
 - [Optik Oldschool SantaColor (ref: dd85)](#optik-oldschool-santacolor-ref-dd85)
@@ -587,6 +592,7 @@ Total scans : 1213
 - [Polaroid 664 (ref: 4f1a)](#polaroid-664-ref-4f1a)
 - [Polaroid 665 (ref: e054)](#polaroid-665-ref-e054)
 - [Polaroid 669 (ref: 3566)](#polaroid-669-ref-3566)
+- [Polaroid 669 (ref: 2e70)](#polaroid-669-ref-2e70)
 - [Polaroid 669 (ref: 2c27)](#polaroid-669-ref-2c27)
 - [Polaroid 672 (ref: b335)](#polaroid-672-ref-b335)
 - [Polaroid 690 (ref: bd98)](#polaroid-690-ref-bd98)
@@ -3855,6 +3861,20 @@ UUID  : 8acc893c8082453a8f83a17f3780fb3a
 	<img src="./lowres/00518_000.jpg" alt="Fujifilm Fujicolor Pro 400H 120 film box outside" loading="lazy" width="500" height="238">
 </a>
 
+#### Fujifilm Fujicolor Pro 400H (ref: 4be2)
+
+```
+Format: 120          |  Process : C-41    
+ISO   : 400          |  Expiry  : 2015-02 
+Type  : Multi-Pack-5 |  Quantity: N/A     
+Added : 2026-07-13   |  Author  : Chrisbes
+UUID  : 5c7c873716ad4ae3abe59d1532e34be2
+```
+
+<a href="./archive/00663_000.jpg" target="_blank">
+	<img src="./lowres/00663_000.jpg" alt="Fujifilm Fujicolor Pro 400H 120 film box outside" loading="lazy" width="404" height="500">
+</a>
+
 #### Fujifilm Fujicolor Pro 400H (ref: 66e3)
 
 ```
@@ -4498,6 +4518,20 @@ UUID  : 711fdcd259474949990498f964f443c0
 
 <a href="./archive/00648_001.jpg" target="_blank">
 	<img src="./lowres/00648_001.jpg" alt="Fujifilm Nexia A200 APS film box inside" loading="lazy" width="391" height="500">
+</a>
+
+#### Fujifilm Provia 100F (ref: 5c1e)
+
+```
+Format: 120          |  Process : E-6     
+ISO   : 100          |  Expiry  : 2021-02 
+Type  : Multi-Pack-5 |  Quantity: N/A     
+Added : 2026-07-13   |  Author  : nyctomanica
+UUID  : 9735f17239144e8a9ed11a5a0bac5c1e
+```
+
+<a href="./archive/00659_000.jpg" target="_blank">
+	<img src="./lowres/00659_000.jpg" alt="Fujifilm Provia 100F 120 film box outside" loading="lazy" width="500" height="243">
 </a>
 
 #### Fujifilm Simple Ace (ref: 17e6)
@@ -8141,6 +8175,13 @@ UUID  : 36d1da1ac9804ac39bd98ab19d4db007
 	<img src="./lowres/00587_000.jpg" alt="Kodak Kodachrome 64 220 film box outside" loading="lazy" width="424" height="500">
 </a>
 
+
+`UUID: 95f0416b8f6d40cfb3a8e15892c5f2ae`↓
+
+<a href="./archive/00587_001.jpg" target="_blank">
+	<img src="./lowres/00587_001.jpg" alt="Kodak Kodachrome 64 220 film box processing envelope" loading="lazy" width="500" height="401">
+</a>
+
 #### Kodak Kodachrome II (ref: 2caa)
 
 ```
@@ -8804,6 +8845,20 @@ UUID  : 5bdddffe29bd464cab4630d85485cf9c
 
 <a href="./archive/00200_000.jpg" target="_blank">
 	<img src="./lowres/00200_000.jpg" alt="Kodak Portra 400 35mm film box outside" loading="lazy" width="500" height="370">
+</a>
+
+#### Kodak Portra 400 (ref: f4af)
+
+```
+Format: 120          |  Process : C-41    
+ISO   : 400          |  Expiry  : 2021-07 
+Type  : Multi-Pack-5 |  Quantity: N/A     
+Added : 2026-07-13   |  Author  : Chrisbes
+UUID  : bd9d52c15a7b4d49b87ce856282cf4af
+```
+
+<a href="./archive/00662_000.jpg" target="_blank">
+	<img src="./lowres/00662_000.jpg" alt="Kodak Portra 400 120 film box outside" loading="lazy" width="370" height="500">
 </a>
 
 #### Kodak Portra 400 (ref: 9f18)
@@ -11031,6 +11086,55 @@ UUID  : 227450eabb63400cb0f7fb663797e815
 	<img src="./lowres/00531_000.jpg" alt="ORWO DK5 35mm film box outside" loading="lazy" width="500" height="500">
 </a>
 
+#### ORWO DK5 (ref: a2dd)
+
+```
+Format: 16mm         |  Process : BW      
+ISO   : Unknown      |  Expiry  : 1984-05 
+Type  : Single Pack  |  Quantity: 30.5m   
+Added : 2026-07-13   |  Author  : Luci 101
+UUID  : 26d4fcf00a04483f8dc3d0875d3ba2dd
+```
+
+<a href="./archive/00658_000.jpg" target="_blank">
+	<img src="./lowres/00658_000.jpg" alt="ORWO DK5 16mm film box outside" loading="lazy" width="500" height="138">
+</a>
+
+
+`UUID: 1c986802fc464163804128400195738e`↓
+
+<a href="./archive/00658_001.jpg" target="_blank">
+	<img src="./lowres/00658_001.jpg" alt="ORWO DK5 16mm film box outside" loading="lazy" width="493" height="500">
+</a>
+
+
+`UUID: 33ab1f5ae3984ff3b0a1593e23f4ac06`↓
+
+<a href="./archive/00658_002.jpg" target="_blank">
+	<img src="./lowres/00658_002.jpg" alt="ORWO DK5 16mm film box outside" loading="lazy" width="500" height="138">
+</a>
+
+
+`UUID: 4cfed229ab4b4d82b3a97fadcaed5a9f`↓
+
+<a href="./archive/00658_003.jpg" target="_blank">
+	<img src="./lowres/00658_003.jpg" alt="ORWO DK5 16mm film box outside" loading="lazy" width="500" height="130">
+</a>
+
+
+`UUID: 2015c96803d743838ac7ad1354443309`↓
+
+<a href="./archive/00658_004.jpg" target="_blank">
+	<img src="./lowres/00658_004.jpg" alt="ORWO DK5 16mm film box outside" loading="lazy" width="500" height="151">
+</a>
+
+
+`UUID: 9790f346b50243b6b83c3e7f2773b441`↓
+
+<a href="./archive/00658_005.jpg" target="_blank">
+	<img src="./lowres/00658_005.jpg" alt="ORWO DK5 16mm film box processing envelope" loading="lazy" width="500" height="484">
+</a>
+
 #### ORWO NC 19 (ref: dca5)
 
 ```
@@ -11577,6 +11681,20 @@ UUID  : c72fdf2e60bf4d488f2ac0b2251d099e
 	<img src="./lowres/00527_000.jpg" alt="Optik Oldschool OptiColour 200 35mm film box outside" loading="lazy" width="500" height="482">
 </a>
 
+#### Optik Oldschool OptiColour 200 (ref: 3617)
+
+```
+Format: 120          |  Process : C-41    
+ISO   : 200          |  Expiry  : 2028-05 
+Type  : Single Pack  |  Quantity: N/A     
+Added : 2026-07-13   |  Author  : Chrisbes
+UUID  : 03e5b3b597e74b01b87a2d0f16623617
+```
+
+<a href="./archive/00661_000.jpg" target="_blank">
+	<img src="./lowres/00661_000.jpg" alt="Optik Oldschool OptiColour 200 120 film box outside" loading="lazy" width="500" height="423">
+</a>
+
 #### Optik Oldschool OptiColour 200 (ref: 80d7)
 
 ```
@@ -11900,6 +12018,27 @@ UUID  : bb62de3a22c04f699c780aeae7c83566
 
 <a href="./archive/00020_000.jpg" target="_blank">
 	<img src="./lowres/00020_000.jpg" alt="Polaroid 669 Instant Pack Film film box outside" loading="lazy" width="500" height="362">
+</a>
+
+#### Polaroid 669 (ref: 2e70)
+
+```
+Format: Instant Pack Film|  Process : Instant 
+ISO   : 80           |  Expiry  : 2008-10 
+Type  : Single Pack  |  Quantity: 10exp   
+Added : 2026-07-13   |  Author  : nyctomanica
+UUID  : e879c9f5665f4692a40ab8d839412e70
+```
+
+<a href="./archive/00660_000.jpg" target="_blank">
+	<img src="./lowres/00660_000.jpg" alt="Polaroid 669 Instant Pack Film film box inside" loading="lazy" width="500" height="225">
+</a>
+
+
+`UUID: 2e5f63ccf4454fad8c3deadb0c7ff0a6`↓
+
+<a href="./archive/00660_001.jpg" target="_blank">
+	<img src="./lowres/00660_001.jpg" alt="Polaroid 669 Instant Pack Film film box inside" loading="lazy" width="500" height="154">
 </a>
 
 #### Polaroid 669 (ref: 2c27)
@@ -13776,13 +13915,13 @@ UUID  : fc90db41b94d486491177a8407f1100d
 Rank  Username                      Contributions
 --------------------------------------------------
 1     dekuNukem                     339   
-2     Luci 101                      94    
+2     Luci 101                      100   
 3     @photos.by.qi                 72    
 4     Pelicram                      71    
 5     @ellafridalindblom            67    
 6     @recycling.film               66    
 7     @Hol.m35                      62    
-8     nyctomanica                   53    
+8     nyctomanica                   57    
 9     Mauphoto                      28    
 10    Dialupdude                    27    
 11    The Compartmentalist          25    
@@ -13795,10 +13934,10 @@ Rank  Username                      Contributions
 18    waldoboro                     16    
 19    yc128                         14    
 20    b0baspace                     14    
-21    @SirBrentsworth               13    
-22    benikum                       12    
-23    u/ReeeSchmidtyWerber          11    
-24    Chrisbes                      11    
+21    Chrisbes                      14    
+22    @SirBrentsworth               13    
+23    benikum                       12    
+24    u/ReeeSchmidtyWerber          11    
 25    @zruk_ts                      10    
 26    minidiscus                    10    
 27    lilyu.xyz                     9     

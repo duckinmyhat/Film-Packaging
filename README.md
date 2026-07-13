@@ -29,9 +29,9 @@ This project is **fully open-source**. [`[GitHub Repo]`](https://github.com/deku
 ☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️
 
 ```
-Last Updated: Jun 26 2026
-Unique items: 653
-Total scans : 1213
+Last Updated: Jul 13 2026
+Unique items: 659
+Total scans : 1226
 ```
 
 Or Sort by...
@@ -54,13 +54,13 @@ Or Sort by...
 Rank  Username                      Contributions
 --------------------------------------------------
 1     dekuNukem                     339   
-2     Luci 101                      94    
+2     Luci 101                      100   
 3     @photos.by.qi                 72    
 4     Pelicram                      71    
 5     @ellafridalindblom            67    
 6     @recycling.film               66    
 7     @Hol.m35                      62    
-8     nyctomanica                   53    
+8     nyctomanica                   57    
 9     Mauphoto                      28    
 10    Dialupdude                    27    
 11    The Compartmentalist          25    
@@ -73,10 +73,10 @@ Rank  Username                      Contributions
 18    waldoboro                     16    
 19    yc128                         14    
 20    b0baspace                     14    
-21    @SirBrentsworth               13    
-22    benikum                       12    
-23    u/ReeeSchmidtyWerber          11    
-24    Chrisbes                      11    
+21    Chrisbes                      14    
+22    @SirBrentsworth               13    
+23    benikum                       12    
+24    u/ReeeSchmidtyWerber          11    
 25    @zruk_ts                      10    
 26    minidiscus                    10    
 27    lilyu.xyz                     9     
@@ -107,6 +107,15 @@ Rank  Username                      Contributions
 ## Recent Activities
 
 ```
+2026-07-13
+  - Chrisbes: Fujifilm Fujicolor Pro 400H
+  - Chrisbes: Kodak Portra 400
+  - Chrisbes: Optik Oldschool OptiColour 200
+  - Luci 101: ORWO DK5
+  - nyctomanica: Fujifilm Provia 100F
+  - nyctomanica: Kodak Kodachrome 64
+  - nyctomanica: Polaroid 669
+
 2026-06-26
   - Pelicram: Cinemot Lisboa 1999
   - Pelicram: Fujifilm Fujicolor QuickSnap Jeans
@@ -147,27 +156,6 @@ Rank  Username                      Contributions
 2026-06-19
   - Luci 101: Gevaert Panchro Super
   - nyctomanica: Polaroid Purple 600 Film Reclaimed Series
-
-2026-06-18
-  - nyctomanica: Fujifilm FP-100C Silk
-  - nyctomanica: Fujifilm FP-3000B
-  - nyctomanica: Fujifilm Instax Wide
-  - nyctomanica: Fujifilm Instax Wide Monochrome
-  - nyctomanica: Impossible Project Color 600
-  - nyctomanica: Impossible Project Polaroid Type 100 Chocolate Paul Giambarba Edition
-  - nyctomanica: Kodak Ektachrome 64T
-  - nyctomanica: Kodak Vericolor 400
-  - nyctomanica: Lomography Color Slide / X-Pro 200
-  - nyctomanica: One Instant Type 100 Peel-Apart Colorfilm
-  - nyctomanica: Polaroid 100 Chocolate Film
-  - nyctomanica: Polaroid 1200
-  - nyctomanica: Polaroid 125i Gloss
-  - nyctomanica: Polaroid 664
-  - nyctomanica: Polaroid 669
-  - nyctomanica: Polaroid 690
-  - nyctomanica: Polaroid Land Pack Film Type 107
-  - nyctomanica: Polaroid Originals B&W Spectra Film
-  - nyctomanica: Polaroid Originals Color Spectra Film
 ```
 
 ## Disclaimer

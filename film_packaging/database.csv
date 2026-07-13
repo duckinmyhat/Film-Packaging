@@ -1090,6 +1090,7 @@ index,sub_index,item_type,brand,product,film_format,film_speed_iso,process,expir
 586,0,film_box_outside,Fujifilm,400,35mm,400,C-41,202609,1781609568,c2bfc62275efa1138299621d50b56562,624c7d05c28a4bfb834ba537631e1f1d,00586_000.jpg,@Hol.m35,,Single Pack,36exp
 586,1,film_box_outside,Fujifilm,400,35mm,400,C-41,202609,1781609571,f99a2bcb1bebee64f259fc042e3d8d36,1e7dab1f092343d4ba0295f2068dd5fd,00586_001.jpg,@Hol.m35,,Single Pack,36exp
 587,0,film_box_outside,Kodak,Kodachrome 64,220,64,K-14,201011,1781609852,3fb41701f9270eac4d2d0ffc0a9f8306,36d1da1ac9804ac39bd98ab19d4db007,00587_000.jpg,nyctomanica,,Single Pack,36exp
+587,1,film_box_processing_envelope,Kodak,Kodachrome 64,220,64,K-14,201011,1783941686,0ad3e119b9747a48eef27750191a742e,95f0416b8f6d40cfb3a8e15892c5f2ae,00587_001.jpg,nyctomanica,,Single Pack,36exp
 588,0,film_box_outside,Agfa,Agfacolor CNS,620,80,CNS,198101,1781610009,a5cdab1883327384e606bcc0ae0d5a45,c5ed76a41fde41e1b07d83ed38800d8a,00588_000.jpg,nyctomanica,,Single Pack,N/A
 589,0,film_box_outside,Kodak,Ektagraphic HC Slide Film,35mm,25,BW,198903,1781610117,77fdbdfd746a970f11ad49677ee54fa6,f2a364463c5d40ad9e438566b786d2a2,00589_000.jpg,nyctomanica,,Single Pack,36exp
 590,0,film_box_outside,Kodak,Ektachrome 320T,35mm,320,E-6,200702,1781610151,d955a6fa1180b192a7d132e4ff59a191,39eee484e9cf4b8aaade4a1092010e11,00590_000.jpg,nyctomanica,,Single Pack,36exp
@@ -1212,3 +1213,15 @@ index,sub_index,item_type,brand,product,film_format,film_speed_iso,process,expir
 655,3,film_box_leaflet,Kodak,Gold III,35mm,100,C-41,199810,1782392115,4a3bcc23167ed4e1472d24b0d2d15326,e0fc0873b5984d59871410b4488f10b8,00655_003.jpg,Dialupdude,,Multi-Pack-3,30exp
 656,0,film_box_outside,Fujifilm,Fujicolor QuickSnap Jeans,Disposable Camera,400,C-41,200808,1782474702,e2a4353cb63be1e03226d2cef8284c35,a2fd70d8c82d42aa8db0f45ced94081a,00656_000.jpg,Pelicram,,Single Pack,27exp
 657,0,film_box_outside,Cinemot,Lisboa 1999,35mm,400,C-41,202707,1782474782,fba9dda595ce31a22072f0d373adfa82,aff79fa9e25b4654826ed6443d266a4f,00657_000.jpg,Pelicram,,Single Pack,36exp
+658,0,film_box_outside,ORWO,DK5,16mm,Unknown,BW,198405,1783939780,c2751ca515c9d0f21976e9cbf9d378a4,26d4fcf00a04483f8dc3d0875d3ba2dd,00658_000.jpg,Luci 101,,Single Pack,30.5m
+658,1,film_box_outside,ORWO,DK5,16mm,Unknown,BW,198405,1783939782,08d1c077ff231ed0d5a32fa0ab4b8c74,1c986802fc464163804128400195738e,00658_001.jpg,Luci 101,,Single Pack,30.5m
+658,2,film_box_outside,ORWO,DK5,16mm,Unknown,BW,198405,1783939789,755654af5c39e74e27a5ad1239844968,33ab1f5ae3984ff3b0a1593e23f4ac06,00658_002.jpg,Luci 101,,Single Pack,30.5m
+658,3,film_box_outside,ORWO,DK5,16mm,Unknown,BW,198405,1783939791,b199f8c65b2ce5706a76a95ab11157dc,4cfed229ab4b4d82b3a97fadcaed5a9f,00658_003.jpg,Luci 101,,Single Pack,30.5m
+658,4,film_box_outside,ORWO,DK5,16mm,Unknown,BW,198405,1783939793,3f67cfcf7f401150eb72f7392ef9e0c0,2015c96803d743838ac7ad1354443309,00658_004.jpg,Luci 101,,Single Pack,30.5m
+658,5,film_box_processing_envelope,ORWO,DK5,16mm,Unknown,BW,198405,1783939795,4c21d00893701e753838f4457a8d62f5,9790f346b50243b6b83c3e7f2773b441,00658_005.jpg,Luci 101,,Single Pack,30.5m
+659,0,film_box_outside,Fujifilm,Provia 100F,120,100,E-6,202102,1783939949,ef245ceabec92b6e466f0aa569e9a63b,9735f17239144e8a9ed11a5a0bac5c1e,00659_000.jpg,nyctomanica,,Multi-Pack-5,N/A
+660,0,film_box_inside,Polaroid,669,Instant Pack Film,80,Instant,200810,1783940754,3cafe31f904ae4d2addd506f8a850e3c,e879c9f5665f4692a40ab8d839412e70,00660_000.jpg,nyctomanica,,Single Pack,10exp
+660,1,film_box_inside,Polaroid,669,Instant Pack Film,80,Instant,200810,1783940757,f6716d00b64c91fb939c88f0f58747d8,2e5f63ccf4454fad8c3deadb0c7ff0a6,00660_001.jpg,nyctomanica,,Single Pack,10exp
+661,0,film_box_outside,Optik Oldschool,OptiColour 200,120,200,C-41,202805,1783942037,00d011767f66ffb04d68e1a062db32e8,03e5b3b597e74b01b87a2d0f16623617,00661_000.jpg,Chrisbes,,Single Pack,N/A
+662,0,film_box_outside,Kodak,Portra 400,120,400,C-41,202107,1783942093,cfd7f5d79d3b23f39a3d16650d358b6e,bd9d52c15a7b4d49b87ce856282cf4af,00662_000.jpg,Chrisbes,,Multi-Pack-5,N/A
+663,0,film_box_outside,Fujifilm,Fujicolor Pro 400H,120,400,C-41,201502,1783942149,32cd743112206861db94538e5b4bbfd0,5c7c873716ad4ae3abe59d1532e34be2,00663_000.jpg,Chrisbes,,Multi-Pack-5,N/A
