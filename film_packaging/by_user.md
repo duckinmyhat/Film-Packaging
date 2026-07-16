@@ -410,6 +410,7 @@ Total scans : 1231
 - [[TheSelousScout] Ilford XP2 Super (ref: 622a)](#theselousscout-ilford-xp2-super-ref-622a)
 - [[TheSelousScout] Kodak Kodacolor 200 (ref: ba30)](#theselousscout-kodak-kodacolor-200-ref-ba30)
 - [[TheSelousScout] Reto Amber D400 (ref: 08ad)](#theselousscout-reto-amber-d400-ref-08ad)
+- [[Tobias] Efke R14 (ref: 27f5)](#tobias-efke-r14-ref-27f5)
 - [[Tobias] efke KB-25 (ref: 4d17)](#tobias-efke-kb-25-ref-4d17)
 - [[Yrikonchik] Fujifilm 200 (ref: 5b41)](#yrikonchik-fujifilm-200-ref-5b41)
 - [[b0baspace] Fujifilm Fujicolor 100 (ref: 013b)](#b0baspace-fujifilm-fujicolor-100-ref-013b)
@@ -652,7 +653,6 @@ Total scans : 1231
 - [[nyctomanica] Polaroid TZ Artistic Fade to Black (ref: de21)](#nyctomanica-polaroid-tz-artistic-fade-to-black-ref-de21)
 - [[nyctomanica] Polaroid Originals B&W Spectra Film (ref: 7f24)](#nyctomanica-polaroid-originals-b-w-spectra-film-ref-7f24)
 - [[nyctomanica] Polaroid Originals Color Spectra Film (ref: 7d0a)](#nyctomanica-polaroid-originals-color-spectra-film-ref-7d0a)
-- [[robo-tobo] Efke R14 (ref: 27f5)](#robo-tobo-efke-r14-ref-27f5)
 - [[toader] Kodak Ektachrome 100 Plus (ref: 5d9f)](#toader-kodak-ektachrome-100-plus-ref-5d9f)
 - [[toader] Kodak Ektachrome E100 (ref: ae10)](#toader-kodak-ektachrome-e100-ref-ae10)
 - [[toader] Kodak Ektachrome Elite 100 (ref: 26ef)](#toader-kodak-ektachrome-elite-100-ref-26ef)
@@ -8114,6 +8114,34 @@ UUID  : 075938ec54de4c4bbee63671e4c208ad
 	<img src="./lowres/00168_000.jpg" alt="Reto Amber D400 35mm film box outside" loading="lazy" width="399" height="500">
 </a>
 
+#### [Tobias] Efke R14 (ref: 27f5)
+
+```
+Format: 120          |  Process : BW      
+ISO   : 20           |  Expiry  : 1970-03 
+Type  : Single Pack  |  Quantity: N/A     
+Added : 2026-05-26   |  Author  : Tobias  
+UUID  : 32a76ef752524fab9f27ebe632b527f5
+```
+
+<a href="./archive/00570_000.jpg" target="_blank">
+	<img src="./lowres/00570_000.jpg" alt="Efke R14 120 film box outside" loading="lazy" width="500" height="359">
+</a>
+
+
+`UUID: 64e01932547643cd806e82e0faf38af2`↓
+
+<a href="./archive/00570_001.jpg" target="_blank">
+	<img src="./lowres/00570_001.jpg" alt="Efke R14 120 film box leaflet" loading="lazy" width="330" height="500">
+</a>
+
+
+`UUID: cb7b9dc522034a9e8e0c9efb07844543`↓
+
+<a href="./archive/00570_002.jpg" target="_blank">
+	<img src="./lowres/00570_002.jpg" alt="Efke R14 120 film box leaflet" loading="lazy" width="312" height="500">
+</a>
+
 #### [Tobias] efke KB-25 (ref: 4d17)
 
 ```
@@ -13311,34 +13339,6 @@ UUID  : 1761ed58b3bc423cb93dcf6fa3e77d0a
 	<img src="./lowres/00623_002.jpg" alt="Polaroid Originals Color Spectra Film Instant Integral Film film box inside" loading="lazy" width="258" height="500">
 </a>
 
-#### [robo-tobo] Efke R14 (ref: 27f5)
-
-```
-Format: 120          |  Process : BW      
-ISO   : 20           |  Expiry  : 1970-03 
-Type  : Single Pack  |  Quantity: N/A     
-Added : 2026-05-26   |  Author  : robo-tobo
-UUID  : 32a76ef752524fab9f27ebe632b527f5
-```
-
-<a href="./archive/00570_000.jpg" target="_blank">
-	<img src="./lowres/00570_000.jpg" alt="Efke R14 120 film box outside" loading="lazy" width="500" height="359">
-</a>
-
-
-`UUID: 64e01932547643cd806e82e0faf38af2`↓
-
-<a href="./archive/00570_001.jpg" target="_blank">
-	<img src="./lowres/00570_001.jpg" alt="Efke R14 120 film box leaflet" loading="lazy" width="330" height="500">
-</a>
-
-
-`UUID: cb7b9dc522034a9e8e0c9efb07844543`↓
-
-<a href="./archive/00570_002.jpg" target="_blank">
-	<img src="./lowres/00570_002.jpg" alt="Efke R14 120 film box leaflet" loading="lazy" width="312" height="500">
-</a>
-
 #### [toader] Kodak Ektachrome 100 Plus (ref: 5d9f)
 
 ```
@@ -14008,20 +14008,19 @@ Rank  Username                      Contributions
 33    Greg                          6     
 34    Kraksen                       5     
 35    @gregrouxphotography          5     
-36    Henry Gunn                    4     
-37    TheSelousScout                4     
-38    @sachynmital                  3     
-39    Tallbird Cowboy               3     
-40    robo-tobo                     3     
+36    Tobias                        5     
+37    Henry Gunn                    4     
+38    TheSelousScout                4     
+39    @sachynmital                  3     
+40    Tallbird Cowboy               3     
 41    @seklerek                     2     
 42    @ftfilmphotos                 2     
-43    Tobias                        2     
-44    @tylerdrey                    2     
-45    Yrikonchik                    1     
-46    @ad.astra.per.aspera.1894     1     
-47    Aoi Yuki                      1     
-48    lemoniter                     1     
-49    @shotbyliampewpew             1     
+43    @tylerdrey                    2     
+44    Yrikonchik                    1     
+45    @ad.astra.per.aspera.1894     1     
+46    Aoi Yuki                      1     
+47    lemoniter                     1     
+48    @shotbyliampewpew             1     
 ```
 
 ## Questions or Comments?
