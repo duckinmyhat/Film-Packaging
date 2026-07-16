@@ -15,9 +15,9 @@ Want to contribute? [Check out the guidelines!](../contribution_guide.md)
 ☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️
 
 ```
-Last Updated: Jul 13 2026
-Unique items: 659
-Total scans : 1226
+Last Updated: Jul 16 2026
+Unique items: 662
+Total scans : 1231
 ```
 
 -----
@@ -122,6 +122,8 @@ Total scans : 1226
 - [[@filmfotofella] Kodak Ultra (ref: 5701)](#filmfotofella-kodak-ultra-ref-5701)
 - [[@ftfilmphotos] Kodak Kodacolor VR (ref: 035f)](#ftfilmphotos-kodak-kodacolor-vr-ref-035f)
 - [[@gregrouxphotography] Film Photography Project FPP 620 Black & White Panchromatic Negative Film (ref: 60ce)](#gregrouxphotography-film-photography-project-fpp-620-black-white-panchromatic-negative-film-ref-60ce)
+- [[@gregrouxphotography] Fujifilm 200 (ref: 6286)](#gregrouxphotography-fujifilm-200-ref-6286)
+- [[@gregrouxphotography] Kodak Gold Plus (ref: 114f)](#gregrouxphotography-kodak-gold-plus-ref-114f)
 - [[@ob.skura] Fujifilm Fujichrome Velvia (ref: 3182)](#obskura-fujifilm-fujichrome-velvia-ref-3182)
 - [[@ob.skura] Ilford Delta 100 Professional (ref: eb8d)](#obskura-ilford-delta-100-professional-ref-eb8d)
 - [[@ob.skura] Kodak Elite Chrome (ref: 523c)](#obskura-kodak-elite-chrome-ref-523c)
@@ -258,6 +260,7 @@ Total scans : 1226
 - [[Chrisbes] Fujifilm Fujicolor Super HR (ref: 7fd2)](#chrisbes-fujifilm-fujicolor-super-hr-ref-7fd2)
 - [[Chrisbes] Fujifilm Superia 200 (ref: fd36)](#chrisbes-fujifilm-superia-200-ref-fd36)
 - [[Chrisbes] Kodak Portra 400 (ref: f4af)](#chrisbes-kodak-portra-400-ref-f4af)
+- [[Chrisbes] Konica Konica Color SR-G 160 (ref: 64c5)](#chrisbes-konica-konica-color-sr-g-160-ref-64c5)
 - [[Chrisbes] Optik Oldschool OptiColour 200 (ref: 3617)](#chrisbes-optik-oldschool-opticolour-200-ref-3617)
 - [[Chrisbes] Reflx Lab 320D AHU (ref: 0bd5)](#chrisbes-reflx-lab-320d-ahu-ref-0bd5)
 - [[Chrisbes] Reflx Lab 400D (ref: 5801)](#chrisbes-reflx-lab-400d-ref-5801)
@@ -2466,6 +2469,41 @@ UUID  : 6b7dc0000a5f493caa53c841c3ce60ce
 
 <a href="./archive/00499_001.jpg" target="_blank">
 	<img src="./lowres/00499_001.jpg" alt="Film Photography Project FPP 620 Black & White Panchromatic Negative Film 620 film box inside" loading="lazy" width="500" height="458">
+</a>
+
+#### [@gregrouxphotography] Fujifilm 200 (ref: 6286)
+
+```
+Format: 35mm         |  Process : C-41    
+ISO   : 200          |  Expiry  : 2026-10 
+Type  : Multi-Pack-3 |  Quantity: 36exp   
+Added : 2026-07-16   |  Author  : @gregrouxphotography
+UUID  : 86c7f4981b304bd18ebeeb7c43836286
+```
+
+<a href="./archive/00665_000.jpg" target="_blank">
+	<img src="./lowres/00665_000.jpg" alt="Fujifilm 200 35mm film box outside" loading="lazy" width="337" height="500">
+</a>
+
+#### [@gregrouxphotography] Kodak Gold Plus (ref: 114f)
+
+```
+Format: 35mm         |  Process : C-41    
+ISO   : 100          |  Expiry  : 1994-10 
+Type  : Single Pack  |  Quantity: 36exp   
+Added : 2026-07-16   |  Author  : @gregrouxphotography
+UUID  : 3bba5e916d5d4460a7c644296d22114f
+```
+
+<a href="./archive/00664_000.jpg" target="_blank">
+	<img src="./lowres/00664_000.jpg" alt="Kodak Gold Plus 35mm film box outside" loading="lazy" width="284" height="500">
+</a>
+
+
+`UUID: 40b52c82185045d3ab35b798f0e7d875`↓
+
+<a href="./archive/00664_001.jpg" target="_blank">
+	<img src="./lowres/00664_001.jpg" alt="Kodak Gold Plus 35mm film box inside" loading="lazy" width="277" height="500">
 </a>
 
 #### [@ob.skura] Fujifilm Fujichrome Velvia (ref: 3182)
@@ -4896,6 +4934,27 @@ UUID  : bd9d52c15a7b4d49b87ce856282cf4af
 
 <a href="./archive/00662_000.jpg" target="_blank">
 	<img src="./lowres/00662_000.jpg" alt="Kodak Portra 400 120 film box outside" loading="lazy" width="370" height="500">
+</a>
+
+#### [Chrisbes] Konica Konica Color SR-G 160 (ref: 64c5)
+
+```
+Format: 120          |  Process : C-41    
+ISO   : 160          |  Expiry  : 1999-05 
+Type  : Single Pack  |  Quantity: N/A     
+Added : 2026-07-16   |  Author  : Chrisbes
+UUID  : 5f88d84525c440fc8879978b1b2864c5
+```
+
+<a href="./archive/00666_000.jpg" target="_blank">
+	<img src="./lowres/00666_000.jpg" alt="Konica Konica Color SR-G 160 120 film box outside" loading="lazy" width="500" height="431">
+</a>
+
+
+`UUID: d8b9395871644903b4e7251339cca0c8`↓
+
+<a href="./archive/00666_001.jpg" target="_blank">
+	<img src="./lowres/00666_001.jpg" alt="Konica Konica Color SR-G 160 120 film box inside" loading="lazy" width="500" height="471">
 </a>
 
 #### [Chrisbes] Optik Oldschool OptiColour 200 (ref: 3617)
@@ -13932,9 +13991,9 @@ Rank  Username                      Contributions
 16    Nano_Burger                   18    
 17    toader                        17    
 18    waldoboro                     16    
-19    yc128                         14    
-20    b0baspace                     14    
-21    Chrisbes                      14    
+19    Chrisbes                      16    
+20    yc128                         14    
+21    b0baspace                     14    
 22    @SirBrentsworth               13    
 23    benikum                       12    
 24    u/ReeeSchmidtyWerber          11    
@@ -13948,14 +14007,14 @@ Rank  Username                      Contributions
 32    nick                          6     
 33    Greg                          6     
 34    Kraksen                       5     
-35    Henry Gunn                    4     
-36    TheSelousScout                4     
-37    @sachynmital                  3     
-38    Tallbird Cowboy               3     
-39    robo-tobo                     3     
-40    @seklerek                     2     
-41    @ftfilmphotos                 2     
-42    @gregrouxphotography          2     
+35    @gregrouxphotography          5     
+36    Henry Gunn                    4     
+37    TheSelousScout                4     
+38    @sachynmital                  3     
+39    Tallbird Cowboy               3     
+40    robo-tobo                     3     
+41    @seklerek                     2     
+42    @ftfilmphotos                 2     
 43    Tobias                        2     
 44    @tylerdrey                    2     
 45    Yrikonchik                    1     

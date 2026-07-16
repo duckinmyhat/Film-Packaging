@@ -15,9 +15,9 @@ Want to contribute? [Check out the guidelines!](../contribution_guide.md)
 ☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️
 
 ```
-Last Updated: Jul 13 2026
-Unique items: 659
-Total scans : 1226
+Last Updated: Jul 16 2026
+Unique items: 662
+Total scans : 1231
 ```
 
 -----
@@ -146,6 +146,7 @@ Total scans : 1226
 - [[120] Konica Infrared 750nm (ref: e696)](#120-konica-infrared-750nm-ref-e696)
 - [[120] Konica Infrared 750nm (ref: 6b0e)](#120-konica-infrared-750nm-ref-6b0e)
 - [[120] Konica Infrared 750nm (ref: 2d93)](#120-konica-infrared-750nm-ref-2d93)
+- [[120] Konica Konica Color SR-G 160 (ref: 64c5)](#120-konica-konica-color-sr-g-160-ref-64c5)
 - [[120] Konica Sepia Professional (ref: 0b40)](#120-konica-sepia-professional-ref-0b40)
 - [[120] Lomography Berlin (ref: 246a)](#120-lomography-berlin-ref-246a)
 - [[120] Lomography Color Negative 120 Film 100 (ref: 42fc)](#120-lomography-color-negative-120-film-100-ref-42fc)
@@ -288,6 +289,7 @@ Total scans : 1226
 - [[35mm] Foton Super Orto (ref: 050b)](#35mm-foton-super-orto-ref-050b)
 - [[35mm] Freestyle 500T (ref: 8073)](#35mm-freestyle-500t-ref-8073)
 - [[35mm] Fujifilm 200 (ref: 5b41)](#35mm-fujifilm-200-ref-5b41)
+- [[35mm] Fujifilm 200 (ref: 6286)](#35mm-fujifilm-200-ref-6286)
 - [[35mm] Fujifilm 400 (ref: 82be)](#35mm-fujifilm-400-ref-82be)
 - [[35mm] Fujifilm 400 (ref: 1f1d)](#35mm-fujifilm-400-ref-1f1d)
 - [[35mm] Fujifilm 400 Speed Film (ref: 7f19)](#35mm-fujifilm-400-speed-film-ref-7f19)
@@ -422,6 +424,7 @@ Total scans : 1226
 - [[35mm] Kodak Gold 200 (ref: 7d4b)](#35mm-kodak-gold-200-ref-7d4b)
 - [[35mm] Kodak Gold II (ref: 61d0)](#35mm-kodak-gold-ii-ref-61d0)
 - [[35mm] Kodak Gold III (ref: cd39)](#35mm-kodak-gold-iii-ref-cd39)
+- [[35mm] Kodak Gold Plus (ref: 114f)](#35mm-kodak-gold-plus-ref-114f)
 - [[35mm] Kodak Gold Ultra 400 (ref: 1358)](#35mm-kodak-gold-ultra-400-ref-1358)
 - [[35mm] Kodak Hawkeye 2485 Surveillance Film (ref: 0037)](#35mm-kodak-hawkeye-2485-surveillance-film-ref-0037)
 - [[35mm] Kodak High Contrast Copy Film (ref: db52)](#35mm-kodak-high-contrast-copy-film-ref-db52)
@@ -3359,6 +3362,27 @@ UUID  : 63b2857f2df549878446cc1963362d93
 	<img src="./lowres/00036_000.jpg" alt="Konica Infrared 750nm 120 film box outside" loading="lazy" width="500" height="302">
 </a>
 
+#### [120] Konica Konica Color SR-G 160 (ref: 64c5)
+
+```
+Format: 120          |  Process : C-41    
+ISO   : 160          |  Expiry  : 1999-05 
+Type  : Single Pack  |  Quantity: N/A     
+Added : 2026-07-16   |  Author  : Chrisbes
+UUID  : 5f88d84525c440fc8879978b1b2864c5
+```
+
+<a href="./archive/00666_000.jpg" target="_blank">
+	<img src="./lowres/00666_000.jpg" alt="Konica Konica Color SR-G 160 120 film box outside" loading="lazy" width="500" height="431">
+</a>
+
+
+`UUID: d8b9395871644903b4e7251339cca0c8`↓
+
+<a href="./archive/00666_001.jpg" target="_blank">
+	<img src="./lowres/00666_001.jpg" alt="Konica Konica Color SR-G 160 120 film box inside" loading="lazy" width="500" height="471">
+</a>
+
 #### [120] Konica Sepia Professional (ref: 0b40)
 
 ```
@@ -6215,6 +6239,20 @@ UUID  : fe02d85cb9294ee2ba64e8543ce65b41
 	<img src="./lowres/00073_000.jpg" alt="Fujifilm 200 35mm film box outside" loading="lazy" width="476" height="500">
 </a>
 
+#### [35mm] Fujifilm 200 (ref: 6286)
+
+```
+Format: 35mm         |  Process : C-41    
+ISO   : 200          |  Expiry  : 2026-10 
+Type  : Multi-Pack-3 |  Quantity: 36exp   
+Added : 2026-07-16   |  Author  : @gregrouxphotography
+UUID  : 86c7f4981b304bd18ebeeb7c43836286
+```
+
+<a href="./archive/00665_000.jpg" target="_blank">
+	<img src="./lowres/00665_000.jpg" alt="Fujifilm 200 35mm film box outside" loading="lazy" width="337" height="500">
+</a>
+
 #### [35mm] Fujifilm 400 (ref: 82be)
 
 ```
@@ -8604,6 +8642,27 @@ UUID  : f7c1098f0fe74126bf9cef9c261bcd39
 
 <a href="./archive/00655_003.jpg" target="_blank">
 	<img src="./lowres/00655_003.jpg" alt="Kodak Gold III 35mm film box leaflet" loading="lazy" width="351" height="500">
+</a>
+
+#### [35mm] Kodak Gold Plus (ref: 114f)
+
+```
+Format: 35mm         |  Process : C-41    
+ISO   : 100          |  Expiry  : 1994-10 
+Type  : Single Pack  |  Quantity: 36exp   
+Added : 2026-07-16   |  Author  : @gregrouxphotography
+UUID  : 3bba5e916d5d4460a7c644296d22114f
+```
+
+<a href="./archive/00664_000.jpg" target="_blank">
+	<img src="./lowres/00664_000.jpg" alt="Kodak Gold Plus 35mm film box outside" loading="lazy" width="284" height="500">
+</a>
+
+
+`UUID: 40b52c82185045d3ab35b798f0e7d875`↓
+
+<a href="./archive/00664_001.jpg" target="_blank">
+	<img src="./lowres/00664_001.jpg" alt="Kodak Gold Plus 35mm film box inside" loading="lazy" width="277" height="500">
 </a>
 
 #### [35mm] Kodak Gold Ultra 400 (ref: 1358)
@@ -13932,9 +13991,9 @@ Rank  Username                      Contributions
 16    Nano_Burger                   18    
 17    toader                        17    
 18    waldoboro                     16    
-19    yc128                         14    
-20    b0baspace                     14    
-21    Chrisbes                      14    
+19    Chrisbes                      16    
+20    yc128                         14    
+21    b0baspace                     14    
 22    @SirBrentsworth               13    
 23    benikum                       12    
 24    u/ReeeSchmidtyWerber          11    
@@ -13948,14 +14007,14 @@ Rank  Username                      Contributions
 32    nick                          6     
 33    Greg                          6     
 34    Kraksen                       5     
-35    Henry Gunn                    4     
-36    TheSelousScout                4     
-37    @sachynmital                  3     
-38    Tallbird Cowboy               3     
-39    robo-tobo                     3     
-40    @seklerek                     2     
-41    @ftfilmphotos                 2     
-42    @gregrouxphotography          2     
+35    @gregrouxphotography          5     
+36    Henry Gunn                    4     
+37    TheSelousScout                4     
+38    @sachynmital                  3     
+39    Tallbird Cowboy               3     
+40    robo-tobo                     3     
+41    @seklerek                     2     
+42    @ftfilmphotos                 2     
 43    Tobias                        2     
 44    @tylerdrey                    2     
 45    Yrikonchik                    1     

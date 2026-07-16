@@ -29,9 +29,9 @@ This project is **fully open-source**. [`[GitHub Repo]`](https://github.com/deku
 ☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️
 
 ```
-Last Updated: Jul 13 2026
-Unique items: 659
-Total scans : 1226
+Last Updated: Jul 16 2026
+Unique items: 662
+Total scans : 1231
 ```
 
 Or Sort by...
@@ -71,9 +71,9 @@ Rank  Username                      Contributions
 16    Nano_Burger                   18    
 17    toader                        17    
 18    waldoboro                     16    
-19    yc128                         14    
-20    b0baspace                     14    
-21    Chrisbes                      14    
+19    Chrisbes                      16    
+20    yc128                         14    
+21    b0baspace                     14    
 22    @SirBrentsworth               13    
 23    benikum                       12    
 24    u/ReeeSchmidtyWerber          11    
@@ -87,14 +87,14 @@ Rank  Username                      Contributions
 32    nick                          6     
 33    Greg                          6     
 34    Kraksen                       5     
-35    Henry Gunn                    4     
-36    TheSelousScout                4     
-37    @sachynmital                  3     
-38    Tallbird Cowboy               3     
-39    robo-tobo                     3     
-40    @seklerek                     2     
-41    @ftfilmphotos                 2     
-42    @gregrouxphotography          2     
+35    @gregrouxphotography          5     
+36    Henry Gunn                    4     
+37    TheSelousScout                4     
+38    @sachynmital                  3     
+39    Tallbird Cowboy               3     
+40    robo-tobo                     3     
+41    @seklerek                     2     
+42    @ftfilmphotos                 2     
 43    Tobias                        2     
 44    @tylerdrey                    2     
 45    Yrikonchik                    1     
@@ -107,6 +107,11 @@ Rank  Username                      Contributions
 ## Recent Activities
 
 ```
+2026-07-16
+  - @gregrouxphotography: Fujifilm 200
+  - @gregrouxphotography: Kodak Gold Plus
+  - Chrisbes: Konica Konica Color SR-G 160
+
 2026-07-13
   - Chrisbes: Fujifilm Fujicolor Pro 400H
   - Chrisbes: Kodak Portra 400
@@ -152,10 +157,6 @@ Rank  Username                      Contributions
   - Mauphoto: Perutz CR 100
   - Mauphoto: Polaroid High Definition
   - Mauphoto: Schlecker Fotoland AS Color 200
-
-2026-06-19
-  - Luci 101: Gevaert Panchro Super
-  - nyctomanica: Polaroid Purple 600 Film Reclaimed Series
 ```
 
 ## Disclaimer

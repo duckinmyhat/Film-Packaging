@@ -1225,3 +1225,8 @@ index,sub_index,item_type,brand,product,film_format,film_speed_iso,process,expir
 661,0,film_box_outside,Optik Oldschool,OptiColour 200,120,200,C-41,202805,1783942037,00d011767f66ffb04d68e1a062db32e8,03e5b3b597e74b01b87a2d0f16623617,00661_000.jpg,Chrisbes,,Single Pack,N/A
 662,0,film_box_outside,Kodak,Portra 400,120,400,C-41,202107,1783942093,cfd7f5d79d3b23f39a3d16650d358b6e,bd9d52c15a7b4d49b87ce856282cf4af,00662_000.jpg,Chrisbes,,Multi-Pack-5,N/A
 663,0,film_box_outside,Fujifilm,Fujicolor Pro 400H,120,400,C-41,201502,1783942149,32cd743112206861db94538e5b4bbfd0,5c7c873716ad4ae3abe59d1532e34be2,00663_000.jpg,Chrisbes,,Multi-Pack-5,N/A
+664,0,film_box_outside,Kodak,Gold Plus,35mm,100,C-41,199410,1784198326,685501c30d34bf0ee7f40b36e3859531,3bba5e916d5d4460a7c644296d22114f,00664_000.jpg,@gregrouxphotography,,Single Pack,36exp
+664,1,film_box_inside,Kodak,Gold Plus,35mm,100,C-41,199410,1784198741,3bbfa56581d461c92648c991d7ad01e9,40b52c82185045d3ab35b798f0e7d875,00664_001.jpg,@gregrouxphotography,,Single Pack,36exp
+665,0,film_box_outside,Fujifilm,200,35mm,200,C-41,202610,1784198798,5bce97a246893e982d3079c8b2c00203,86c7f4981b304bd18ebeeb7c43836286,00665_000.jpg,@gregrouxphotography,,Multi-Pack-3,36exp
+666,0,film_box_outside,Konica,Konica Color SR-G 160,120,160,C-41,199905,1784199111,3d4499961e85cd99b47116e033e6b168,5f88d84525c440fc8879978b1b2864c5,00666_000.jpg,Chrisbes,,Single Pack,N/A
+666,1,film_box_inside,Konica,Konica Color SR-G 160,120,160,C-41,199905,1784199114,a4ce1bc93ba47032e84ea1639971988a,d8b9395871644903b4e7251339cca0c8,00666_001.jpg,Chrisbes,,Single Pack,N/A

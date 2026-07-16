@@ -15,9 +15,9 @@ Want to contribute? [Check out the guidelines!](../contribution_guide.md)
 ☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️
 
 ```
-Last Updated: Jul 13 2026
-Unique items: 659
-Total scans : 1226
+Last Updated: Jul 16 2026
+Unique items: 662
+Total scans : 1231
 ```
 
 -----
@@ -207,6 +207,7 @@ Total scans : 1226
 - [[1994] Kodak Vericolor 400 (ref: d8e3)](#1994-kodak-vericolor-400-ref-d8e3)
 - [[1994] York Photo Labs DXG 200 (ref: 4bf8)](#1994-york-photo-labs-dxg-200-ref-4bf8)
 - [[1994] Ilford XP2 (ref: 7d94)](#1994-ilford-xp2-ref-7d94)
+- [[1994] Kodak Gold Plus (ref: 114f)](#1994-kodak-gold-plus-ref-114f)
 - [[1994] Kodak Ektachrome 100HC (ref: 3ab9)](#1994-kodak-ektachrome-100hc-ref-3ab9)
 - [[1994] Kodak Ektachrome 100HC (ref: 775a)](#1994-kodak-ektachrome-100hc-ref-775a)
 - [[1995] Kodak Technical Pan (ref: f4cf)](#1995-kodak-technical-pan-ref-f4cf)
@@ -233,6 +234,7 @@ Total scans : 1226
 - [[1998] Kodak Vericolor 400 Plus (ref: bd88)](#1998-kodak-vericolor-400-plus-ref-bd88)
 - [[1999] Fujifilm Fujichrome 64T (ref: 311b)](#1999-fujifilm-fujichrome-64t-ref-311b)
 - [[1999] Kodak Gold (ref: 2f8d)](#1999-kodak-gold-ref-2f8d)
+- [[1999] Konica Konica Color SR-G 160 (ref: 64c5)](#1999-konica-konica-color-sr-g-160-ref-64c5)
 - [[1999] Kodak Ektachrome Slide Duplicating Film (ref: d53a)](#1999-kodak-ektachrome-slide-duplicating-film-ref-d53a)
 - [[2000] Konica Infrared 750nm (ref: 2d93)](#2000-konica-infrared-750nm-ref-2d93)
 - [[2000] Agfa AgfaColor Optima 200 (ref: 393d)](#2000-agfa-agfacolor-optima-200-ref-393d)
@@ -536,6 +538,7 @@ Total scans : 1226
 - [[2026] Lomography Tiger (ref: 26dd)](#2026-lomography-tiger-ref-26dd)
 - [[2026] Polaroid Color 600 Film (ref: e12f)](#2026-polaroid-color-600-film-ref-e12f)
 - [[2026] Candido Colour Negative Film (ref: 6cd2)](#2026-candido-colour-negative-film-ref-6cd2)
+- [[2026] Fujifilm 200 (ref: 6286)](#2026-fujifilm-200-ref-6286)
 - [[2026] Fujifilm Fujichrome Provia 100F (ref: df27)](#2026-fujifilm-fujichrome-provia-100f-ref-df27)
 - [[2026] Kodak Portra 400 (ref: c869)](#2026-kodak-portra-400-ref-c869)
 - [[2026] Ilford XP2 Super (ref: 484f)](#2026-ilford-xp2-super-ref-484f)
@@ -5248,6 +5251,27 @@ UUID  : bc6e58d62eb34ad6a54ea8d4ac877d94
 	<img src="./lowres/00409_002.jpg" alt="Ilford XP2 35mm film box leaflet" loading="lazy" width="500" height="347">
 </a>
 
+#### [1994] Kodak Gold Plus (ref: 114f)
+
+```
+Format: 35mm         |  Process : C-41    
+ISO   : 100          |  Expiry  : 1994-10 
+Type  : Single Pack  |  Quantity: 36exp   
+Added : 2026-07-16   |  Author  : @gregrouxphotography
+UUID  : 3bba5e916d5d4460a7c644296d22114f
+```
+
+<a href="./archive/00664_000.jpg" target="_blank">
+	<img src="./lowres/00664_000.jpg" alt="Kodak Gold Plus 35mm film box outside" loading="lazy" width="284" height="500">
+</a>
+
+
+`UUID: 40b52c82185045d3ab35b798f0e7d875`↓
+
+<a href="./archive/00664_001.jpg" target="_blank">
+	<img src="./lowres/00664_001.jpg" alt="Kodak Gold Plus 35mm film box inside" loading="lazy" width="277" height="500">
+</a>
+
 #### [1994] Kodak Ektachrome 100HC (ref: 3ab9)
 
 ```
@@ -5821,6 +5845,27 @@ UUID  : c56f944bf87d40dcac75cf41aeb82f8d
 
 <a href="./archive/00149_000.jpg" target="_blank">
 	<img src="./lowres/00149_000.jpg" alt="Kodak Gold 35mm film box outside" loading="lazy" width="396" height="500">
+</a>
+
+#### [1999] Konica Konica Color SR-G 160 (ref: 64c5)
+
+```
+Format: 120          |  Process : C-41    
+ISO   : 160          |  Expiry  : 1999-05 
+Type  : Single Pack  |  Quantity: N/A     
+Added : 2026-07-16   |  Author  : Chrisbes
+UUID  : 5f88d84525c440fc8879978b1b2864c5
+```
+
+<a href="./archive/00666_000.jpg" target="_blank">
+	<img src="./lowres/00666_000.jpg" alt="Konica Konica Color SR-G 160 120 film box outside" loading="lazy" width="500" height="431">
+</a>
+
+
+`UUID: d8b9395871644903b4e7251339cca0c8`↓
+
+<a href="./archive/00666_001.jpg" target="_blank">
+	<img src="./lowres/00666_001.jpg" alt="Konica Konica Color SR-G 160 120 film box inside" loading="lazy" width="500" height="471">
 </a>
 
 #### [1999] Kodak Ektachrome Slide Duplicating Film (ref: d53a)
@@ -11271,6 +11316,20 @@ UUID  : 89e114393f3d49808e0a572e88406cd2
 	<img src="./lowres/00493_000.jpg" alt="Candido Colour Negative Film 35mm film box outside" loading="lazy" width="435" height="500">
 </a>
 
+#### [2026] Fujifilm 200 (ref: 6286)
+
+```
+Format: 35mm         |  Process : C-41    
+ISO   : 200          |  Expiry  : 2026-10 
+Type  : Multi-Pack-3 |  Quantity: 36exp   
+Added : 2026-07-16   |  Author  : @gregrouxphotography
+UUID  : 86c7f4981b304bd18ebeeb7c43836286
+```
+
+<a href="./archive/00665_000.jpg" target="_blank">
+	<img src="./lowres/00665_000.jpg" alt="Fujifilm 200 35mm film box outside" loading="lazy" width="337" height="500">
+</a>
+
 #### [2026] Fujifilm Fujichrome Provia 100F (ref: df27)
 
 ```
@@ -13932,9 +13991,9 @@ Rank  Username                      Contributions
 16    Nano_Burger                   18    
 17    toader                        17    
 18    waldoboro                     16    
-19    yc128                         14    
-20    b0baspace                     14    
-21    Chrisbes                      14    
+19    Chrisbes                      16    
+20    yc128                         14    
+21    b0baspace                     14    
 22    @SirBrentsworth               13    
 23    benikum                       12    
 24    u/ReeeSchmidtyWerber          11    
@@ -13948,14 +14007,14 @@ Rank  Username                      Contributions
 32    nick                          6     
 33    Greg                          6     
 34    Kraksen                       5     
-35    Henry Gunn                    4     
-36    TheSelousScout                4     
-37    @sachynmital                  3     
-38    Tallbird Cowboy               3     
-39    robo-tobo                     3     
-40    @seklerek                     2     
-41    @ftfilmphotos                 2     
-42    @gregrouxphotography          2     
+35    @gregrouxphotography          5     
+36    Henry Gunn                    4     
+37    TheSelousScout                4     
+38    @sachynmital                  3     
+39    Tallbird Cowboy               3     
+40    robo-tobo                     3     
+41    @seklerek                     2     
+42    @ftfilmphotos                 2     
 43    Tobias                        2     
 44    @tylerdrey                    2     
 45    Yrikonchik                    1     
