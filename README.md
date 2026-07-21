@@ -29,9 +29,9 @@ This project is **fully open-source**. [`[GitHub Repo]`](https://github.com/deku
 ☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️
 
 ```
-Last Updated: Jul 16 2026
-Unique items: 662
-Total scans : 1231
+Last Updated: Jul 21 2026
+Unique items: 664
+Total scans : 1235
 ```
 
 Or Sort by...
@@ -61,8 +61,8 @@ Rank  Username                      Contributions
 6     @recycling.film               66    
 7     @Hol.m35                      62    
 8     nyctomanica                   57    
-9     Mauphoto                      28    
-10    Dialupdude                    27    
+9     Dialupdude                    30    
+10    Mauphoto                      28    
 11    The Compartmentalist          25    
 12    @ob.skura                     19    
 13    fine-seat                     19    
@@ -70,7 +70,7 @@ Rank  Username                      Contributions
 15    kaimon                        19    
 16    Nano_Burger                   18    
 17    toader                        17    
-18    waldoboro                     16    
+18    waldoboro                     17    
 19    Chrisbes                      16    
 20    yc128                         14    
 21    b0baspace                     14    
@@ -106,6 +106,10 @@ Rank  Username                      Contributions
 ## Recent Activities
 
 ```
+2026-07-21
+  - Dialupdude: 1Shot Fun Shooter Flash
+  - waldoboro: Kodak Ektacolor Pro 400
+
 2026-07-16
   - @gregrouxphotography: Fujifilm 200
   - @gregrouxphotography: Kodak Gold Plus
@@ -130,32 +134,6 @@ Rank  Username                      Contributions
   - Dialupdude: Kodak Gold III
   - Dialupdude: Konica VX 100 Super
   - Dialupdude: Mira Films 800 Color Film
-
-2026-06-24
-  - Dialupdude: Fujifilm Nexia A200
-  - Dialupdude: Fujifilm Simple Ace
-  - Dialupdude: Kodak Gold 200
-  - Dialupdude: Kodak Kodachrome 40
-  - Dialupdude: Kodak Tri-X
-  - Luci 101: ORWO UK 17
-  - Luci 101: ORWO UP 27 DS 8
-  - Mauphoto: Agfa CT Precisa
-  - Mauphoto: Agfa Vista Spider-Pack
-  - Mauphoto: Foma Fomapan Classic 100
-  - Mauphoto: Fujifilm Superia 100
-  - Mauphoto: Fujifilm Velvia 50
-  - Mauphoto: Ilford Pan F 50
-  - Mauphoto: Kodak Elite Chrome Extra Color
-  - Mauphoto: Kodak Kodacolor VR Plus 400
-  - Mauphoto: Kodak T-MAX 100
-  - Mauphoto: Kodak T-MAX 400
-  - Mauphoto: Konica Minolta Centuria 100
-  - Mauphoto: Lucky SHD 100
-  - Mauphoto: Lucky SHD 100 New Generation
-  - Mauphoto: Lucky Super New 200
-  - Mauphoto: Perutz CR 100
-  - Mauphoto: Polaroid High Definition
-  - Mauphoto: Schlecker Fotoland AS Color 200
 ```
 
 ## Disclaimer

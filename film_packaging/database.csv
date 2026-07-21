@@ -1230,3 +1230,7 @@ index,sub_index,item_type,brand,product,film_format,film_speed_iso,process,expir
 665,0,film_box_outside,Fujifilm,200,35mm,200,C-41,202610,1784198798,5bce97a246893e982d3079c8b2c00203,86c7f4981b304bd18ebeeb7c43836286,00665_000.jpg,@gregrouxphotography,,Multi-Pack-3,36exp
 666,0,film_box_outside,Konica,Konica Color SR-G 160,120,160,C-41,199905,1784199111,3d4499961e85cd99b47116e033e6b168,5f88d84525c440fc8879978b1b2864c5,00666_000.jpg,Chrisbes,,Single Pack,N/A
 666,1,film_box_inside,Konica,Konica Color SR-G 160,120,160,C-41,199905,1784199114,a4ce1bc93ba47032e84ea1639971988a,d8b9395871644903b4e7251339cca0c8,00666_001.jpg,Chrisbes,,Single Pack,N/A
+667,0,film_box_outside,Kodak,Ektacolor Pro 400,35mm,400,C-41,202807,1784637844,d84e832c058c5304b1c3e519058d1900,1b8269534ca14fac97e07722d3c8aa72,00667_000.jpg,waldoboro,,Single Pack,36exp
+668,0,film_box_outside,1Shot,Fun Shooter Flash,Disposable Camera,400,C-41,202508,1784637969,7195ce2fe9cdc9b691133ff37e816890,2711bf31703f431eb53fe9b536ea31aa,00668_000.jpg,Dialupdude,,Single Pack,27exp
+668,1,film_box_outside,1Shot,Fun Shooter Flash,Disposable Camera,400,C-41,202508,1784637972,57f1892db4af7167db39945b896523df,8944f67aa29643259d4be53ad960d2d7,00668_001.jpg,Dialupdude,,Single Pack,27exp
+668,2,film_box_outside,1Shot,Fun Shooter Flash,Disposable Camera,400,C-41,202508,1784637975,67eb912f1e2a4c875e139ce8f3d9509d,d79a0d36a13c4a01aa9d42a99784d9a1,00668_002.jpg,Dialupdude,,Single Pack,27exp
