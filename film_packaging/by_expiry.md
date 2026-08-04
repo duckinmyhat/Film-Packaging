@@ -16,8 +16,8 @@ Want to contribute? [Check out the guidelines!](../contribution_guide.md)
 
 ```
 Last Updated: Aug 04 2026
-Unique items: 674
-Total scans : 1249
+Unique items: 685
+Total scans : 1265
 ```
 
 -----
@@ -60,6 +60,7 @@ Total scans : 1249
 - [[1963] Perutz Peromnia 21 (ref: bf2a)](#1963-perutz-peromnia-21-ref-bf2a)
 - [[1963] Agfa Isopan ISS (ref: 75fa)](#1963-agfa-isopan-iss-ref-75fa)
 - [[1964] ADOX KB17 (ref: 2c95)](#1964-adox-kb17-ref-2c95)
+- [[1964] Kodak RS Pan (ref: 70d7)](#1964-kodak-rs-pan-ref-70d7)
 - [[1964] Perfect Photo Inc. Perfect-Pan Film (ref: c214)](#1964-perfect-photo-inc-perfect-pan-film-ref-c214)
 - [[1965] Ilford Selochrome (ref: f534)](#1965-ilford-selochrome-ref-f534)
 - [[1965] Kodak Kodachrome II (ref: 2caa)](#1965-kodak-kodachrome-ii-ref-2caa)
@@ -313,6 +314,7 @@ Total scans : 1249
 - [[2006] Polaroid 669 (ref: 3566)](#2006-polaroid-669-ref-3566)
 - [[2006] Polaroid High Definition (ref: ac7c)](#2006-polaroid-high-definition-ref-ac7c)
 - [[2006] Fujifilm Fujichrome Velvia 100F (ref: f7fb)](#2006-fujifilm-fujichrome-velvia-100f-ref-f7fb)
+- [[2006] Kodak Imagelink HQ Microfilm (ref: 5a0f)](#2006-kodak-imagelink-hq-microfilm-ref-5a0f)
 - [[2006] Rossmann Jahreszeiten Pack (ref: 7670)](#2006-rossmann-jahreszeiten-pack-ref-7670)
 - [[2006] Fujifilm Fujicolor Superia X-TRA 400 (ref: da37)](#2006-fujifilm-fujicolor-superia-x-tra-400-ref-da37)
 - [[2006] Max Spielmann Pro-Zoom MX 400 (ref: 38c5)](#2006-max-spielmann-pro-zoom-mx-400-ref-38c5)
@@ -356,6 +358,7 @@ Total scans : 1249
 - [[2008] Polaroid 669 (ref: 2e70)](#2008-polaroid-669-ref-2e70)
 - [[2008] Polaroid 990 (ref: e3bc)](#2008-polaroid-990-ref-e3bc)
 - [[2009] Fujifilm Fujicolor Pro 400H (ref: dc37)](#2009-fujifilm-fujicolor-pro-400h-ref-dc37)
+- [[2009] Kodak Portra 160 NC (ref: d52e)](#2009-kodak-portra-160-nc-ref-d52e)
 - [[2009] Polaroid 669 (ref: 2c27)](#2009-polaroid-669-ref-2c27)
 - [[2009] efke KB-25 (ref: 4d17)](#2009-efke-kb-25-ref-4d17)
 - [[2009] Kodak Kodacolor VR Plus 400 (ref: 5e5d)](#2009-kodak-kodacolor-vr-plus-400-ref-5e5d)
@@ -428,6 +431,9 @@ Total scans : 1249
 - [[2019] Polaroid Originals Color Spectra Film (ref: 7d0a)](#2019-polaroid-originals-color-spectra-film-ref-7d0a)
 - [[2019] Polaroid Originals B&W Spectra Film (ref: 7f24)](#2019-polaroid-originals-b-w-spectra-film-ref-7f24)
 - [[2019] One Instant Type 100 Peel-Apart Colorfilm (ref: ff2c)](#2019-one-instant-type-100-peel-apart-colorfilm-ref-ff2c)
+- [[2019] Polaroid Originals Color 600 Film (ref: 97cb)](#2019-polaroid-originals-color-600-film-ref-97cb)
+- [[2019] Polaroid Originals Color SX-70 Film (ref: 7238)](#2019-polaroid-originals-color-sx-70-film-ref-7238)
+- [[2019] Polaroid Originals Color i-Type Film (ref: 79a3)](#2019-polaroid-originals-color-i-type-film-ref-79a3)
 - [[2019] Fujifilm Fujicolor Natura 1600 (ref: c8ed)](#2019-fujifilm-fujicolor-natura-1600-ref-c8ed)
 - [[2019] Fujifilm Fujicolor Professional (ref: 02f7)](#2019-fujifilm-fujicolor-professional-ref-02f7)
 - [[2020] Fujifilm Fujicolor C200 (ref: 2ff8)](#2020-fujifilm-fujicolor-c200-ref-2ff8)
@@ -478,6 +484,7 @@ Total scans : 1249
 - [[2024] Reto Amber D400 (ref: 08ad)](#2024-reto-amber-d400-ref-08ad)
 - [[2025] JCH Streetpan (ref: 6e58)](#2025-jch-streetpan-ref-6e58)
 - [[2025] Foma Fomapan Classic 100 (ref: 1731)](#2025-foma-fomapan-classic-100-ref-1731)
+- [[2025] Fujifilm Instax Mini (ref: c9b1)](#2025-fujifilm-instax-mini-ref-c9b1)
 - [[2025] Polaroid Color SX-70 Film (ref: dc7f)](#2025-polaroid-color-sx-70-film-ref-dc7f)
 - [[2025] Ilford Delta 3200 Professional (ref: 920f)](#2025-ilford-delta-3200-professional-ref-920f)
 - [[2025] Kodak Portra 800 (ref: 7d65)](#2025-kodak-portra-800-ref-7d65)
@@ -496,6 +503,7 @@ Total scans : 1249
 - [[2025] SantaColor SantaColor (ref: cb58)](#2025-santacolor-santacolor-ref-cb58)
 - [[2025] SantaColor SantaColor (ref: f3a7)](#2025-santacolor-santacolor-ref-f3a7)
 - [[2025] Ilford HP5 Plus (ref: efad)](#2025-ilford-hp5-plus-ref-efad)
+- [[2025] Fujifilm Instax Mini Contact Sheet (ref: f0f7)](#2025-fujifilm-instax-mini-contact-sheet-ref-f0f7)
 - [[2025] Fujifilm Neopan Acros 100 II (ref: 9ea9)](#2025-fujifilm-neopan-acros-100-ii-ref-9ea9)
 - [[2025] GT Photo GT24 (ref: 92c2)](#2025-gt-photo-gt24-ref-92c2)
 - [[2025] Harman Phoenix (ref: 8eb4)](#2025-harman-phoenix-ref-8eb4)
@@ -503,6 +511,7 @@ Total scans : 1249
 - [[2025] Three Film Rolls 5207 (ref: 0292)](#2025-three-film-rolls-5207-ref-0292)
 - [[2026] Alien Film Aeronega (ref: d1c5)](#2026-alien-film-aeronega-ref-d1c5)
 - [[2026] Fujifilm Fujicolor Superia X-TRA (ref: 6b8a)](#2026-fujifilm-fujicolor-superia-x-tra-ref-6b8a)
+- [[2026] Fujifilm Instax Mini Macaron (ref: 7ae7)](#2026-fujifilm-instax-mini-macaron-ref-7ae7)
 - [[2026] Kodak Portra 160 (ref: 6b0a)](#2026-kodak-portra-160-ref-6b0a)
 - [[2026] Kodak UltraMax (ref: e3ba)](#2026-kodak-ultramax-ref-e3ba)
 - [[2026] Lomography Fantome (ref: 4340)](#2026-lomography-fantome-ref-4340)
@@ -610,6 +619,7 @@ Total scans : 1249
 - [[2027] Reflx Lab Pro 100 (ref: 1311)](#2027-reflx-lab-pro-100-ref-1311)
 - [[2027] Wolfen NP100 (ref: 71a6)](#2027-wolfen-np100-ref-71a6)
 - [[2028] Foma Fomapan Creative 200 (ref: 84a5)](#2028-foma-fomapan-creative-200-ref-84a5)
+- [[2028] Lomography Color Negative 120 Film 400 (ref: 7f5f)](#2028-lomography-color-negative-120-film-400-ref-7f5f)
 - [[2028] Rollei SUPERPAN 200 (ref: ee8f)](#2028-rollei-superpan-200-ref-ee8f)
 - [[2028] Kodak Gold 200 (ref: 7d4b)](#2028-kodak-gold-200-ref-7d4b)
 - [[2028] Kodak Kodacolor 200 (ref: ba30)](#2028-kodak-kodacolor-200-ref-ba30)
@@ -629,6 +639,7 @@ Total scans : 1249
 - [[2028] Harman Phoenix II (ref: 41d4)](#2028-harman-phoenix-ii-ref-41d4)
 - [[2028] Ilford HP5 Plus (ref: df49)](#2028-ilford-hp5-plus-ref-df49)
 - [[2028] Lomography Lomochrome Metropolis (ref: ec77)](#2028-lomography-lomochrome-metropolis-ref-ec77)
+- [[2028] Optik Oldschool OptiMono 100 (ref: 312c)](#2028-optik-oldschool-optimono-100-ref-312c)
 - [[2028] Kodak Ektacolor Pro 400 (ref: aa72)](#2028-kodak-ektacolor-pro-400-ref-aa72)
 - [[2028] Rollei RPX 400 (ref: 2155)](#2028-rollei-rpx-400-ref-2155)
 - [[2028] Ilford FP4 Plus (ref: 3bc0)](#2028-ilford-fp4-plus-ref-3bc0)
@@ -1413,6 +1424,20 @@ UUID  : 14047842e1a641268bfd4d01fcf02c95
 
 <a href="./archive/00065_001.jpg" target="_blank">
 	<img src="./lowres/00065_001.jpg" alt="ADOX KB17 35mm film box inside" loading="lazy" width="500" height="418">
+</a>
+
+#### [1964] Kodak RS Pan (ref: 70d7)
+
+```
+Format: 70mm         |  Process : BW      
+ISO   : 650          |  Expiry  : 1964-06 
+Type  : Bulk Roll    |  Quantity: 60ft    
+Added : 2026-08-04   |  Author  : MCB18   
+UUID  : d1ac939ca9074be8a403c2a5cc1570d7
+```
+
+<a href="./archive/00679_000.jpg" target="_blank">
+	<img src="./lowres/00679_000.jpg" alt="Kodak RS Pan 70mm film box outside" loading="lazy" width="478" height="500">
 </a>
 
 #### [1964] Perfect Photo Inc. Perfect-Pan Film (ref: c214)
@@ -7382,6 +7407,20 @@ UUID  : 0fef128c3b17437eb25d5c4f0520f7fb
 	<img src="./lowres/00023_000.jpg" alt="Fujifilm Fujichrome Velvia 100F 120 film box outside" loading="lazy" width="397" height="500">
 </a>
 
+#### [2006] Kodak Imagelink HQ Microfilm (ref: 5a0f)
+
+```
+Format: 35mm         |  Process : BW      
+ISO   : Unknown      |  Expiry  : 2006-05 
+Type  : Bulk Roll    |  Quantity: 100ft   
+Added : 2026-08-04   |  Author  : MCB18   
+UUID  : 81711b26bd3a44d7a5d7eb98207f5a0f
+```
+
+<a href="./archive/00681_000.jpg" target="_blank">
+	<img src="./lowres/00681_000.jpg" alt="Kodak Imagelink HQ Microfilm 35mm film box outside" loading="lazy" width="500" height="491">
+</a>
+
 #### [2006] Rossmann Jahreszeiten Pack (ref: 7670)
 
 ```
@@ -7965,6 +8004,20 @@ UUID  : 1a7ddb61af5a486d85577e89cf317dd1
 	<img src="./lowres/00608_000.jpg" alt="Polaroid 125i Gloss Instant Pack Film film box outside" loading="lazy" width="500" height="399">
 </a>
 
+
+`UUID: 1c1866395d4f4e15b072c977ca0bcb64`↓
+
+<a href="./archive/00608_001.jpg" target="_blank">
+	<img src="./lowres/00608_001.jpg" alt="Polaroid 125i Gloss Instant Pack Film film box leaflet" loading="lazy" width="143" height="500">
+</a>
+
+
+`UUID: a8d722a9a637412caf68e01c018e7320`↓
+
+<a href="./archive/00608_002.jpg" target="_blank">
+	<img src="./lowres/00608_002.jpg" alt="Polaroid 125i Gloss Instant Pack Film film box leaflet" loading="lazy" width="143" height="500">
+</a>
+
 #### [2008] Foma Fomapan Classic 100 (ref: 4eb6)
 
 ```
@@ -8173,6 +8226,20 @@ UUID  : 9934366ea7a04b65b3c300352fa8dc37
 
 <a href="./archive/00249_001.jpg" target="_blank">
 	<img src="./lowres/00249_001.jpg" alt="Fujifilm Fujicolor Pro 400H 35mm film box inside" loading="lazy" width="431" height="499">
+</a>
+
+#### [2009] Kodak Portra 160 NC (ref: d52e)
+
+```
+Format: 70mm         |  Process : C-41    
+ISO   : 160          |  Expiry  : 2009-01 
+Type  : Bulk Roll    |  Quantity: 100ft   
+Added : 2026-08-04   |  Author  : MCB18   
+UUID  : 6052675492004641b862ed8f7c99d52e
+```
+
+<a href="./archive/00680_000.jpg" target="_blank">
+	<img src="./lowres/00680_000.jpg" alt="Kodak Portra 160 NC 70mm film box outside" loading="lazy" width="500" height="427">
 </a>
 
 #### [2009] Polaroid 669 (ref: 2c27)
@@ -9444,6 +9511,69 @@ UUID  : 20749de9fbb140d88baffc08facbff2c
 	<img src="./lowres/00619_000.jpg" alt="One Instant Type 100 Peel-Apart Colorfilm Instant Pack Film film box outside" loading="lazy" width="500" height="442">
 </a>
 
+#### [2019] Polaroid Originals Color 600 Film (ref: 97cb)
+
+```
+Format: Instant Integral Film|  Process : Instant 
+ISO   : 640          |  Expiry  : 2019-10 
+Type  : Single Pack  |  Quantity: 8exp    
+Added : 2026-08-04   |  Author  : nyctomanica
+UUID  : 9edcedcc654b4e04bb4f2b65079597cb
+```
+
+<a href="./archive/00683_000.jpg" target="_blank">
+	<img src="./lowres/00683_000.jpg" alt="Polaroid Originals Color 600 Film Instant Integral Film film box outside" loading="lazy" width="245" height="500">
+</a>
+
+
+`UUID: 42a65f5e6e67475e85a143297ab4302f`↓
+
+<a href="./archive/00683_001.jpg" target="_blank">
+	<img src="./lowres/00683_001.jpg" alt="Polaroid Originals Color 600 Film Instant Integral Film film box inside" loading="lazy" width="245" height="500">
+</a>
+
+#### [2019] Polaroid Originals Color SX-70 Film (ref: 7238)
+
+```
+Format: Instant Integral Film|  Process : Instant 
+ISO   : 160          |  Expiry  : 2019-10 
+Type  : Single Pack  |  Quantity: 8exp    
+Added : 2026-08-04   |  Author  : nyctomanica
+UUID  : 9fd8da93b07c484baea216014e0e7238
+```
+
+<a href="./archive/00682_000.jpg" target="_blank">
+	<img src="./lowres/00682_000.jpg" alt="Polaroid Originals Color SX-70 Film Instant Integral Film film box outside" loading="lazy" width="245" height="500">
+</a>
+
+
+`UUID: 513a6fd17a134eeaa5399093d0f6f641`↓
+
+<a href="./archive/00682_001.jpg" target="_blank">
+	<img src="./lowres/00682_001.jpg" alt="Polaroid Originals Color SX-70 Film Instant Integral Film film box inside" loading="lazy" width="245" height="500">
+</a>
+
+#### [2019] Polaroid Originals Color i-Type Film (ref: 79a3)
+
+```
+Format: Instant Integral Film|  Process : Instant 
+ISO   : 640          |  Expiry  : 2019-10 
+Type  : Single Pack  |  Quantity: 8exp    
+Added : 2026-08-04   |  Author  : nyctomanica
+UUID  : e7e2198738634eaa91f172f160e679a3
+```
+
+<a href="./archive/00684_000.jpg" target="_blank">
+	<img src="./lowres/00684_000.jpg" alt="Polaroid Originals Color i-Type Film Instant Integral Film film box outside" loading="lazy" width="236" height="500">
+</a>
+
+
+`UUID: 2e98ef6cbf384bf88e7522000db35e07`↓
+
+<a href="./archive/00684_001.jpg" target="_blank">
+	<img src="./lowres/00684_001.jpg" alt="Polaroid Originals Color i-Type Film Instant Integral Film film box inside" loading="lazy" width="235" height="499">
+</a>
+
 #### [2019] Fujifilm Fujicolor Natura 1600 (ref: c8ed)
 
 ```
@@ -10291,6 +10421,20 @@ UUID  : 295bd5709b1e4dd88204bd2c67bd1731
 	<img src="./lowres/00317_001.jpg" alt="Foma Fomapan Classic 100 35mm film box inside" loading="lazy" width="403" height="500">
 </a>
 
+#### [2025] Fujifilm Instax Mini (ref: c9b1)
+
+```
+Format: Instant Integral Film|  Process : Instant 
+ISO   : 800          |  Expiry  : 2025-03 
+Type  : Multi-Pack-2 |  Quantity: 10exp   
+Added : 2026-08-04   |  Author  : @Hol.m35
+UUID  : a63f7025a5284603ad7a1c071311c9b1
+```
+
+<a href="./archive/00686_000.jpg" target="_blank">
+	<img src="./lowres/00686_000.jpg" alt="Fujifilm Instax Mini Instant Integral Film film box outside" loading="lazy" width="500" height="373">
+</a>
+
 #### [2025] Polaroid Color SX-70 Film (ref: dc7f)
 
 ```
@@ -10634,6 +10778,20 @@ UUID  : ddf9b76e633f43718144af7dcb89efad
 	<img src="./lowres/00016_001.jpg" alt="Ilford HP5 Plus 120 film box inside" loading="lazy" width="500" height="500">
 </a>
 
+#### [2025] Fujifilm Instax Mini Contact Sheet (ref: f0f7)
+
+```
+Format: Instant Integral Film|  Process : Instant 
+ISO   : 800          |  Expiry  : 2025-12 
+Type  : Single Pack  |  Quantity: 10exp   
+Added : 2026-08-04   |  Author  : @Hol.m35
+UUID  : 913f40168de04c539a616da939a0f0f7
+```
+
+<a href="./archive/00688_000.jpg" target="_blank">
+	<img src="./lowres/00688_000.jpg" alt="Fujifilm Instax Mini Contact Sheet Instant Integral Film film box outside" loading="lazy" width="500" height="421">
+</a>
+
 #### [2025] Fujifilm Neopan Acros 100 II (ref: 9ea9)
 
 ```
@@ -10737,6 +10895,20 @@ UUID  : 64b5e2e7f9a841d2a99c8f1bd8766b8a
 
 <a href="./archive/00165_000.jpg" target="_blank">
 	<img src="./lowres/00165_000.jpg" alt="Fujifilm Fujicolor Superia X-TRA 35mm film box outside" loading="lazy" width="460" height="499">
+</a>
+
+#### [2026] Fujifilm Instax Mini Macaron (ref: 7ae7)
+
+```
+Format: Instant Integral Film|  Process : Instant 
+ISO   : 800          |  Expiry  : 2026-01 
+Type  : Single Pack  |  Quantity: 10exp   
+Added : 2026-08-04   |  Author  : @Hol.m35
+UUID  : a871a78d1ad6479e8c1ed51f2e4b7ae7
+```
+
+<a href="./archive/00687_000.jpg" target="_blank">
+	<img src="./lowres/00687_000.jpg" alt="Fujifilm Instax Mini Macaron Instant Integral Film film box outside" loading="lazy" width="500" height="403">
 </a>
 
 #### [2026] Kodak Portra 160 (ref: 6b0a)
@@ -12609,6 +12781,20 @@ UUID  : c3d51159b481435b90dbe2411de784a5
 	<img src="./lowres/00092_001.jpg" alt="Foma Fomapan Creative 200 35mm film box inside" loading="lazy" width="417" height="500">
 </a>
 
+#### [2028] Lomography Color Negative 120 Film 400 (ref: 7f5f)
+
+```
+Format: 120          |  Process : C-41    
+ISO   : 400          |  Expiry  : 2028-01 
+Type  : Single Pack  |  Quantity: N/A     
+Added : 2026-08-04   |  Author  : @Hol.m35
+UUID  : 2ec124d60b12488db346643ed8d17f5f
+```
+
+<a href="./archive/00685_000.jpg" target="_blank">
+	<img src="./lowres/00685_000.jpg" alt="Lomography Color Negative 120 Film 400 120 film box outside" loading="lazy" width="500" height="311">
+</a>
+
 #### [2028] Rollei SUPERPAN 200 (ref: ee8f)
 
 ```
@@ -12953,6 +13139,20 @@ UUID  : 862c394687c644068ae4721a7c93ec77
 
 <a href="./archive/00670_000.jpg" target="_blank">
 	<img src="./lowres/00670_000.jpg" alt="Lomography Lomochrome Metropolis 110 film box outside" loading="lazy" width="364" height="500">
+</a>
+
+#### [2028] Optik Oldschool OptiMono 100 (ref: 312c)
+
+```
+Format: 35mm         |  Process : BW      
+ISO   : 100          |  Expiry  : 2028-06 
+Type  : Single Pack  |  Quantity: 36exp   
+Added : 2026-08-04   |  Author  : @Hol.m35
+UUID  : bba34206627f485b9a3119d4c2dd312c
+```
+
+<a href="./archive/00689_000.jpg" target="_blank">
+	<img src="./lowres/00689_000.jpg" alt="Optik Oldschool OptiMono 100 35mm film box outside" loading="lazy" width="484" height="500">
 </a>
 
 #### [2028] Kodak Ektacolor Pro 400 (ref: aa72)
@@ -14199,10 +14399,10 @@ Rank  Username                      Contributions
 2     Luci 101                      102   
 3     @photos.by.qi                 72    
 4     Pelicram                      71    
-5     @ellafridalindblom            67    
-6     @recycling.film               66    
-7     @Hol.m35                      62    
-8     nyctomanica                   57    
+5     @Hol.m35                      67    
+6     @ellafridalindblom            67    
+7     @recycling.film               66    
+8     nyctomanica                   65    
 9     Dialupdude                    30    
 10    Mauphoto                      28    
 11    The Compartmentalist          25    
@@ -14223,12 +14423,12 @@ Rank  Username                      Contributions
 26    minidiscus                    10    
 27    lilyu.xyz                     9     
 28    lt_col_tall                   9     
-29    @toastergod101                7     
-30    @filmfotofella                7     
-31    GreatGizmo74                  6     
-32    nick                          6     
-33    Greg                          6     
-34    MCB18                         6     
+29    MCB18                         9     
+30    @toastergod101                7     
+31    @filmfotofella                7     
+32    GreatGizmo74                  6     
+33    nick                          6     
+34    Greg                          6     
 35    Kraksen                       5     
 36    @gregrouxphotography          5     
 37    Tobias                        5     

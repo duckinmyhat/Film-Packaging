@@ -30,8 +30,8 @@ This project is **fully open-source**. [`[GitHub Repo]`](https://github.com/deku
 
 ```
 Last Updated: Aug 04 2026
-Unique items: 674
-Total scans : 1249
+Unique items: 685
+Total scans : 1265
 ```
 
 Or Sort by...
@@ -57,10 +57,10 @@ Rank  Username                      Contributions
 2     Luci 101                      102   
 3     @photos.by.qi                 72    
 4     Pelicram                      71    
-5     @ellafridalindblom            67    
-6     @recycling.film               66    
-7     @Hol.m35                      62    
-8     nyctomanica                   57    
+5     @Hol.m35                      67    
+6     @ellafridalindblom            67    
+7     @recycling.film               66    
+8     nyctomanica                   65    
 9     Dialupdude                    30    
 10    Mauphoto                      28    
 11    The Compartmentalist          25    
@@ -81,12 +81,12 @@ Rank  Username                      Contributions
 26    minidiscus                    10    
 27    lilyu.xyz                     9     
 28    lt_col_tall                   9     
-29    @toastergod101                7     
-30    @filmfotofella                7     
-31    GreatGizmo74                  6     
-32    nick                          6     
-33    Greg                          6     
-34    MCB18                         6     
+29    MCB18                         9     
+30    @toastergod101                7     
+31    @filmfotofella                7     
+32    GreatGizmo74                  6     
+33    nick                          6     
+34    Greg                          6     
 35    Kraksen                       5     
 36    @gregrouxphotography          5     
 37    Tobias                        5     
@@ -110,15 +110,27 @@ Rank  Username                      Contributions
 
 ```
 2026-08-04
+  - @Hol.m35: Fujifilm Instax Mini
+  - @Hol.m35: Fujifilm Instax Mini Contact Sheet
+  - @Hol.m35: Fujifilm Instax Mini Macaron
+  - @Hol.m35: Lomography Color Negative 120 Film 400
+  - @Hol.m35: Optik Oldschool OptiMono 100
   - Chrisbes: Lomography Lomochrome Metropolis
   - Chrisbes: Reflx Lab 200T
   - Chrisbes: Reflx Lab Fortuna
   - Joo: Ogapan Panchromatic
   - Luci 101: ORWO OWRO Color PC7
+  - MCB18: Kodak Imagelink HQ Microfilm
   - MCB18: Kodak Infrared Aerographic Film 2424
   - MCB18: Kodak Plus-X Pan
+  - MCB18: Kodak Portra 160 NC
   - MCB18: Kodak RAR Film 2479
+  - MCB18: Kodak RS Pan
   - MCB18: Kodak Technical Pan Film 2415
+  - nyctomanica: Polaroid 125i Gloss
+  - nyctomanica: Polaroid Originals Color 600 Film
+  - nyctomanica: Polaroid Originals Color i-Type Film
+  - nyctomanica: Polaroid Originals Color SX-70 Film
   - Rafa Laguillo: Kodak No3 Special Kodak Autographic Film
 
 2026-07-21

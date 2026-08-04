@@ -1119,6 +1119,8 @@ index,sub_index,item_type,brand,product,film_format,film_speed_iso,process,expir
 607,0,film_box_outside,Polaroid,669,Instant Pack Film,80,Instant,200903,1781784217,ae2201de6b3321b22fb080cd9e2af62b,20659b99ecfa48af97cdfca3d1dc2c27,00607_000.jpg,nyctomanica,,Single Pack,20exp
 607,1,film_box_inside,Polaroid,669,Instant Pack Film,80,Instant,200903,1781784219,707362cf3bc3bdc1810a0946d849e3d2,8a98a85e7a474b69bdcb6ab34cf07935,00607_001.jpg,nyctomanica,,Single Pack,20exp
 608,0,film_box_outside,Polaroid,125i Gloss,Instant Pack Film,125,Instant,200802,1781784280,8559c912932c11ad9006935ed3d876b2,1a7ddb61af5a486d85577e89cf317dd1,00608_000.jpg,nyctomanica,,Single Pack,22exp
+608,1,film_box_leaflet,Polaroid,125i Gloss,Instant Pack Film,125,Instant,200802,1785851588,cd88d580931533b201c64fc0c7206625,1c1866395d4f4e15b072c977ca0bcb64,00608_001.jpg,nyctomanica,,Single Pack,22exp
+608,2,film_box_leaflet,Polaroid,125i Gloss,Instant Pack Film,125,Instant,200802,1785851597,08e6955e61ca29a5a2d9952f7a8796f3,a8d722a9a637412caf68e01c018e7320,00608_002.jpg,nyctomanica,,Single Pack,22exp
 609,0,film_box_outside,Polaroid,664,Instant Pack Film,100,Instant,200910,1781784410,1448fbf5b7cb60e3615222d267a2241d,cb070eea20764039a6b29ad007c54c40,00609_000.jpg,nyctomanica,Also called Polapan Pro 100?,Single Pack,20exp
 610,0,film_box_outside,Impossible Project,Color 600,Instant Integral Film,640,Instant,201401,1781784476,ac2f87256e60a1eeccb3ca9539948bcf,9ee1d3c8eb704994866eb1c5c22855a1,00610_000.jpg,nyctomanica,,Single Pack,8exp
 611,0,film_box_outside,Impossible Project,Color 600,Instant Integral Film,640,Instant,201601,1781784519,10f17f6301292a148a5975cfad21684b,dfb73aa922ec405b8fd100ed1785b84c,00611_000.jpg,nyctomanica,,Single Pack,8exp
@@ -1248,3 +1250,17 @@ index,sub_index,item_type,brand,product,film_format,film_speed_iso,process,expir
 676,0,film_box_outside,Kodak,Infrared Aerographic Film 2424,70mm,400,BW,200608,1785850689,93deb1f3a4306d211bff30fec2ed3d87,9a2383f804754840938f77217718840c,00676_000.jpg,MCB18,,Bulk Roll,150ft
 677,0,film_box_outside,Kodak,Plus-X Pan,70mm,125,BW,197206,1785850774,cdd083cc63d28bab7147b2cdc51a3d26,dd83cce80c7f4a3888777d7446d59a4c,00677_000.jpg,MCB18,,Bulk Roll,100ft
 678,0,film_box_outside,Kodak,Technical Pan Film 2415,70mm,25,BW,198504,1785850813,2b561b710c58614014f2093f531eccbc,ea5df46bb39745879d81fd9c6eeb20de,00678_000.jpg,MCB18,,Bulk Roll,150ft
+679,0,film_box_outside,Kodak,RS Pan,70mm,650,BW,196406,1785850995,090e86d10bb12ff3a0d9bbf19d4a27b7,d1ac939ca9074be8a403c2a5cc1570d7,00679_000.jpg,MCB18,,Bulk Roll,60ft
+680,0,film_box_outside,Kodak,Portra 160 NC,70mm,160,C-41,200901,1785851067,148b317709cbdab56a5014cda056ba92,6052675492004641b862ed8f7c99d52e,00680_000.jpg,MCB18,,Bulk Roll,100ft
+681,0,film_box_outside,Kodak,Imagelink HQ Microfilm,35mm,Unknown,BW,200605,1785851154,f79cfe647caef2737f2b1cdd7a2b92e8,81711b26bd3a44d7a5d7eb98207f5a0f,00681_000.jpg,MCB18,,Bulk Roll,100ft
+682,0,film_box_outside,Polaroid Originals,Color SX-70 Film,Instant Integral Film,160,Instant,201910,1785851314,43c0a2cb4283999c3c3e01afd470c543,9fd8da93b07c484baea216014e0e7238,00682_000.jpg,nyctomanica,,Single Pack,8exp
+682,1,film_box_inside,Polaroid Originals,Color SX-70 Film,Instant Integral Film,160,Instant,201910,1785851316,ce47333359cb7d4391293cce152d26ec,513a6fd17a134eeaa5399093d0f6f641,00682_001.jpg,nyctomanica,,Single Pack,8exp
+683,0,film_box_outside,Polaroid Originals,Color 600 Film,Instant Integral Film,640,Instant,201910,1785851447,27cea6abc2af595ca935c107787aa796,9edcedcc654b4e04bb4f2b65079597cb,00683_000.jpg,nyctomanica,,Single Pack,8exp
+683,1,film_box_inside,Polaroid Originals,Color 600 Film,Instant Integral Film,640,Instant,201910,1785851449,6faf6656736ef5a29476721a0663949e,42a65f5e6e67475e85a143297ab4302f,00683_001.jpg,nyctomanica,,Single Pack,8exp
+684,0,film_box_outside,Polaroid Originals,Color i-Type Film,Instant Integral Film,640,Instant,201910,1785851522,e6ae5297b6a6e43e65eb14c85fa0045f,e7e2198738634eaa91f172f160e679a3,00684_000.jpg,nyctomanica,,Single Pack,8exp
+684,1,film_box_inside,Polaroid Originals,Color i-Type Film,Instant Integral Film,640,Instant,201910,1785851524,3f77849bfd258509344c963900d43051,2e98ef6cbf384bf88e7522000db35e07,00684_001.jpg,nyctomanica,,Single Pack,8exp
+685,0,film_box_outside,Lomography,Color Negative 120 Film 400,120,400,C-41,202801,1785851780,9e6628140f1d8a4277cf664d54a3a5db,2ec124d60b12488db346643ed8d17f5f,00685_000.jpg,@Hol.m35,,Single Pack,N/A
+686,0,film_box_outside,Fujifilm,Instax Mini,Instant Integral Film,800,Instant,202503,1785852066,8f135c767bbc90826efd8f47369fa3cd,a63f7025a5284603ad7a1c071311c9b1,00686_000.jpg,@Hol.m35,,Multi-Pack-2,10exp
+687,0,film_box_outside,Fujifilm,Instax Mini Macaron,Instant Integral Film,800,Instant,202601,1785852107,b9b198fa8b7d6748fb2dcbd2d529018d,a871a78d1ad6479e8c1ed51f2e4b7ae7,00687_000.jpg,@Hol.m35,,Single Pack,10exp
+688,0,film_box_outside,Fujifilm,Instax Mini Contact Sheet,Instant Integral Film,800,Instant,202512,1785852139,2faccdb6427e4ca01bc77d7c9745fa24,913f40168de04c539a616da939a0f0f7,00688_000.jpg,@Hol.m35,,Single Pack,10exp
+689,0,film_box_outside,Optik Oldschool,OptiMono 100,35mm,100,BW,202806,1785852177,aa807b00edc1887cea14b31fb91a8252,bba34206627f485b9a3119d4c2dd312c,00689_000.jpg,@Hol.m35,,Single Pack,36exp

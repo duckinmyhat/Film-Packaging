@@ -16,8 +16,8 @@ Want to contribute? [Check out the guidelines!](../contribution_guide.md)
 
 ```
 Last Updated: Aug 04 2026
-Unique items: 674
-Total scans : 1249
+Unique items: 685
+Total scans : 1265
 ```
 
 -----
@@ -213,7 +213,10 @@ Total scans : 1249
 - [Fujifilm Fujicolor Superia X-TRA (ref: 6b8a)](#fujifilm-fujicolor-superia-x-tra-ref-6b8a)
 - [Fujifilm Fujicolor Superia X-TRA 400 (ref: da37)](#fujifilm-fujicolor-superia-x-tra-400-ref-da37)
 - [Fujifilm Hi-Speed 1600 (ref: 8a6f)](#fujifilm-hi-speed-1600-ref-8a6f)
+- [Fujifilm Instax Mini (ref: c9b1)](#fujifilm-instax-mini-ref-c9b1)
 - [Fujifilm Instax Mini (ref: e5e7)](#fujifilm-instax-mini-ref-e5e7)
+- [Fujifilm Instax Mini Contact Sheet (ref: f0f7)](#fujifilm-instax-mini-contact-sheet-ref-f0f7)
+- [Fujifilm Instax Mini Macaron (ref: 7ae7)](#fujifilm-instax-mini-macaron-ref-7ae7)
 - [Fujifilm Instax Wide (ref: 51ce)](#fujifilm-instax-wide-ref-51ce)
 - [Fujifilm Instax Wide Monochrome (ref: 58d8)](#fujifilm-instax-wide-monochrome-ref-58d8)
 - [Fujifilm Neopan 400 (ref: c088)](#fujifilm-neopan-400-ref-c088)
@@ -397,6 +400,7 @@ Total scans : 1249
 - [Kodak High Speed Infrared (ref: 4294)](#kodak-high-speed-infrared-ref-4294)
 - [Kodak High Speed Infrared (ref: 883e)](#kodak-high-speed-infrared-ref-883e)
 - [Kodak High Speed Infrared Film 2481 (ref: aa7a)](#kodak-high-speed-infrared-film-2481-ref-aa7a)
+- [Kodak Imagelink HQ Microfilm (ref: 5a0f)](#kodak-imagelink-hq-microfilm-ref-5a0f)
 - [Kodak Infrared Aerographic Film 2424 (ref: 840c)](#kodak-infrared-aerographic-film-2424-ref-840c)
 - [Kodak Kodachrome (ref: e19e)](#kodak-kodachrome-ref-e19e)
 - [Kodak Kodachrome (ref: 3d0a)](#kodak-kodachrome-ref-3d0a)
@@ -441,6 +445,7 @@ Total scans : 1249
 - [Kodak Plus-X Pan (ref: 9a4c)](#kodak-plus-x-pan-ref-9a4c)
 - [Kodak Portra 160 (ref: ce56)](#kodak-portra-160-ref-ce56)
 - [Kodak Portra 160 (ref: 6b0a)](#kodak-portra-160-ref-6b0a)
+- [Kodak Portra 160 NC (ref: d52e)](#kodak-portra-160-nc-ref-d52e)
 - [Kodak Portra 400 (ref: cf9c)](#kodak-portra-400-ref-cf9c)
 - [Kodak Portra 400 (ref: f4af)](#kodak-portra-400-ref-f4af)
 - [Kodak Portra 400 (ref: 9f18)](#kodak-portra-400-ref-9f18)
@@ -456,6 +461,7 @@ Total scans : 1249
 - [Kodak ProImage 100 (ref: fe32)](#kodak-proimage-100-ref-fe32)
 - [Kodak Professional Microfilm Type I (ref: a444)](#kodak-professional-microfilm-type-i-ref-a444)
 - [Kodak RAR Film 2479 (ref: 63e7)](#kodak-rar-film-2479-ref-63e7)
+- [Kodak RS Pan (ref: 70d7)](#kodak-rs-pan-ref-70d7)
 - [Kodak Rapid Process Copy Film (ref: e66e)](#kodak-rapid-process-copy-film-ref-e66e)
 - [Kodak Sport Single Use Camera (ref: 4618)](#kodak-sport-single-use-camera-ref-4618)
 - [Kodak Super Speed Ortho Portrait (ref: b625)](#kodak-super-speed-ortho-portrait-ref-b625)
@@ -519,6 +525,7 @@ Total scans : 1249
 - [Lomography Berlin (ref: 246a)](#lomography-berlin-ref-246a)
 - [Lomography Berlin (ref: d3df)](#lomography-berlin-ref-d3df)
 - [Lomography Color Negative 120 Film 100 (ref: 42fc)](#lomography-color-negative-120-film-100-ref-42fc)
+- [Lomography Color Negative 120 Film 400 (ref: 7f5f)](#lomography-color-negative-120-film-400-ref-7f5f)
 - [Lomography Color Negative 800 (ref: 7796)](#lomography-color-negative-800-ref-7796)
 - [Lomography Color Negative Film (ref: d986)](#lomography-color-negative-film-ref-d986)
 - [Lomography Color Negative Film (ref: 1529)](#lomography-color-negative-film-ref-1529)
@@ -586,6 +593,7 @@ Total scans : 1249
 - [Optik Oldschool OptiColour 200 (ref: 3617)](#optik-oldschool-opticolour-200-ref-3617)
 - [Optik Oldschool OptiColour 200 (ref: 80d7)](#optik-oldschool-opticolour-200-ref-80d7)
 - [Optik Oldschool OptiColour 200 (ref: a7c9)](#optik-oldschool-opticolour-200-ref-a7c9)
+- [Optik Oldschool OptiMono 100 (ref: 312c)](#optik-oldschool-optimono-100-ref-312c)
 - [Optik Oldschool SantaColor (ref: dd85)](#optik-oldschool-santacolor-ref-dd85)
 - [Perfect Photo Inc. Perfect-Pan Film (ref: c214)](#perfect-photo-inc-perfect-pan-film-ref-c214)
 - [Perutz CR 100 (ref: b5df)](#perutz-cr-100-ref-b5df)
@@ -635,7 +643,10 @@ Total scans : 1249
 - [Polaroid TZ Artistic Fade to Black (ref: de21)](#polaroid-tz-artistic-fade-to-black-ref-de21)
 - [Polaroid Type 42 (ref: f92c)](#polaroid-type-42-ref-f92c)
 - [Polaroid Originals B&W Spectra Film (ref: 7f24)](#polaroid-originals-b-w-spectra-film-ref-7f24)
+- [Polaroid Originals Color 600 Film (ref: 97cb)](#polaroid-originals-color-600-film-ref-97cb)
+- [Polaroid Originals Color SX-70 Film (ref: 7238)](#polaroid-originals-color-sx-70-film-ref-7238)
 - [Polaroid Originals Color Spectra Film (ref: 7d0a)](#polaroid-originals-color-spectra-film-ref-7d0a)
+- [Polaroid Originals Color i-Type Film (ref: 79a3)](#polaroid-originals-color-i-type-film-ref-79a3)
 - [Porst Color N21 (ref: 494a)](#porst-color-n21-ref-494a)
 - [Premium Super XG (ref: 8ccd)](#premium-super-xg-ref-8ccd)
 - [PrinzColor Colour Negative Film (ref: 448c)](#prinzcolor-colour-negative-film-ref-448c)
@@ -4416,6 +4427,20 @@ UUID  : b25d00004e6f46699b06a4cf360f8a6f
 	<img src="./lowres/00525_001.jpg" alt="Fujifilm Hi-Speed 1600 Disposable Camera film box outside" loading="lazy" width="188" height="500">
 </a>
 
+#### Fujifilm Instax Mini (ref: c9b1)
+
+```
+Format: Instant Integral Film|  Process : Instant 
+ISO   : 800          |  Expiry  : 2025-03 
+Type  : Multi-Pack-2 |  Quantity: 10exp   
+Added : 2026-08-04   |  Author  : @Hol.m35
+UUID  : a63f7025a5284603ad7a1c071311c9b1
+```
+
+<a href="./archive/00686_000.jpg" target="_blank">
+	<img src="./lowres/00686_000.jpg" alt="Fujifilm Instax Mini Instant Integral Film film box outside" loading="lazy" width="500" height="373">
+</a>
+
 #### Fujifilm Instax Mini (ref: e5e7)
 
 ```
@@ -4428,6 +4453,34 @@ UUID  : b8ea314888b244f8ab8ace49c734e5e7
 
 <a href="./archive/00307_000.jpg" target="_blank">
 	<img src="./lowres/00307_000.jpg" alt="Fujifilm Instax Mini Instant Integral Film film box outside" loading="lazy" width="500" height="400">
+</a>
+
+#### Fujifilm Instax Mini Contact Sheet (ref: f0f7)
+
+```
+Format: Instant Integral Film|  Process : Instant 
+ISO   : 800          |  Expiry  : 2025-12 
+Type  : Single Pack  |  Quantity: 10exp   
+Added : 2026-08-04   |  Author  : @Hol.m35
+UUID  : 913f40168de04c539a616da939a0f0f7
+```
+
+<a href="./archive/00688_000.jpg" target="_blank">
+	<img src="./lowres/00688_000.jpg" alt="Fujifilm Instax Mini Contact Sheet Instant Integral Film film box outside" loading="lazy" width="500" height="421">
+</a>
+
+#### Fujifilm Instax Mini Macaron (ref: 7ae7)
+
+```
+Format: Instant Integral Film|  Process : Instant 
+ISO   : 800          |  Expiry  : 2026-01 
+Type  : Single Pack  |  Quantity: 10exp   
+Added : 2026-08-04   |  Author  : @Hol.m35
+UUID  : a871a78d1ad6479e8c1ed51f2e4b7ae7
+```
+
+<a href="./archive/00687_000.jpg" target="_blank">
+	<img src="./lowres/00687_000.jpg" alt="Fujifilm Instax Mini Macaron Instant Integral Film film box outside" loading="lazy" width="500" height="403">
 </a>
 
 #### Fujifilm Instax Wide (ref: 51ce)
@@ -8050,6 +8103,20 @@ UUID  : 6670d5214ea545e99bfb7aadb6d4aa7a
 	<img src="./lowres/00353_000.jpg" alt="Kodak High Speed Infrared Film 2481 35mm film box outside" loading="lazy" width="500" height="489">
 </a>
 
+#### Kodak Imagelink HQ Microfilm (ref: 5a0f)
+
+```
+Format: 35mm         |  Process : BW      
+ISO   : Unknown      |  Expiry  : 2006-05 
+Type  : Bulk Roll    |  Quantity: 100ft   
+Added : 2026-08-04   |  Author  : MCB18   
+UUID  : 81711b26bd3a44d7a5d7eb98207f5a0f
+```
+
+<a href="./archive/00681_000.jpg" target="_blank">
+	<img src="./lowres/00681_000.jpg" alt="Kodak Imagelink HQ Microfilm 35mm film box outside" loading="lazy" width="500" height="491">
+</a>
+
 #### Kodak Infrared Aerographic Film 2424 (ref: 840c)
 
 ```
@@ -8974,6 +9041,20 @@ UUID  : 404910cf04a14b8ab5116ec9c2f86b0a
 	<img src="./lowres/00345_000.jpg" alt="Kodak Portra 160 35mm film box outside" loading="lazy" width="500" height="361">
 </a>
 
+#### Kodak Portra 160 NC (ref: d52e)
+
+```
+Format: 70mm         |  Process : C-41    
+ISO   : 160          |  Expiry  : 2009-01 
+Type  : Bulk Roll    |  Quantity: 100ft   
+Added : 2026-08-04   |  Author  : MCB18   
+UUID  : 6052675492004641b862ed8f7c99d52e
+```
+
+<a href="./archive/00680_000.jpg" target="_blank">
+	<img src="./lowres/00680_000.jpg" alt="Kodak Portra 160 NC 70mm film box outside" loading="lazy" width="500" height="427">
+</a>
+
 #### Kodak Portra 400 (ref: cf9c)
 
 ```
@@ -9239,6 +9320,20 @@ UUID  : e09ac20993b946ad8fc2c588f84263e7
 
 <a href="./archive/00675_002.jpg" target="_blank">
 	<img src="./lowres/00675_002.jpg" alt="Kodak RAR Film 2479 70mm film box leaflet" loading="lazy" width="465" height="500">
+</a>
+
+#### Kodak RS Pan (ref: 70d7)
+
+```
+Format: 70mm         |  Process : BW      
+ISO   : 650          |  Expiry  : 1964-06 
+Type  : Bulk Roll    |  Quantity: 60ft    
+Added : 2026-08-04   |  Author  : MCB18   
+UUID  : d1ac939ca9074be8a403c2a5cc1570d7
+```
+
+<a href="./archive/00679_000.jpg" target="_blank">
+	<img src="./lowres/00679_000.jpg" alt="Kodak RS Pan 70mm film box outside" loading="lazy" width="478" height="500">
 </a>
 
 #### Kodak Rapid Process Copy Film (ref: e66e)
@@ -10417,6 +10512,20 @@ UUID  : 13977400bfd24db0bde214b6c6a342fc
 
 <a href="./archive/00654_001.jpg" target="_blank">
 	<img src="./lowres/00654_001.jpg" alt="Lomography Color Negative 120 Film 100 120 film box outside" loading="lazy" width="500" height="363">
+</a>
+
+#### Lomography Color Negative 120 Film 400 (ref: 7f5f)
+
+```
+Format: 120          |  Process : C-41    
+ISO   : 400          |  Expiry  : 2028-01 
+Type  : Single Pack  |  Quantity: N/A     
+Added : 2026-08-04   |  Author  : @Hol.m35
+UUID  : 2ec124d60b12488db346643ed8d17f5f
+```
+
+<a href="./archive/00685_000.jpg" target="_blank">
+	<img src="./lowres/00685_000.jpg" alt="Lomography Color Negative 120 Film 400 120 film box outside" loading="lazy" width="500" height="311">
 </a>
 
 #### Lomography Color Negative 800 (ref: 7796)
@@ -11977,6 +12086,20 @@ UUID  : 187943e086e842469a7f19ddd0f8a7c9
 	<img src="./lowres/00516_000.jpg" alt="Optik Oldschool OptiColour 200 35mm film box outside" loading="lazy" width="500" height="433">
 </a>
 
+#### Optik Oldschool OptiMono 100 (ref: 312c)
+
+```
+Format: 35mm         |  Process : BW      
+ISO   : 100          |  Expiry  : 2028-06 
+Type  : Single Pack  |  Quantity: 36exp   
+Added : 2026-08-04   |  Author  : @Hol.m35
+UUID  : bba34206627f485b9a3119d4c2dd312c
+```
+
+<a href="./archive/00689_000.jpg" target="_blank">
+	<img src="./lowres/00689_000.jpg" alt="Optik Oldschool OptiMono 100 35mm film box outside" loading="lazy" width="484" height="500">
+</a>
+
 #### Optik Oldschool SantaColor (ref: dd85)
 
 ```
@@ -12214,6 +12337,20 @@ UUID  : 1a7ddb61af5a486d85577e89cf317dd1
 
 <a href="./archive/00608_000.jpg" target="_blank">
 	<img src="./lowres/00608_000.jpg" alt="Polaroid 125i Gloss Instant Pack Film film box outside" loading="lazy" width="500" height="399">
+</a>
+
+
+`UUID: 1c1866395d4f4e15b072c977ca0bcb64`↓
+
+<a href="./archive/00608_001.jpg" target="_blank">
+	<img src="./lowres/00608_001.jpg" alt="Polaroid 125i Gloss Instant Pack Film film box leaflet" loading="lazy" width="143" height="500">
+</a>
+
+
+`UUID: a8d722a9a637412caf68e01c018e7320`↓
+
+<a href="./archive/00608_002.jpg" target="_blank">
+	<img src="./lowres/00608_002.jpg" alt="Polaroid 125i Gloss Instant Pack Film film box leaflet" loading="lazy" width="143" height="500">
 </a>
 
 #### Polaroid 664 (ref: 4c40)
@@ -13001,6 +13138,48 @@ UUID  : 109eaba178c64f64a473ccce42f77f24
 	<img src="./lowres/00624_001.jpg" alt="Polaroid Originals B&W Spectra Film Instant Integral Film film box outside" loading="lazy" width="500" height="470">
 </a>
 
+#### Polaroid Originals Color 600 Film (ref: 97cb)
+
+```
+Format: Instant Integral Film|  Process : Instant 
+ISO   : 640          |  Expiry  : 2019-10 
+Type  : Single Pack  |  Quantity: 8exp    
+Added : 2026-08-04   |  Author  : nyctomanica
+UUID  : 9edcedcc654b4e04bb4f2b65079597cb
+```
+
+<a href="./archive/00683_000.jpg" target="_blank">
+	<img src="./lowres/00683_000.jpg" alt="Polaroid Originals Color 600 Film Instant Integral Film film box outside" loading="lazy" width="245" height="500">
+</a>
+
+
+`UUID: 42a65f5e6e67475e85a143297ab4302f`↓
+
+<a href="./archive/00683_001.jpg" target="_blank">
+	<img src="./lowres/00683_001.jpg" alt="Polaroid Originals Color 600 Film Instant Integral Film film box inside" loading="lazy" width="245" height="500">
+</a>
+
+#### Polaroid Originals Color SX-70 Film (ref: 7238)
+
+```
+Format: Instant Integral Film|  Process : Instant 
+ISO   : 160          |  Expiry  : 2019-10 
+Type  : Single Pack  |  Quantity: 8exp    
+Added : 2026-08-04   |  Author  : nyctomanica
+UUID  : 9fd8da93b07c484baea216014e0e7238
+```
+
+<a href="./archive/00682_000.jpg" target="_blank">
+	<img src="./lowres/00682_000.jpg" alt="Polaroid Originals Color SX-70 Film Instant Integral Film film box outside" loading="lazy" width="245" height="500">
+</a>
+
+
+`UUID: 513a6fd17a134eeaa5399093d0f6f641`↓
+
+<a href="./archive/00682_001.jpg" target="_blank">
+	<img src="./lowres/00682_001.jpg" alt="Polaroid Originals Color SX-70 Film Instant Integral Film film box inside" loading="lazy" width="245" height="500">
+</a>
+
 #### Polaroid Originals Color Spectra Film (ref: 7d0a)
 
 ```
@@ -13027,6 +13206,27 @@ UUID  : 1761ed58b3bc423cb93dcf6fa3e77d0a
 
 <a href="./archive/00623_002.jpg" target="_blank">
 	<img src="./lowres/00623_002.jpg" alt="Polaroid Originals Color Spectra Film Instant Integral Film film box inside" loading="lazy" width="258" height="500">
+</a>
+
+#### Polaroid Originals Color i-Type Film (ref: 79a3)
+
+```
+Format: Instant Integral Film|  Process : Instant 
+ISO   : 640          |  Expiry  : 2019-10 
+Type  : Single Pack  |  Quantity: 8exp    
+Added : 2026-08-04   |  Author  : nyctomanica
+UUID  : e7e2198738634eaa91f172f160e679a3
+```
+
+<a href="./archive/00684_000.jpg" target="_blank">
+	<img src="./lowres/00684_000.jpg" alt="Polaroid Originals Color i-Type Film Instant Integral Film film box outside" loading="lazy" width="236" height="500">
+</a>
+
+
+`UUID: 2e98ef6cbf384bf88e7522000db35e07`↓
+
+<a href="./archive/00684_001.jpg" target="_blank">
+	<img src="./lowres/00684_001.jpg" alt="Polaroid Originals Color i-Type Film Instant Integral Film film box inside" loading="lazy" width="235" height="499">
 </a>
 
 #### Porst Color N21 (ref: 494a)
@@ -14199,10 +14399,10 @@ Rank  Username                      Contributions
 2     Luci 101                      102   
 3     @photos.by.qi                 72    
 4     Pelicram                      71    
-5     @ellafridalindblom            67    
-6     @recycling.film               66    
-7     @Hol.m35                      62    
-8     nyctomanica                   57    
+5     @Hol.m35                      67    
+6     @ellafridalindblom            67    
+7     @recycling.film               66    
+8     nyctomanica                   65    
 9     Dialupdude                    30    
 10    Mauphoto                      28    
 11    The Compartmentalist          25    
@@ -14223,12 +14423,12 @@ Rank  Username                      Contributions
 26    minidiscus                    10    
 27    lilyu.xyz                     9     
 28    lt_col_tall                   9     
-29    @toastergod101                7     
-30    @filmfotofella                7     
-31    GreatGizmo74                  6     
-32    nick                          6     
-33    Greg                          6     
-34    MCB18                         6     
+29    MCB18                         9     
+30    @toastergod101                7     
+31    @filmfotofella                7     
+32    GreatGizmo74                  6     
+33    nick                          6     
+34    Greg                          6     
 35    Kraksen                       5     
 36    @gregrouxphotography          5     
 37    Tobias                        5     
