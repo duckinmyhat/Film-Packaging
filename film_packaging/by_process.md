@@ -15,9 +15,9 @@ Want to contribute? [Check out the guidelines!](../contribution_guide.md)
 ☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️
 
 ```
-Last Updated: Jul 21 2026
-Unique items: 664
-Total scans : 1235
+Last Updated: Aug 04 2026
+Unique items: 674
+Total scans : 1249
 ```
 
 -----
@@ -146,7 +146,9 @@ Total scans : 1235
 - [[BW] Kodak High Speed Infrared (ref: 4294)](#bw-kodak-high-speed-infrared-ref-4294)
 - [[BW] Kodak High Speed Infrared (ref: 883e)](#bw-kodak-high-speed-infrared-ref-883e)
 - [[BW] Kodak High Speed Infrared Film 2481 (ref: aa7a)](#bw-kodak-high-speed-infrared-film-2481-ref-aa7a)
+- [[BW] Kodak Infrared Aerographic Film 2424 (ref: 840c)](#bw-kodak-infrared-aerographic-film-2424-ref-840c)
 - [[BW] Kodak Kodalith ortho film type 3 (ref: e5fd)](#bw-kodak-kodalith-ortho-film-type-3-ref-e5fd)
+- [[BW] Kodak No3 Special Kodak Autographic Film (ref: ac3c)](#bw-kodak-no3-special-kodak-autographic-film-ref-ac3c)
 - [[BW] Kodak Panatomic-X (ref: 7ed1)](#bw-kodak-panatomic-x-ref-7ed1)
 - [[BW] Kodak Panatomic-X (ref: 8d69)](#bw-kodak-panatomic-x-ref-8d69)
 - [[BW] Kodak Panatomic-X (ref: 35f6)](#bw-kodak-panatomic-x-ref-35f6)
@@ -155,7 +157,9 @@ Total scans : 1235
 - [[BW] Kodak Plus-X (ref: b867)](#bw-kodak-plus-x-ref-b867)
 - [[BW] Kodak Plus-X (ref: 7958)](#bw-kodak-plus-x-ref-7958)
 - [[BW] Kodak Plus-X Pan (ref: f5cc)](#bw-kodak-plus-x-pan-ref-f5cc)
+- [[BW] Kodak Plus-X Pan (ref: 9a4c)](#bw-kodak-plus-x-pan-ref-9a4c)
 - [[BW] Kodak Professional Microfilm Type I (ref: a444)](#bw-kodak-professional-microfilm-type-i-ref-a444)
+- [[BW] Kodak RAR Film 2479 (ref: 63e7)](#bw-kodak-rar-film-2479-ref-63e7)
 - [[BW] Kodak Rapid Process Copy Film (ref: e66e)](#bw-kodak-rapid-process-copy-film-ref-e66e)
 - [[BW] Kodak Super Speed Ortho Portrait (ref: b625)](#bw-kodak-super-speed-ortho-portrait-ref-b625)
 - [[BW] Kodak Super-XX (ref: 07c8)](#bw-kodak-super-xx-ref-07c8)
@@ -171,6 +175,7 @@ Total scans : 1235
 - [[BW] Kodak T-MAX P3200 (ref: e727)](#bw-kodak-t-max-p3200-ref-e727)
 - [[BW] Kodak Technical Pan (ref: f4cf)](#bw-kodak-technical-pan-ref-f4cf)
 - [[BW] Kodak Technical Pan 6415 (ref: 03be)](#bw-kodak-technical-pan-6415-ref-03be)
+- [[BW] Kodak Technical Pan Film 2415 (ref: 20de)](#bw-kodak-technical-pan-film-2415-ref-20de)
 - [[BW] Kodak Tri-X (ref: d9af)](#bw-kodak-tri-x-ref-d9af)
 - [[BW] Kodak Tri-X 400 (ref: 7145)](#bw-kodak-tri-x-400-ref-7145)
 - [[BW] Kodak Tri-X 400 (ref: 88c5)](#bw-kodak-tri-x-400-ref-88c5)
@@ -208,6 +213,7 @@ Total scans : 1235
 - [[BW] ORWO NP15 (ref: 9a20)](#bw-orwo-np15-ref-9a20)
 - [[BW] ORWO NP22 (ref: 5437)](#bw-orwo-np22-ref-5437)
 - [[BW] ORWO UK18 (ref: c92d)](#bw-orwo-uk18-ref-c92d)
+- [[BW] Ogapan Panchromatic (ref: a972)](#bw-ogapan-panchromatic-ref-a972)
 - [[BW] Perfect Photo Inc. Perfect-Pan Film (ref: c214)](#bw-perfect-photo-inc-perfect-pan-film-ref-c214)
 - [[BW] Perutz Peromnia 21 (ref: fa4a)](#bw-perutz-peromnia-21-ref-fa4a)
 - [[BW] Perutz Peromnia 21 (ref: bf2a)](#bw-perutz-peromnia-21-ref-bf2a)
@@ -460,6 +466,7 @@ Total scans : 1235
 - [[C-41] Lomography Lomochrome Color'92 (ref: 9fdb)](#c-41-lomography-lomochrome-color92-ref-9fdb)
 - [[C-41] Lomography Lomochrome Color’92 (ref: 0960)](#c-41-lomography-lomochrome-color-92-ref-0960)
 - [[C-41] Lomography Lomochrome Metropolis (ref: 5546)](#c-41-lomography-lomochrome-metropolis-ref-5546)
+- [[C-41] Lomography Lomochrome Metropolis (ref: ec77)](#c-41-lomography-lomochrome-metropolis-ref-ec77)
 - [[C-41] Lomography Lomochrome Purple (ref: 8b00)](#c-41-lomography-lomochrome-purple-ref-8b00)
 - [[C-41] Lomography Lomochrome Purple (ref: 068f)](#c-41-lomography-lomochrome-purple-ref-068f)
 - [[C-41] Lomography Lomochrome Turquoise (ref: 0d90)](#c-41-lomography-lomochrome-turquoise-ref-0d90)
@@ -494,6 +501,7 @@ Total scans : 1235
 - [[C-41] Reflx Lab 400D (ref: 5801)](#c-41-reflx-lab-400d-ref-5801)
 - [[C-41] Reflx Lab 640T AHU (ref: 2ce9)](#c-41-reflx-lab-640t-ahu-ref-2ce9)
 - [[C-41] Reflx Lab 800T (ref: 6b6b)](#c-41-reflx-lab-800t-ref-6b6b)
+- [[C-41] Reflx Lab Fortuna (ref: 56a5)](#c-41-reflx-lab-fortuna-ref-56a5)
 - [[C-41] Reflx Lab Pro 100 (ref: 8bec)](#c-41-reflx-lab-pro-100-ref-8bec)
 - [[C-41] Reflx Lab Pro 100 (ref: 1311)](#c-41-reflx-lab-pro-100-ref-1311)
 - [[C-41] Reto Amber D400 (ref: 08ad)](#c-41-reto-amber-d400-ref-08ad)
@@ -592,6 +600,7 @@ Total scans : 1235
 - [[ECN-2] Mutascan Kodak Vision3 500T/5219 (ref: 5150)](#ecn-2-mutascan-kodak-vision3-500t5219-ref-5150)
 - [[ECN-2] Optik Oldschool Motion 200T (ref: 0d90)](#ecn-2-optik-oldschool-motion-200t-ref-0d90)
 - [[ECN-2] Optik Oldschool Motion 500T (ref: bd42)](#ecn-2-optik-oldschool-motion-500t-ref-bd42)
+- [[ECN-2] Reflx Lab 200T (ref: d847)](#ecn-2-reflx-lab-200t-ref-d847)
 - [[ECN-2] Reflx Lab 250D (ref: 1a3e)](#ecn-2-reflx-lab-250d-ref-1a3e)
 - [[ECN-2] Three Film Rolls 5207 (ref: 0292)](#ecn-2-three-film-rolls-5207-ref-0292)
 - [[Instant] Fujifilm FP-100B (ref: f3dd)](#instant-fujifilm-fp-100b-ref-f3dd)
@@ -680,6 +689,7 @@ Total scans : 1235
 - [[Unknown] ORWO Chrom UT18 (ref: 81b7)](#unknown-orwo-chrom-ut18-ref-81b7)
 - [[Unknown] ORWO Chrom UT21 (ref: 3fd5)](#unknown-orwo-chrom-ut21-ref-3fd5)
 - [[Unknown] ORWO NC 19 (ref: dca5)](#unknown-orwo-nc-19-ref-dca5)
+- [[Unknown] ORWO OWRO Color PC7 (ref: 08f0)](#unknown-orwo-owro-color-pc7-ref-08f0)
 - [[Unknown] ORWO OrwoColor UT13 (ref: a05d)](#unknown-orwo-orwocolor-ut13-ref-a05d)
 - [[Unknown] ORWO UK 17 (ref: 19a0)](#unknown-orwo-uk-17-ref-19a0)
 - [[Unknown] ORWO UP 27 DS 8 (ref: 4d5a)](#unknown-orwo-up-27-ds-8-ref-4d5a)
@@ -3136,6 +3146,20 @@ UUID  : 6670d5214ea545e99bfb7aadb6d4aa7a
 	<img src="./lowres/00353_000.jpg" alt="Kodak High Speed Infrared Film 2481 35mm film box outside" loading="lazy" width="500" height="489">
 </a>
 
+#### [BW] Kodak Infrared Aerographic Film 2424 (ref: 840c)
+
+```
+Format: 70mm         |  Process : BW      
+ISO   : 400          |  Expiry  : 2006-08 
+Type  : Bulk Roll    |  Quantity: 150ft   
+Added : 2026-08-04   |  Author  : MCB18   
+UUID  : 9a2383f804754840938f77217718840c
+```
+
+<a href="./archive/00676_000.jpg" target="_blank">
+	<img src="./lowres/00676_000.jpg" alt="Kodak Infrared Aerographic Film 2424 70mm film box outside" loading="lazy" width="500" height="428">
+</a>
+
 #### [BW] Kodak Kodalith ortho film type 3 (ref: e5fd)
 
 ```
@@ -3148,6 +3172,27 @@ UUID  : da9c265a3e194bd1ad83549961c6e5fd
 
 <a href="./archive/00596_000.jpg" target="_blank">
 	<img src="./lowres/00596_000.jpg" alt="Kodak Kodalith ortho film type 3 35mm film box outside" loading="lazy" width="486" height="500">
+</a>
+
+#### [BW] Kodak No3 Special Kodak Autographic Film (ref: ac3c)
+
+```
+Format: 118          |  Process : BW      
+ISO   : Unknown      |  Expiry  : 1916-01 
+Type  : Single Pack  |  Quantity: 4exp    
+Added : 2026-08-04   |  Author  : Rafa Laguillo
+UUID  : 96dd905b730e446fbe34b5daef15ac3c
+```
+
+<a href="./archive/00674_000.jpg" target="_blank">
+	<img src="./lowres/00674_000.jpg" alt="Kodak No3 Special Kodak Autographic Film 118 film box outside" loading="lazy" width="500" height="378">
+</a>
+
+
+`UUID: dfd07954551f4d55bc38b73c137755bf`↓
+
+<a href="./archive/00674_001.jpg" target="_blank">
+	<img src="./lowres/00674_001.jpg" alt="Kodak No3 Special Kodak Autographic Film 118 film box leaflet" loading="lazy" width="208" height="500">
 </a>
 
 #### [BW] Kodak Panatomic-X (ref: 7ed1)
@@ -3290,6 +3335,20 @@ UUID  : 66f3d693560540d5b5a4cbfb3a91f5cc
 	<img src="./lowres/00271_000.jpg" alt="Kodak Plus-X Pan 35mm film box outside" loading="lazy" width="434" height="500">
 </a>
 
+#### [BW] Kodak Plus-X Pan (ref: 9a4c)
+
+```
+Format: 70mm         |  Process : BW      
+ISO   : 125          |  Expiry  : 1972-06 
+Type  : Bulk Roll    |  Quantity: 100ft   
+Added : 2026-08-04   |  Author  : MCB18   
+UUID  : dd83cce80c7f4a3888777d7446d59a4c
+```
+
+<a href="./archive/00677_000.jpg" target="_blank">
+	<img src="./lowres/00677_000.jpg" alt="Kodak Plus-X Pan 70mm film box outside" loading="lazy" width="500" height="429">
+</a>
+
 #### [BW] Kodak Professional Microfilm Type I (ref: a444)
 
 ```
@@ -3302,6 +3361,34 @@ UUID  : 90304019395a4c62bb9c6fe1cb2ba444
 
 <a href="./archive/00172_000.jpg" target="_blank">
 	<img src="./lowres/00172_000.jpg" alt="Kodak Professional Microfilm Type I 35mm film box outside" loading="lazy" width="493" height="500">
+</a>
+
+#### [BW] Kodak RAR Film 2479 (ref: 63e7)
+
+```
+Format: 70mm         |  Process : BW      
+ISO   : 400          |  Expiry  : 1987-05 
+Type  : Bulk Roll    |  Quantity: 30.5m   
+Added : 2026-08-04   |  Author  : MCB18   
+UUID  : e09ac20993b946ad8fc2c588f84263e7
+```
+
+<a href="./archive/00675_000.jpg" target="_blank">
+	<img src="./lowres/00675_000.jpg" alt="Kodak RAR Film 2479 70mm film box outside" loading="lazy" width="500" height="420">
+</a>
+
+
+`UUID: b1d13110d50c40d1ab22d5850144e5e2`↓
+
+<a href="./archive/00675_001.jpg" target="_blank">
+	<img src="./lowres/00675_001.jpg" alt="Kodak RAR Film 2479 70mm film box leaflet" loading="lazy" width="470" height="500">
+</a>
+
+
+`UUID: eb607dad18f842249d1c5fe6da85b5a8`↓
+
+<a href="./archive/00675_002.jpg" target="_blank">
+	<img src="./lowres/00675_002.jpg" alt="Kodak RAR Film 2479 70mm film box leaflet" loading="lazy" width="465" height="500">
 </a>
 
 #### [BW] Kodak Rapid Process Copy Film (ref: e66e)
@@ -3611,6 +3698,20 @@ UUID  : 3a03860d64d2400caee97955197703be
 
 <a href="./archive/00037_002.jpg" target="_blank">
 	<img src="./lowres/00037_002.jpg" alt="Kodak Technical Pan 6415 120 film box leaflet" loading="lazy" width="199" height="500">
+</a>
+
+#### [BW] Kodak Technical Pan Film 2415 (ref: 20de)
+
+```
+Format: 70mm         |  Process : BW      
+ISO   : 25           |  Expiry  : 1985-04 
+Type  : Bulk Roll    |  Quantity: 150ft   
+Added : 2026-08-04   |  Author  : MCB18   
+UUID  : ea5df46bb39745879d81fd9c6eeb20de
+```
+
+<a href="./archive/00678_000.jpg" target="_blank">
+	<img src="./lowres/00678_000.jpg" alt="Kodak Technical Pan Film 2415 70mm film box outside" loading="lazy" width="500" height="433">
 </a>
 
 #### [BW] Kodak Tri-X (ref: d9af)
@@ -4404,6 +4505,20 @@ UUID  : d3755977cc6f49dab6e0fc8197b3c92d
 
 <a href="./archive/00535_006.jpg" target="_blank">
 	<img src="./lowres/00535_006.jpg" alt="ORWO UK18 35mm film box leaflet" loading="lazy" width="213" height="499">
+</a>
+
+#### [BW] Ogapan Panchromatic (ref: a972)
+
+```
+Format: 120          |  Process : BW      
+ISO   : 40           |  Expiry  : 1975-10 
+Type  : Single Pack  |  Quantity: N/A     
+Added : 2026-08-04   |  Author  : Joo     
+UUID  : e1bcabfe74584823ac1e3c593244a972
+```
+
+<a href="./archive/00669_000.jpg" target="_blank">
+	<img src="./lowres/00669_000.jpg" alt="Ogapan Panchromatic 120 film box outside" loading="lazy" width="500" height="369">
 </a>
 
 #### [BW] Perfect Photo Inc. Perfect-Pan Film (ref: c214)
@@ -9004,6 +9119,20 @@ UUID  : eba9730505104dfd8c12254eeafd5546
 	<img src="./lowres/00236_001.jpg" alt="Lomography Lomochrome Metropolis 35mm film box inside" loading="lazy" width="500" height="448">
 </a>
 
+#### [C-41] Lomography Lomochrome Metropolis (ref: ec77)
+
+```
+Format: 110          |  Process : C-41    
+ISO   : 400          |  Expiry  : 2028-06 
+Type  : Single Pack  |  Quantity: 24exp   
+Added : 2026-08-04   |  Author  : Chrisbes
+UUID  : 862c394687c644068ae4721a7c93ec77
+```
+
+<a href="./archive/00670_000.jpg" target="_blank">
+	<img src="./lowres/00670_000.jpg" alt="Lomography Lomochrome Metropolis 110 film box outside" loading="lazy" width="364" height="500">
+</a>
+
 #### [C-41] Lomography Lomochrome Purple (ref: 8b00)
 
 ```
@@ -9591,6 +9720,20 @@ UUID  : 7b18320ad3d04332afde69a847606b6b
 
 <a href="./archive/00468_000.jpg" target="_blank">
 	<img src="./lowres/00468_000.jpg" alt="Reflx Lab 800T 35mm film box outside" loading="lazy" width="419" height="500">
+</a>
+
+#### [C-41] Reflx Lab Fortuna (ref: 56a5)
+
+```
+Format: 110          |  Process : C-41    
+ISO   : 200          |  Expiry  : 2028-12 
+Type  : Single Pack  |  Quantity: 24exp   
+Added : 2026-08-04   |  Author  : Chrisbes
+UUID  : bdd39fdcda30420cb3b0cfb12bbf56a5
+```
+
+<a href="./archive/00672_000.jpg" target="_blank">
+	<img src="./lowres/00672_000.jpg" alt="Reflx Lab Fortuna 110 film box outside" loading="lazy" width="500" height="390">
 </a>
 
 #### [C-41] Reflx Lab Pro 100 (ref: 8bec)
@@ -11542,6 +11685,20 @@ UUID  : f437c859b1564324968e289acecfbd42
 
 <a href="./archive/00569_000.jpg" target="_blank">
 	<img src="./lowres/00569_000.jpg" alt="Optik Oldschool Motion 500T 35mm film box outside" loading="lazy" width="500" height="401">
+</a>
+
+#### [ECN-2] Reflx Lab 200T (ref: d847)
+
+```
+Format: 120          |  Process : ECN-2   
+ISO   : 200          |  Expiry  : Unknown 
+Type  : Single Pack  |  Quantity: N/A     
+Added : 2026-08-04   |  Author  : Chrisbes
+UUID  : a7c0fcc9a1eb4a2a970df6cb14e2d847
+```
+
+<a href="./archive/00671_000.jpg" target="_blank">
+	<img src="./lowres/00671_000.jpg" alt="Reflx Lab 200T 120 film box outside" loading="lazy" width="249" height="500">
 </a>
 
 #### [ECN-2] Reflx Lab 250D (ref: 1a3e)
@@ -13720,6 +13877,27 @@ UUID  : a1dea49e29ae412596b2b691ac3bdca5
 	<img src="./lowres/00533_004.jpg" alt="ORWO NC 19 120 film box leaflet" loading="lazy" width="206" height="499">
 </a>
 
+#### [Unknown] ORWO OWRO Color PC7 (ref: 08f0)
+
+```
+Format: 35mm         |  Process : Unknown 
+ISO   : Unknown      |  Expiry  : Unknown 
+Type  : Bulk Roll    |  Quantity: 905ft   
+Added : 2026-08-04   |  Author  : Luci 101
+UUID  : 0bd454e6225a4c5799d36e51135208f0
+```
+
+<a href="./archive/00673_000.jpg" target="_blank">
+	<img src="./lowres/00673_000.jpg" alt="ORWO OWRO Color PC7 35mm film box outside" loading="lazy" width="477" height="499">
+</a>
+
+
+`UUID: 6ec554be94e845f2b64e3fdc27833293`↓
+
+<a href="./archive/00673_001.jpg" target="_blank">
+	<img src="./lowres/00673_001.jpg" alt="ORWO OWRO Color PC7 35mm film box outside" loading="lazy" width="500" height="485">
+</a>
+
 #### [Unknown] ORWO OrwoColor UT13 (ref: a05d)
 
 ```
@@ -14018,7 +14196,7 @@ Notes : Division of Film Corporation of America
 Rank  Username                      Contributions
 --------------------------------------------------
 1     dekuNukem                     339   
-2     Luci 101                      100   
+2     Luci 101                      102   
 3     @photos.by.qi                 72    
 4     Pelicram                      71    
 5     @ellafridalindblom            67    
@@ -14032,10 +14210,10 @@ Rank  Username                      Contributions
 13    fine-seat                     19    
 14    Camera.Riley                  19    
 15    kaimon                        19    
-16    Nano_Burger                   18    
-17    toader                        17    
-18    waldoboro                     17    
-19    Chrisbes                      16    
+16    Chrisbes                      19    
+17    Nano_Burger                   18    
+18    toader                        17    
+19    waldoboro                     17    
 20    yc128                         14    
 21    b0baspace                     14    
 22    @SirBrentsworth               13    
@@ -14050,21 +14228,24 @@ Rank  Username                      Contributions
 31    GreatGizmo74                  6     
 32    nick                          6     
 33    Greg                          6     
-34    Kraksen                       5     
-35    @gregrouxphotography          5     
-36    Tobias                        5     
-37    Henry Gunn                    4     
-38    TheSelousScout                4     
-39    @sachynmital                  3     
-40    Tallbird Cowboy               3     
-41    @seklerek                     2     
-42    @ftfilmphotos                 2     
-43    @tylerdrey                    2     
-44    Yrikonchik                    1     
-45    @ad.astra.per.aspera.1894     1     
-46    Aoi Yuki                      1     
-47    lemoniter                     1     
-48    @shotbyliampewpew             1     
+34    MCB18                         6     
+35    Kraksen                       5     
+36    @gregrouxphotography          5     
+37    Tobias                        5     
+38    Henry Gunn                    4     
+39    TheSelousScout                4     
+40    @sachynmital                  3     
+41    Tallbird Cowboy               3     
+42    @seklerek                     2     
+43    @ftfilmphotos                 2     
+44    @tylerdrey                    2     
+45    Rafa Laguillo                 2     
+46    Yrikonchik                    1     
+47    @ad.astra.per.aspera.1894     1     
+48    Aoi Yuki                      1     
+49    lemoniter                     1     
+50    @shotbyliampewpew             1     
+51    Joo                           1     
 ```
 
 ## Questions or Comments?

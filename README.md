@@ -29,9 +29,9 @@ This project is **fully open-source**. [`[GitHub Repo]`](https://github.com/deku
 ☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️
 
 ```
-Last Updated: Jul 21 2026
-Unique items: 664
-Total scans : 1235
+Last Updated: Aug 04 2026
+Unique items: 674
+Total scans : 1249
 ```
 
 Or Sort by...
@@ -54,7 +54,7 @@ Or Sort by...
 Rank  Username                      Contributions
 --------------------------------------------------
 1     dekuNukem                     339   
-2     Luci 101                      100   
+2     Luci 101                      102   
 3     @photos.by.qi                 72    
 4     Pelicram                      71    
 5     @ellafridalindblom            67    
@@ -68,10 +68,10 @@ Rank  Username                      Contributions
 13    fine-seat                     19    
 14    Camera.Riley                  19    
 15    kaimon                        19    
-16    Nano_Burger                   18    
-17    toader                        17    
-18    waldoboro                     17    
-19    Chrisbes                      16    
+16    Chrisbes                      19    
+17    Nano_Burger                   18    
+18    toader                        17    
+19    waldoboro                     17    
 20    yc128                         14    
 21    b0baspace                     14    
 22    @SirBrentsworth               13    
@@ -86,26 +86,41 @@ Rank  Username                      Contributions
 31    GreatGizmo74                  6     
 32    nick                          6     
 33    Greg                          6     
-34    Kraksen                       5     
-35    @gregrouxphotography          5     
-36    Tobias                        5     
-37    Henry Gunn                    4     
-38    TheSelousScout                4     
-39    @sachynmital                  3     
-40    Tallbird Cowboy               3     
-41    @seklerek                     2     
-42    @ftfilmphotos                 2     
-43    @tylerdrey                    2     
-44    Yrikonchik                    1     
-45    @ad.astra.per.aspera.1894     1     
-46    Aoi Yuki                      1     
-47    lemoniter                     1     
-48    @shotbyliampewpew             1     
+34    MCB18                         6     
+35    Kraksen                       5     
+36    @gregrouxphotography          5     
+37    Tobias                        5     
+38    Henry Gunn                    4     
+39    TheSelousScout                4     
+40    @sachynmital                  3     
+41    Tallbird Cowboy               3     
+42    @seklerek                     2     
+43    @ftfilmphotos                 2     
+44    @tylerdrey                    2     
+45    Rafa Laguillo                 2     
+46    Yrikonchik                    1     
+47    @ad.astra.per.aspera.1894     1     
+48    Aoi Yuki                      1     
+49    lemoniter                     1     
+50    @shotbyliampewpew             1     
+51    Joo                           1     
 ```
 
 ## Recent Activities
 
 ```
+2026-08-04
+  - Chrisbes: Lomography Lomochrome Metropolis
+  - Chrisbes: Reflx Lab 200T
+  - Chrisbes: Reflx Lab Fortuna
+  - Joo: Ogapan Panchromatic
+  - Luci 101: ORWO OWRO Color PC7
+  - MCB18: Kodak Infrared Aerographic Film 2424
+  - MCB18: Kodak Plus-X Pan
+  - MCB18: Kodak RAR Film 2479
+  - MCB18: Kodak Technical Pan Film 2415
+  - Rafa Laguillo: Kodak No3 Special Kodak Autographic Film
+
 2026-07-21
   - Dialupdude: 1Shot Fun Shooter Flash
   - waldoboro: Kodak Ektacolor Pro 400
@@ -127,13 +142,6 @@ Rank  Username                      Contributions
 2026-06-26
   - Pelicram: Cinemot Lisboa 1999
   - Pelicram: Fujifilm Fujicolor QuickSnap Jeans
-
-2026-06-25
-  - @Hol.m35: Lomography Color Negative 120 Film 100
-  - Dialupdude: Fujifilm 400 Speed Film
-  - Dialupdude: Kodak Gold III
-  - Dialupdude: Konica VX 100 Super
-  - Dialupdude: Mira Films 800 Color Film
 ```
 
 ## Disclaimer
