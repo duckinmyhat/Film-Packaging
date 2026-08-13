@@ -1264,3 +1264,11 @@ index,sub_index,item_type,brand,product,film_format,film_speed_iso,process,expir
 687,0,film_box_outside,Fujifilm,Instax Mini Macaron,Instant Integral Film,800,Instant,202601,1785852107,b9b198fa8b7d6748fb2dcbd2d529018d,a871a78d1ad6479e8c1ed51f2e4b7ae7,00687_000.jpg,@Hol.m35,,Single Pack,10exp
 688,0,film_box_outside,Fujifilm,Instax Mini Contact Sheet,Instant Integral Film,800,Instant,202512,1785852139,2faccdb6427e4ca01bc77d7c9745fa24,913f40168de04c539a616da939a0f0f7,00688_000.jpg,@Hol.m35,,Single Pack,10exp
 689,0,film_box_outside,Optik Oldschool,OptiMono 100,35mm,100,BW,202806,1785852177,aa807b00edc1887cea14b31fb91a8252,bba34206627f485b9a3119d4c2dd312c,00689_000.jpg,@Hol.m35,,Single Pack,36exp
+690,0,film_box_outside,Lucky,LuckyColor BR100,35mm,100,C-41,199512,1786617189,4c92314182e6737d1c63b453c0bda033,cd7927f99b904e108562dd8d7cb7a71c,00690_000.jpg,@janjuudas,,Single Pack,24exp
+690,1,film_box_leaflet,Lucky,LuckyColor BR100,35mm,100,C-41,199512,1786617191,814d243e5ad70d9eba2cf4a61580c4da,fce0cfdd0da64de8bb959da8b873361f,00690_001.jpg,@janjuudas,,Single Pack,24exp
+690,2,film_box_leaflet,Lucky,LuckyColor BR100,35mm,100,C-41,199512,1786617194,6f87ad5fcbf253a823fc2c33b1629948,52de88685d124b9f92ce453036122f49,00690_002.jpg,@janjuudas,,Single Pack,24exp
+691,0,film_box_outside,Konica,SXG 100,35mm,100,C-41,200510,1786617253,bc818bbb8ebd8e701ebd75a8f752f89f,20062d10b38a496d855defd42ce44096,00691_000.jpg,@janjuudas,,Single Pack,27exp
+691,1,film_box_inside,Konica,SXG 100,35mm,100,C-41,200510,1786617254,2a6adb308b7c8aa424d3162084bbf678,6c08ae5e1ce54c0a8387e3d4d2fb1c01,00691_001.jpg,@janjuudas,,Single Pack,27exp
+692,0,film_box_outside,Lumière Union Photographique Industrielle,Plaques au Gélatino-Bromure d'Argent Extra Rapides,9x12cm,Unknown,BW,Unknown,1786617832,363efa6c6884a427e19cd5557f4b9e04,bb45ef5b684b4606b02cc7f9fb16a44b,00692_000.jpg,Rafa Laguillo,,Single Pack,Unknown
+693,0,film_box_outside,Agfa,Plaques Chromo Isolar,Unknown,Unknown,BW,Unknown,1786618059,49adfebbd68d6b0b64b2c9e69826d819,69f7043994f94dffb90d512ed5bc2c8a,00693_000.jpg,Rafa Laguillo,,Single Pack,Unknown
+694,0,film_box_outside,Kodak,UltraMax,35mm,400,C-41,200808,1786618108,f25b7204534aabe6d9205c8aa95f325a,a6d5604fc4404666acf42801bbc8145b,00694_000.jpg,Rafa Laguillo,,Multi-Pack-3,36exp

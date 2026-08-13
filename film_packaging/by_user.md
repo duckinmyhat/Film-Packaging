@@ -15,9 +15,9 @@ Want to contribute? [Check out the guidelines!](../contribution_guide.md)
 ☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️
 
 ```
-Last Updated: Aug 04 2026
-Unique items: 685
-Total scans : 1265
+Last Updated: Aug 13 2026
+Unique items: 690
+Total scans : 1273
 ```
 
 -----
@@ -129,6 +129,8 @@ Total scans : 1265
 - [[@gregrouxphotography] Film Photography Project FPP 620 Black & White Panchromatic Negative Film (ref: 60ce)](#gregrouxphotography-film-photography-project-fpp-620-black-white-panchromatic-negative-film-ref-60ce)
 - [[@gregrouxphotography] Fujifilm 200 (ref: 6286)](#gregrouxphotography-fujifilm-200-ref-6286)
 - [[@gregrouxphotography] Kodak Gold Plus (ref: 114f)](#gregrouxphotography-kodak-gold-plus-ref-114f)
+- [[@janjuudas] Konica SXG 100 (ref: 4096)](#janjuudas-konica-sxg-100-ref-4096)
+- [[@janjuudas] Lucky LuckyColor BR100 (ref: a71c)](#janjuudas-lucky-luckycolor-br100-ref-a71c)
 - [[@ob.skura] Fujifilm Fujichrome Velvia (ref: 3182)](#obskura-fujifilm-fujichrome-velvia-ref-3182)
 - [[@ob.skura] Ilford Delta 100 Professional (ref: eb8d)](#obskura-ilford-delta-100-professional-ref-eb8d)
 - [[@ob.skura] Kodak Elite Chrome (ref: 523c)](#obskura-kodak-elite-chrome-ref-523c)
@@ -405,7 +407,10 @@ Total scans : 1265
 - [[Pelicram] SantaColor SantaColor (ref: f3a7)](#pelicram-santacolor-santacolor-ref-f3a7)
 - [[Pelicram] Svema Foto 400 (ref: 26ad)](#pelicram-svema-foto-400-ref-26ad)
 - [[Pelicram] Wolfen NP100 (ref: 71a6)](#pelicram-wolfen-np100-ref-71a6)
+- [[Rafa Laguillo] Agfa Plaques Chromo Isolar (ref: 2c8a)](#rafa-laguillo-agfa-plaques-chromo-isolar-ref-2c8a)
 - [[Rafa Laguillo] Kodak No3 Special Kodak Autographic Film (ref: ac3c)](#rafa-laguillo-kodak-no3-special-kodak-autographic-film-ref-ac3c)
+- [[Rafa Laguillo] Kodak UltraMax (ref: 145b)](#rafa-laguillo-kodak-ultramax-ref-145b)
+- [[Rafa Laguillo] Lumière Union Photographique Industrielle Plaques au Gélatino-Bromure d'Argent Extra Rapides (ref: a44b)](#rafa-laguillo-lumière-union-photographique-industrielle-plaques-au-gélatino-bromure-dargent-extra-rapides-ref-a44b)
 - [[Tallbird Cowboy] Kodak Kodachrome II (ref: 2caa)](#tallbird-cowboy-kodak-kodachrome-ii-ref-2caa)
 - [[The Compartmentalist] Agfa Agfapan Rapid (ref: 5e7b)](#the-compartmentalist-agfa-agfapan-rapid-ref-5e7b)
 - [[The Compartmentalist] Fujifilm Fujichrome Provia 100F (ref: df27)](#the-compartmentalist-fujifilm-fujichrome-provia-100f-ref-df27)
@@ -2597,6 +2602,55 @@ UUID  : 3bba5e916d5d4460a7c644296d22114f
 
 <a href="./archive/00664_001.jpg" target="_blank">
 	<img src="./lowres/00664_001.jpg" alt="Kodak Gold Plus 35mm film box inside" loading="lazy" width="277" height="500">
+</a>
+
+#### [@janjuudas] Konica SXG 100 (ref: 4096)
+
+```
+Format: 35mm         |  Process : C-41    
+ISO   : 100          |  Expiry  : 2005-10 
+Type  : Single Pack  |  Quantity: 27exp   
+Added : 2026-08-13   |  Author  : @janjuudas
+UUID  : 20062d10b38a496d855defd42ce44096
+```
+
+<a href="./archive/00691_000.jpg" target="_blank">
+	<img src="./lowres/00691_000.jpg" alt="Konica SXG 100 35mm film box outside" loading="lazy" width="398" height="500">
+</a>
+
+
+`UUID: 6c08ae5e1ce54c0a8387e3d4d2fb1c01`↓
+
+<a href="./archive/00691_001.jpg" target="_blank">
+	<img src="./lowres/00691_001.jpg" alt="Konica SXG 100 35mm film box inside" loading="lazy" width="402" height="499">
+</a>
+
+#### [@janjuudas] Lucky LuckyColor BR100 (ref: a71c)
+
+```
+Format: 35mm         |  Process : C-41    
+ISO   : 100          |  Expiry  : 1995-12 
+Type  : Single Pack  |  Quantity: 24exp   
+Added : 2026-08-13   |  Author  : @janjuudas
+UUID  : cd7927f99b904e108562dd8d7cb7a71c
+```
+
+<a href="./archive/00690_000.jpg" target="_blank">
+	<img src="./lowres/00690_000.jpg" alt="Lucky LuckyColor BR100 35mm film box outside" loading="lazy" width="421" height="500">
+</a>
+
+
+`UUID: fce0cfdd0da64de8bb959da8b873361f`↓
+
+<a href="./archive/00690_001.jpg" target="_blank">
+	<img src="./lowres/00690_001.jpg" alt="Lucky LuckyColor BR100 35mm film box leaflet" loading="lazy" width="337" height="500">
+</a>
+
+
+`UUID: 52de88685d124b9f92ce453036122f49`↓
+
+<a href="./archive/00690_002.jpg" target="_blank">
+	<img src="./lowres/00690_002.jpg" alt="Lucky LuckyColor BR100 35mm film box leaflet" loading="lazy" width="340" height="500">
 </a>
 
 #### [@ob.skura] Fujifilm Fujichrome Velvia (ref: 3182)
@@ -8039,6 +8093,20 @@ UUID  : 898148fa3a754866a407bbecec4a71a6
 	<img src="./lowres/00131_000.jpg" alt="Wolfen NP100 35mm film box outside" loading="lazy" width="500" height="455">
 </a>
 
+#### [Rafa Laguillo] Agfa Plaques Chromo Isolar (ref: 2c8a)
+
+```
+Format: Unknown      |  Process : BW      
+ISO   : Unknown      |  Expiry  : Unknown 
+Type  : Single Pack  |  Quantity: Unknown 
+Added : 2026-08-13   |  Author  : Rafa Laguillo
+UUID  : 69f7043994f94dffb90d512ed5bc2c8a
+```
+
+<a href="./archive/00693_000.jpg" target="_blank">
+	<img src="./lowres/00693_000.jpg" alt="Agfa Plaques Chromo Isolar Unknown film box outside" loading="lazy" width="500" height="386">
+</a>
+
 #### [Rafa Laguillo] Kodak No3 Special Kodak Autographic Film (ref: ac3c)
 
 ```
@@ -8058,6 +8126,34 @@ UUID  : 96dd905b730e446fbe34b5daef15ac3c
 
 <a href="./archive/00674_001.jpg" target="_blank">
 	<img src="./lowres/00674_001.jpg" alt="Kodak No3 Special Kodak Autographic Film 118 film box leaflet" loading="lazy" width="208" height="500">
+</a>
+
+#### [Rafa Laguillo] Kodak UltraMax (ref: 145b)
+
+```
+Format: 35mm         |  Process : C-41    
+ISO   : 400          |  Expiry  : 2008-08 
+Type  : Multi-Pack-3 |  Quantity: 36exp   
+Added : 2026-08-13   |  Author  : Rafa Laguillo
+UUID  : a6d5604fc4404666acf42801bbc8145b
+```
+
+<a href="./archive/00694_000.jpg" target="_blank">
+	<img src="./lowres/00694_000.jpg" alt="Kodak UltraMax 35mm film box outside" loading="lazy" width="346" height="500">
+</a>
+
+#### [Rafa Laguillo] Lumière Union Photographique Industrielle Plaques au Gélatino-Bromure d'Argent Extra Rapides (ref: a44b)
+
+```
+Format: 9x12cm       |  Process : BW      
+ISO   : Unknown      |  Expiry  : Unknown 
+Type  : Single Pack  |  Quantity: Unknown 
+Added : 2026-08-13   |  Author  : Rafa Laguillo
+UUID  : bb45ef5b684b4606b02cc7f9fb16a44b
+```
+
+<a href="./archive/00692_000.jpg" target="_blank">
+	<img src="./lowres/00692_000.jpg" alt="Lumière Union Photographique Industrielle Plaques au Gélatino-Bromure d'Argent Extra Rapides 9x12cm film box outside" loading="lazy" width="338" height="500">
 </a>
 
 #### [Tallbird Cowboy] Kodak Kodachrome II (ref: 2caa)
@@ -14432,20 +14528,21 @@ Rank  Username                      Contributions
 35    Kraksen                       5     
 36    @gregrouxphotography          5     
 37    Tobias                        5     
-38    Henry Gunn                    4     
-39    TheSelousScout                4     
-40    @sachynmital                  3     
-41    Tallbird Cowboy               3     
-42    @seklerek                     2     
-43    @ftfilmphotos                 2     
-44    @tylerdrey                    2     
-45    Rafa Laguillo                 2     
-46    Yrikonchik                    1     
-47    @ad.astra.per.aspera.1894     1     
-48    Aoi Yuki                      1     
-49    lemoniter                     1     
-50    @shotbyliampewpew             1     
-51    Joo                           1     
+38    Rafa Laguillo                 5     
+39    @janjuudas                    5     
+40    Henry Gunn                    4     
+41    TheSelousScout                4     
+42    @sachynmital                  3     
+43    Tallbird Cowboy               3     
+44    @seklerek                     2     
+45    @ftfilmphotos                 2     
+46    @tylerdrey                    2     
+47    Yrikonchik                    1     
+48    @ad.astra.per.aspera.1894     1     
+49    Aoi Yuki                      1     
+50    lemoniter                     1     
+51    @shotbyliampewpew             1     
+52    Joo                           1     
 ```
 
 ## Questions or Comments?

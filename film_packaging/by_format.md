@@ -15,9 +15,9 @@ Want to contribute? [Check out the guidelines!](../contribution_guide.md)
 ☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️
 
 ```
-Last Updated: Aug 04 2026
-Unique items: 685
-Total scans : 1265
+Last Updated: Aug 13 2026
+Unique items: 690
+Total scans : 1273
 ```
 
 -----
@@ -488,6 +488,7 @@ Total scans : 1265
 - [[35mm] Kodak Tri-X 400 (ref: cba7)](#35mm-kodak-tri-x-400-ref-cba7)
 - [[35mm] Kodak Tri-X Pan (ref: 85e9)](#35mm-kodak-tri-x-pan-ref-85e9)
 - [[35mm] Kodak Ultra (ref: 69a1)](#35mm-kodak-ultra-ref-69a1)
+- [[35mm] Kodak UltraMax (ref: 145b)](#35mm-kodak-ultramax-ref-145b)
 - [[35mm] Kodak UltraMax (ref: 3b23)](#35mm-kodak-ultramax-ref-3b23)
 - [[35mm] Kodak UltraMax (ref: 3c02)](#35mm-kodak-ultramax-ref-3c02)
 - [[35mm] Kodak UltraMax (ref: e3ba)](#35mm-kodak-ultramax-ref-e3ba)
@@ -499,6 +500,7 @@ Total scans : 1265
 - [[35mm] Konica Konica Color II (ref: fb5b)](#35mm-konica-konica-color-ii-ref-fb5b)
 - [[35mm] Konica KonicaColor VX 100 (ref: 8350)](#35mm-konica-konicacolor-vx-100-ref-8350)
 - [[35mm] Konica KonicaColor VX 200 (ref: fe53)](#35mm-konica-konicacolor-vx-200-ref-fe53)
+- [[35mm] Konica SXG 100 (ref: 4096)](#35mm-konica-sxg-100-ref-4096)
 - [[35mm] Konica VX 100 Super (ref: 90b4)](#35mm-konica-vx-100-super-ref-90b4)
 - [[35mm] Konica Minolta Centuria 100 (ref: 00ae)](#35mm-konica-minolta-centuria-100-ref-00ae)
 - [[35mm] Konica Minolta Commercial Color Film (ref: e903)](#35mm-konica-minolta-commercial-color-film-ref-e903)
@@ -518,6 +520,7 @@ Total scans : 1265
 - [[35mm] Lucky C200 (ref: f727)](#35mm-lucky-c200-ref-f727)
 - [[35mm] Lucky C200 (ref: 9c6c)](#35mm-lucky-c200-ref-9c6c)
 - [[35mm] Lucky C200 (ref: b0cc)](#35mm-lucky-c200-ref-b0cc)
+- [[35mm] Lucky LuckyColor BR100 (ref: a71c)](#35mm-lucky-luckycolor-br100-ref-a71c)
 - [[35mm] Lucky SHD 100 (ref: 7feb)](#35mm-lucky-shd-100-ref-7feb)
 - [[35mm] Lucky SHD 100 New Generation (ref: 23f6)](#35mm-lucky-shd-100-new-generation-ref-23f6)
 - [[35mm] Lucky Super New 200 (ref: e0a7)](#35mm-lucky-super-new-200-ref-e0a7)
@@ -634,6 +637,7 @@ Total scans : 1265
 - [[9x12cm] Agfa Extra Rapid Platten (ref: 7418)](#9x12cm-agfa-extra-rapid-platten-ref-7418)
 - [[9x12cm] Agfa Trockenplatten (ref: 0937)](#9x12cm-agfa-trockenplatten-ref-0937)
 - [[9x12cm] Agfa Trockenplatten (ref: 41a8)](#9x12cm-agfa-trockenplatten-ref-41a8)
+- [[9x12cm] Lumière Union Photographique Industrielle Plaques au Gélatino-Bromure d'Argent Extra Rapides (ref: a44b)](#9x12cm-lumière-union-photographique-industrielle-plaques-au-gélatino-bromure-dargent-extra-rapides-ref-a44b)
 - [[9x12cm] Perutz Superomnia (ref: c90d)](#9x12cm-perutz-superomnia-ref-c90d)
 - [[APS] Fujifilm Nexia A200 (ref: 43c0)](#aps-fujifilm-nexia-a200-ref-43c0)
 - [[APS] Jessops Diamond Everyday (ref: 67d3)](#aps-jessops-diamond-everyday-ref-67d3)
@@ -705,6 +709,7 @@ Total scans : 1265
 - [[Super 8] Kodak Ektachrome 160 Movie Film Type A (ref: 8f62)](#super-8-kodak-ektachrome-160-movie-film-type-a-ref-8f62)
 - [[Super 8] Kodak Kodachrome 40 (ref: 2a3e)](#super-8-kodak-kodachrome-40-ref-2a3e)
 - [[Super 8] Kodak Kodachrome 40 Movie Film (Type A) for Post-process Sound Striping (ref: c143)](#super-8-kodak-kodachrome-40-movie-film-type-a-for-post-process-sound-striping-ref-c143)
+- [[Unknown] Agfa Plaques Chromo Isolar (ref: 2c8a)](#unknown-agfa-plaques-chromo-isolar-ref-2c8a)
 - [[Unknown] Ilford HP3 (ref: ae35)](#unknown-ilford-hp3-ref-ae35)
 - [[Unknown] Northwest Custom Film Processing Ultra Minituature Film (ref: 70b1)](#unknown-northwest-custom-film-processing-ultra-minituature-film-ref-70b1)
 
@@ -9886,6 +9891,20 @@ UUID  : 77dfbdf80e3a4950b40c7ea8c1e369a1
 	<img src="./lowres/00043_000.jpg" alt="Kodak Ultra 35mm film box outside" loading="lazy" width="442" height="500">
 </a>
 
+#### [35mm] Kodak UltraMax (ref: 145b)
+
+```
+Format: 35mm         |  Process : C-41    
+ISO   : 400          |  Expiry  : 2008-08 
+Type  : Multi-Pack-3 |  Quantity: 36exp   
+Added : 2026-08-13   |  Author  : Rafa Laguillo
+UUID  : a6d5604fc4404666acf42801bbc8145b
+```
+
+<a href="./archive/00694_000.jpg" target="_blank">
+	<img src="./lowres/00694_000.jpg" alt="Kodak UltraMax 35mm film box outside" loading="lazy" width="346" height="500">
+</a>
+
 #### [35mm] Kodak UltraMax (ref: 3b23)
 
 ```
@@ -10066,6 +10085,27 @@ UUID  : dd3a6c347560484295ca09c86e3dfe53
 
 <a href="./archive/00138_001.jpg" target="_blank">
 	<img src="./lowres/00138_001.jpg" alt="Konica KonicaColor VX 200 35mm film box inside" loading="lazy" width="487" height="500">
+</a>
+
+#### [35mm] Konica SXG 100 (ref: 4096)
+
+```
+Format: 35mm         |  Process : C-41    
+ISO   : 100          |  Expiry  : 2005-10 
+Type  : Single Pack  |  Quantity: 27exp   
+Added : 2026-08-13   |  Author  : @janjuudas
+UUID  : 20062d10b38a496d855defd42ce44096
+```
+
+<a href="./archive/00691_000.jpg" target="_blank">
+	<img src="./lowres/00691_000.jpg" alt="Konica SXG 100 35mm film box outside" loading="lazy" width="398" height="500">
+</a>
+
+
+`UUID: 6c08ae5e1ce54c0a8387e3d4d2fb1c01`↓
+
+<a href="./archive/00691_001.jpg" target="_blank">
+	<img src="./lowres/00691_001.jpg" alt="Konica SXG 100 35mm film box inside" loading="lazy" width="402" height="499">
 </a>
 
 #### [35mm] Konica VX 100 Super (ref: 90b4)
@@ -10404,6 +10444,34 @@ UUID  : 417dc63303e24ed58b36a4fbe55ab0cc
 
 <a href="./archive/00550_001.jpg" target="_blank">
 	<img src="./lowres/00550_001.jpg" alt="Lucky C200 35mm film box inside" loading="lazy" width="316" height="500">
+</a>
+
+#### [35mm] Lucky LuckyColor BR100 (ref: a71c)
+
+```
+Format: 35mm         |  Process : C-41    
+ISO   : 100          |  Expiry  : 1995-12 
+Type  : Single Pack  |  Quantity: 24exp   
+Added : 2026-08-13   |  Author  : @janjuudas
+UUID  : cd7927f99b904e108562dd8d7cb7a71c
+```
+
+<a href="./archive/00690_000.jpg" target="_blank">
+	<img src="./lowres/00690_000.jpg" alt="Lucky LuckyColor BR100 35mm film box outside" loading="lazy" width="421" height="500">
+</a>
+
+
+`UUID: fce0cfdd0da64de8bb959da8b873361f`↓
+
+<a href="./archive/00690_001.jpg" target="_blank">
+	<img src="./lowres/00690_001.jpg" alt="Lucky LuckyColor BR100 35mm film box leaflet" loading="lazy" width="337" height="500">
+</a>
+
+
+`UUID: 52de88685d124b9f92ce453036122f49`↓
+
+<a href="./archive/00690_002.jpg" target="_blank">
+	<img src="./lowres/00690_002.jpg" alt="Lucky LuckyColor BR100 35mm film box leaflet" loading="lazy" width="340" height="500">
 </a>
 
 #### [35mm] Lucky SHD 100 (ref: 7feb)
@@ -12913,6 +12981,20 @@ UUID  : 80d64fa269454c5589109c68a40541a8
 	<img src="./lowres/00286_001.jpg" alt="Agfa Trockenplatten 9x12cm film box outside" loading="lazy" width="373" height="500">
 </a>
 
+#### [9x12cm] Lumière Union Photographique Industrielle Plaques au Gélatino-Bromure d'Argent Extra Rapides (ref: a44b)
+
+```
+Format: 9x12cm       |  Process : BW      
+ISO   : Unknown      |  Expiry  : Unknown 
+Type  : Single Pack  |  Quantity: Unknown 
+Added : 2026-08-13   |  Author  : Rafa Laguillo
+UUID  : bb45ef5b684b4606b02cc7f9fb16a44b
+```
+
+<a href="./archive/00692_000.jpg" target="_blank">
+	<img src="./lowres/00692_000.jpg" alt="Lumière Union Photographique Industrielle Plaques au Gélatino-Bromure d'Argent Extra Rapides 9x12cm film box outside" loading="lazy" width="338" height="500">
+</a>
+
 #### [9x12cm] Perutz Superomnia (ref: c90d)
 
 ```
@@ -14343,6 +14425,20 @@ UUID  : 4f8758001bd74040b9e5a4bc6506c143
 	<img src="./lowres/00381_005.jpg" alt="Kodak Kodachrome 40 Movie Film (Type A) for Post-process Sound Striping Super 8 film box processing envelope" loading="lazy" width="500" height="236">
 </a>
 
+#### [Unknown] Agfa Plaques Chromo Isolar (ref: 2c8a)
+
+```
+Format: Unknown      |  Process : BW      
+ISO   : Unknown      |  Expiry  : Unknown 
+Type  : Single Pack  |  Quantity: Unknown 
+Added : 2026-08-13   |  Author  : Rafa Laguillo
+UUID  : 69f7043994f94dffb90d512ed5bc2c8a
+```
+
+<a href="./archive/00693_000.jpg" target="_blank">
+	<img src="./lowres/00693_000.jpg" alt="Agfa Plaques Chromo Isolar Unknown film box outside" loading="lazy" width="500" height="386">
+</a>
+
 #### [Unknown] Ilford HP3 (ref: ae35)
 
 ```
@@ -14432,20 +14528,21 @@ Rank  Username                      Contributions
 35    Kraksen                       5     
 36    @gregrouxphotography          5     
 37    Tobias                        5     
-38    Henry Gunn                    4     
-39    TheSelousScout                4     
-40    @sachynmital                  3     
-41    Tallbird Cowboy               3     
-42    @seklerek                     2     
-43    @ftfilmphotos                 2     
-44    @tylerdrey                    2     
-45    Rafa Laguillo                 2     
-46    Yrikonchik                    1     
-47    @ad.astra.per.aspera.1894     1     
-48    Aoi Yuki                      1     
-49    lemoniter                     1     
-50    @shotbyliampewpew             1     
-51    Joo                           1     
+38    Rafa Laguillo                 5     
+39    @janjuudas                    5     
+40    Henry Gunn                    4     
+41    TheSelousScout                4     
+42    @sachynmital                  3     
+43    Tallbird Cowboy               3     
+44    @seklerek                     2     
+45    @ftfilmphotos                 2     
+46    @tylerdrey                    2     
+47    Yrikonchik                    1     
+48    @ad.astra.per.aspera.1894     1     
+49    Aoi Yuki                      1     
+50    lemoniter                     1     
+51    @shotbyliampewpew             1     
+52    Joo                           1     
 ```
 
 ## Questions or Comments?

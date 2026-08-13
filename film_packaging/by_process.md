@@ -15,9 +15,9 @@ Want to contribute? [Check out the guidelines!](../contribution_guide.md)
 ☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️
 
 ```
-Last Updated: Aug 04 2026
-Unique items: 685
-Total scans : 1265
+Last Updated: Aug 13 2026
+Unique items: 690
+Total scans : 1273
 ```
 
 -----
@@ -51,6 +51,7 @@ Total scans : 1265
 - [[BW] Agfa Isopan ISS Rapid (ref: 3aee)](#bw-agfa-isopan-iss-rapid-ref-3aee)
 - [[BW] Agfa Isopan Portrait (ref: b974)](#bw-agfa-isopan-portrait-ref-b974)
 - [[BW] Agfa Isopan Portrait (ref: 19b5)](#bw-agfa-isopan-portrait-ref-19b5)
+- [[BW] Agfa Plaques Chromo Isolar (ref: 2c8a)](#bw-agfa-plaques-chromo-isolar-ref-2c8a)
 - [[BW] Agfa Trockenplatten (ref: 0937)](#bw-agfa-trockenplatten-ref-0937)
 - [[BW] Agfa Trockenplatten (ref: 41a8)](#bw-agfa-trockenplatten-ref-41a8)
 - [[BW] Alien Film 5222/XX (ref: 3e49)](#bw-alien-film-5222xx-ref-3e49)
@@ -207,6 +208,7 @@ Total scans : 1265
 - [[BW] Lucky SHD 100 (ref: 7feb)](#bw-lucky-shd-100-ref-7feb)
 - [[BW] Lucky SHD 100 New Generation (ref: 23f6)](#bw-lucky-shd-100-new-generation-ref-23f6)
 - [[BW] Lucky SHD400 (ref: 15b5)](#bw-lucky-shd400-ref-15b5)
+- [[BW] Lumière Union Photographique Industrielle Plaques au Gélatino-Bromure d'Argent Extra Rapides (ref: a44b)](#bw-lumière-union-photographique-industrielle-plaques-au-gélatino-bromure-dargent-extra-rapides-ref-a44b)
 - [[BW] Mr. Negative Black Cat (ref: cc7d)](#bw-mr-negative-black-cat-ref-cc7d)
 - [[BW] ORWO DK5 (ref: e815)](#bw-orwo-dk5-ref-e815)
 - [[BW] ORWO DK5 (ref: a2dd)](#bw-orwo-dk5-ref-a2dd)
@@ -441,6 +443,7 @@ Total scans : 1265
 - [[C-41] Kodak Sport Single Use Camera (ref: 4618)](#c-41-kodak-sport-single-use-camera-ref-4618)
 - [[C-41] Kodak Ultra (ref: 69a1)](#c-41-kodak-ultra-ref-69a1)
 - [[C-41] Kodak Ultra (ref: 5701)](#c-41-kodak-ultra-ref-5701)
+- [[C-41] Kodak UltraMax (ref: 145b)](#c-41-kodak-ultramax-ref-145b)
 - [[C-41] Kodak UltraMax (ref: 3b23)](#c-41-kodak-ultramax-ref-3b23)
 - [[C-41] Kodak UltraMax (ref: 3c02)](#c-41-kodak-ultramax-ref-3c02)
 - [[C-41] Kodak UltraMax (ref: e3ba)](#c-41-kodak-ultramax-ref-e3ba)
@@ -455,6 +458,7 @@ Total scans : 1265
 - [[C-41] Konica Konica Color SR-G 160 (ref: 64c5)](#c-41-konica-konica-color-sr-g-160-ref-64c5)
 - [[C-41] Konica KonicaColor VX 100 (ref: 8350)](#c-41-konica-konicacolor-vx-100-ref-8350)
 - [[C-41] Konica KonicaColor VX 200 (ref: fe53)](#c-41-konica-konicacolor-vx-200-ref-fe53)
+- [[C-41] Konica SXG 100 (ref: 4096)](#c-41-konica-sxg-100-ref-4096)
 - [[C-41] Konica Sepia Professional (ref: 0b40)](#c-41-konica-sepia-professional-ref-0b40)
 - [[C-41] Konica VX 100 Super (ref: 90b4)](#c-41-konica-vx-100-super-ref-90b4)
 - [[C-41] Konica Minolta Commercial Color Film (ref: e903)](#c-41-konica-minolta-commercial-color-film-ref-e903)
@@ -481,6 +485,7 @@ Total scans : 1265
 - [[C-41] Lucky C200 (ref: e6f8)](#c-41-lucky-c200-ref-e6f8)
 - [[C-41] Lucky C200 (ref: 9c6c)](#c-41-lucky-c200-ref-9c6c)
 - [[C-41] Lucky C200 (ref: b0cc)](#c-41-lucky-c200-ref-b0cc)
+- [[C-41] Lucky LuckyColor BR100 (ref: a71c)](#c-41-lucky-luckycolor-br100-ref-a71c)
 - [[C-41] Lucky Super New 200 (ref: e0a7)](#c-41-lucky-super-new-200-ref-e0a7)
 - [[C-41] Marix Professional Negative Movie Color Film (ref: c457)](#c-41-marix-professional-negative-movie-color-film-ref-c457)
 - [[C-41] Max Spielmann Maxi Color (ref: bf60)](#c-41-max-spielmann-maxi-color-ref-bf60)
@@ -1262,6 +1267,20 @@ UUID  : 08e940883895476d8de94bc5137419b5
 
 <a href="./archive/00456_000.jpg" target="_blank">
 	<img src="./lowres/00456_000.jpg" alt="Agfa Isopan Portrait 12x16.5cm film box outside" loading="lazy" width="500" height="365">
+</a>
+
+#### [BW] Agfa Plaques Chromo Isolar (ref: 2c8a)
+
+```
+Format: Unknown      |  Process : BW      
+ISO   : Unknown      |  Expiry  : Unknown 
+Type  : Single Pack  |  Quantity: Unknown 
+Added : 2026-08-13   |  Author  : Rafa Laguillo
+UUID  : 69f7043994f94dffb90d512ed5bc2c8a
+```
+
+<a href="./archive/00693_000.jpg" target="_blank">
+	<img src="./lowres/00693_000.jpg" alt="Agfa Plaques Chromo Isolar Unknown film box outside" loading="lazy" width="500" height="386">
 </a>
 
 #### [BW] Agfa Trockenplatten (ref: 0937)
@@ -4292,6 +4311,20 @@ UUID  : 0fbc7c70fa9c46f3bf4365afed4015b5
 
 <a href="./archive/00474_001.jpg" target="_blank">
 	<img src="./lowres/00474_001.jpg" alt="Lucky SHD400 120 film box inside" loading="lazy" width="456" height="500">
+</a>
+
+#### [BW] Lumière Union Photographique Industrielle Plaques au Gélatino-Bromure d'Argent Extra Rapides (ref: a44b)
+
+```
+Format: 9x12cm       |  Process : BW      
+ISO   : Unknown      |  Expiry  : Unknown 
+Type  : Single Pack  |  Quantity: Unknown 
+Added : 2026-08-13   |  Author  : Rafa Laguillo
+UUID  : bb45ef5b684b4606b02cc7f9fb16a44b
+```
+
+<a href="./archive/00692_000.jpg" target="_blank">
+	<img src="./lowres/00692_000.jpg" alt="Lumière Union Photographique Industrielle Plaques au Gélatino-Bromure d'Argent Extra Rapides 9x12cm film box outside" loading="lazy" width="338" height="500">
 </a>
 
 #### [BW] Mr. Negative Black Cat (ref: cc7d)
@@ -8647,6 +8680,20 @@ UUID  : d01783be3b70456095411ca387865701
 	<img src="./lowres/00333_000.jpg" alt="Kodak Ultra 110 film box outside" loading="lazy" width="296" height="500">
 </a>
 
+#### [C-41] Kodak UltraMax (ref: 145b)
+
+```
+Format: 35mm         |  Process : C-41    
+ISO   : 400          |  Expiry  : 2008-08 
+Type  : Multi-Pack-3 |  Quantity: 36exp   
+Added : 2026-08-13   |  Author  : Rafa Laguillo
+UUID  : a6d5604fc4404666acf42801bbc8145b
+```
+
+<a href="./archive/00694_000.jpg" target="_blank">
+	<img src="./lowres/00694_000.jpg" alt="Kodak UltraMax 35mm film box outside" loading="lazy" width="346" height="500">
+</a>
+
 #### [C-41] Kodak UltraMax (ref: 3b23)
 
 ```
@@ -8918,6 +8965,27 @@ UUID  : dd3a6c347560484295ca09c86e3dfe53
 
 <a href="./archive/00138_001.jpg" target="_blank">
 	<img src="./lowres/00138_001.jpg" alt="Konica KonicaColor VX 200 35mm film box inside" loading="lazy" width="487" height="500">
+</a>
+
+#### [C-41] Konica SXG 100 (ref: 4096)
+
+```
+Format: 35mm         |  Process : C-41    
+ISO   : 100          |  Expiry  : 2005-10 
+Type  : Single Pack  |  Quantity: 27exp   
+Added : 2026-08-13   |  Author  : @janjuudas
+UUID  : 20062d10b38a496d855defd42ce44096
+```
+
+<a href="./archive/00691_000.jpg" target="_blank">
+	<img src="./lowres/00691_000.jpg" alt="Konica SXG 100 35mm film box outside" loading="lazy" width="398" height="500">
+</a>
+
+
+`UUID: 6c08ae5e1ce54c0a8387e3d4d2fb1c01`↓
+
+<a href="./archive/00691_001.jpg" target="_blank">
+	<img src="./lowres/00691_001.jpg" alt="Konica SXG 100 35mm film box inside" loading="lazy" width="402" height="499">
 </a>
 
 #### [C-41] Konica Sepia Professional (ref: 0b40)
@@ -9394,6 +9462,34 @@ UUID  : 417dc63303e24ed58b36a4fbe55ab0cc
 
 <a href="./archive/00550_001.jpg" target="_blank">
 	<img src="./lowres/00550_001.jpg" alt="Lucky C200 35mm film box inside" loading="lazy" width="316" height="500">
+</a>
+
+#### [C-41] Lucky LuckyColor BR100 (ref: a71c)
+
+```
+Format: 35mm         |  Process : C-41    
+ISO   : 100          |  Expiry  : 1995-12 
+Type  : Single Pack  |  Quantity: 24exp   
+Added : 2026-08-13   |  Author  : @janjuudas
+UUID  : cd7927f99b904e108562dd8d7cb7a71c
+```
+
+<a href="./archive/00690_000.jpg" target="_blank">
+	<img src="./lowres/00690_000.jpg" alt="Lucky LuckyColor BR100 35mm film box outside" loading="lazy" width="421" height="500">
+</a>
+
+
+`UUID: fce0cfdd0da64de8bb959da8b873361f`↓
+
+<a href="./archive/00690_001.jpg" target="_blank">
+	<img src="./lowres/00690_001.jpg" alt="Lucky LuckyColor BR100 35mm film box leaflet" loading="lazy" width="337" height="500">
+</a>
+
+
+`UUID: 52de88685d124b9f92ce453036122f49`↓
+
+<a href="./archive/00690_002.jpg" target="_blank">
+	<img src="./lowres/00690_002.jpg" alt="Lucky LuckyColor BR100 35mm film box leaflet" loading="lazy" width="340" height="500">
 </a>
 
 #### [C-41] Lucky Super New 200 (ref: e0a7)
@@ -14432,20 +14528,21 @@ Rank  Username                      Contributions
 35    Kraksen                       5     
 36    @gregrouxphotography          5     
 37    Tobias                        5     
-38    Henry Gunn                    4     
-39    TheSelousScout                4     
-40    @sachynmital                  3     
-41    Tallbird Cowboy               3     
-42    @seklerek                     2     
-43    @ftfilmphotos                 2     
-44    @tylerdrey                    2     
-45    Rafa Laguillo                 2     
-46    Yrikonchik                    1     
-47    @ad.astra.per.aspera.1894     1     
-48    Aoi Yuki                      1     
-49    lemoniter                     1     
-50    @shotbyliampewpew             1     
-51    Joo                           1     
+38    Rafa Laguillo                 5     
+39    @janjuudas                    5     
+40    Henry Gunn                    4     
+41    TheSelousScout                4     
+42    @sachynmital                  3     
+43    Tallbird Cowboy               3     
+44    @seklerek                     2     
+45    @ftfilmphotos                 2     
+46    @tylerdrey                    2     
+47    Yrikonchik                    1     
+48    @ad.astra.per.aspera.1894     1     
+49    Aoi Yuki                      1     
+50    lemoniter                     1     
+51    @shotbyliampewpew             1     
+52    Joo                           1     
 ```
 
 ## Questions or Comments?
