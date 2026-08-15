@@ -15,9 +15,9 @@ Want to contribute? [Check out the guidelines!](../contribution_guide.md)
 ☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️
 
 ```
-Last Updated: Aug 13 2026
-Unique items: 690
-Total scans : 1273
+Last Updated: Aug 15 2026
+Unique items: 693
+Total scans : 1278
 ```
 
 -----
@@ -125,6 +125,7 @@ Total scans : 1273
 - [[@filmfotofella] Kodak 110 Film (ref: 8cca)](#filmfotofella-kodak-110-film-ref-8cca)
 - [[@filmfotofella] Kodak Kodacolor 400 (ref: 9e4c)](#filmfotofella-kodak-kodacolor-400-ref-9e4c)
 - [[@filmfotofella] Kodak Ultra (ref: 5701)](#filmfotofella-kodak-ultra-ref-5701)
+- [[@flyingcamerastudio] Kodak Portra 160NC (ref: e513)](#flyingcamerastudio-kodak-portra-160nc-ref-e513)
 - [[@ftfilmphotos] Kodak Kodacolor VR (ref: 035f)](#ftfilmphotos-kodak-kodacolor-vr-ref-035f)
 - [[@gregrouxphotography] Film Photography Project FPP 620 Black & White Panchromatic Negative Film (ref: 60ce)](#gregrouxphotography-film-photography-project-fpp-620-black-white-panchromatic-negative-film-ref-60ce)
 - [[@gregrouxphotography] Fujifilm 200 (ref: 6286)](#gregrouxphotography-fujifilm-200-ref-6286)
@@ -236,6 +237,7 @@ Total scans : 1273
 - [[@seklerek] Fujifilm Fujichrome Provia 100F (ref: 356d)](#seklerek-fujifilm-fujichrome-provia-100f-ref-356d)
 - [[@seklerek] Fujifilm Fujichrome Velvia 100F (ref: 32d4)](#seklerek-fujifilm-fujichrome-velvia-100f-ref-32d4)
 - [[@shotbyliampewpew] Escura EDO ukiyo-e (ref: 5faa)](#shotbyliampewpew-escura-edo-ukiyo-e-ref-5faa)
+- [[@titanic_159] Kodak Ektapan P3200 (ref: 2254)](#titanic_159-kodak-ektapan-p3200-ref-2254)
 - [[@toastergod101] Fujifilm Instax Mini (ref: e5e7)](#toastergod101-fujifilm-instax-mini-ref-e5e7)
 - [[@toastergod101] Harman Red (ref: da3a)](#toastergod101-harman-red-ref-da3a)
 - [[@toastergod101] Ilford Delta 400 Professional (ref: f3da)](#toastergod101-ilford-delta-400-professional-ref-f3da)
@@ -436,6 +438,7 @@ Total scans : 1273
 - [[TheSelousScout] Reto Amber D400 (ref: 08ad)](#theselousscout-reto-amber-d400-ref-08ad)
 - [[Tobias] Efke R14 (ref: 27f5)](#tobias-efke-r14-ref-27f5)
 - [[Tobias] efke KB-25 (ref: 4d17)](#tobias-efke-kb-25-ref-4d17)
+- [[Warren Umbach] Agfa Agfapan APX 25 (ref: 5a92)](#warren-umbach-agfa-agfapan-apx-25-ref-5a92)
 - [[Yrikonchik] Fujifilm 200 (ref: 5b41)](#yrikonchik-fujifilm-200-ref-5b41)
 - [[b0baspace] Fujifilm Fujicolor 100 (ref: 013b)](#b0baspace-fujifilm-fujicolor-100-ref-013b)
 - [[b0baspace] Fujifilm Fujicolor NPS 160 (ref: 5e85)](#b0baspace-fujifilm-fujicolor-nps-160-ref-5e85)
@@ -2527,6 +2530,27 @@ UUID  : d01783be3b70456095411ca387865701
 	<img src="./lowres/00333_000.jpg" alt="Kodak Ultra 110 film box outside" loading="lazy" width="296" height="500">
 </a>
 
+#### [@flyingcamerastudio] Kodak Portra 160NC (ref: e513)
+
+```
+Format: 35mm         |  Process : C-41    
+ISO   : 160          |  Expiry  : 2007-02 
+Type  : Bulk Roll    |  Quantity: 100ft   
+Added : 2026-08-15   |  Author  : @flyingcamerastudio
+UUID  : 9eb720d7de6e45bc97014b3e0717e513
+```
+
+<a href="./archive/00697_000.jpg" target="_blank">
+	<img src="./lowres/00697_000.jpg" alt="Kodak Portra 160NC 35mm film box outside" loading="lazy" width="500" height="353">
+</a>
+
+
+`UUID: fbdf25a3d97b4a0992a1d662621afd14`↓
+
+<a href="./archive/00697_001.jpg" target="_blank">
+	<img src="./lowres/00697_001.jpg" alt="Kodak Portra 160NC 35mm film box inside" loading="lazy" width="352" height="500">
+</a>
+
 #### [@ftfilmphotos] Kodak Kodacolor VR (ref: 035f)
 
 ```
@@ -4528,6 +4552,20 @@ UUID  : 758ee88b8edf42b492c8c240281d5faa
 
 <a href="./archive/00511_000.jpg" target="_blank">
 	<img src="./lowres/00511_000.jpg" alt="Escura EDO ukiyo-e 35mm film box outside" loading="lazy" width="405" height="500">
+</a>
+
+#### [@titanic_159] Kodak Ektapan P3200 (ref: 2254)
+
+```
+Format: 35mm         |  Process : BW      
+ISO   : 3200         |  Expiry  : 2027-11 
+Type  : Single Pack  |  Quantity: 36exp   
+Added : 2026-08-15   |  Author  : @titanic_159
+UUID  : 0d327a604980442d8f0a4fd9b4b92254
+```
+
+<a href="./archive/00695_000.jpg" target="_blank">
+	<img src="./lowres/00695_000.jpg" alt="Kodak Ektapan P3200 35mm film box outside" loading="lazy" width="461" height="499">
 </a>
 
 #### [@toastergod101] Fujifilm Instax Mini (ref: e5e7)
@@ -8588,6 +8626,27 @@ UUID  : b41fb584f713486eb5a5da2fe16e4d17
 
 <a href="./archive/00528_001.jpg" target="_blank">
 	<img src="./lowres/00528_001.jpg" alt="efke KB-25 35mm film box inside" loading="lazy" width="468" height="500">
+</a>
+
+#### [Warren Umbach] Agfa Agfapan APX 25 (ref: 5a92)
+
+```
+Format: 120          |  Process : BW      
+ISO   : 25           |  Expiry  : 2005-01 
+Type  : Single Pack  |  Quantity: N/A     
+Added : 2026-08-15   |  Author  : Warren Umbach
+UUID  : 3f10b7f948b641459292c754ec265a92
+```
+
+<a href="./archive/00696_000.jpg" target="_blank">
+	<img src="./lowres/00696_000.jpg" alt="Agfa Agfapan APX 25 120 film box outside" loading="lazy" width="500" height="460">
+</a>
+
+
+`UUID: bbf1d55f2f804c9fa609ea93f20db17e`↓
+
+<a href="./archive/00696_001.jpg" target="_blank">
+	<img src="./lowres/00696_001.jpg" alt="Agfa Agfapan APX 25 120 film box inside" loading="lazy" width="500" height="494">
 </a>
 
 #### [Yrikonchik] Fujifilm 200 (ref: 5b41)
@@ -14537,12 +14596,15 @@ Rank  Username                      Contributions
 44    @seklerek                     2     
 45    @ftfilmphotos                 2     
 46    @tylerdrey                    2     
-47    Yrikonchik                    1     
-48    @ad.astra.per.aspera.1894     1     
-49    Aoi Yuki                      1     
-50    lemoniter                     1     
-51    @shotbyliampewpew             1     
-52    Joo                           1     
+47    Warren Umbach                 2     
+48    @flyingcamerastudio           2     
+49    Yrikonchik                    1     
+50    @ad.astra.per.aspera.1894     1     
+51    Aoi Yuki                      1     
+52    lemoniter                     1     
+53    @shotbyliampewpew             1     
+54    Joo                           1     
+55    @titanic_159                  1     
 ```
 
 ## Questions or Comments?

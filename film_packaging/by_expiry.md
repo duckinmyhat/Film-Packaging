@@ -15,9 +15,9 @@ Want to contribute? [Check out the guidelines!](../contribution_guide.md)
 ☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️
 
 ```
-Last Updated: Aug 13 2026
-Unique items: 690
-Total scans : 1273
+Last Updated: Aug 15 2026
+Unique items: 693
+Total scans : 1278
 ```
 
 -----
@@ -298,6 +298,7 @@ Total scans : 1273
 - [[2004] Kodak Portra 400UC (ref: 5b9e)](#2004-kodak-portra-400uc-ref-5b9e)
 - [[2004] Kodak Portra 400VC (ref: b67b)](#2004-kodak-portra-400vc-ref-b67b)
 - [[2004] Perutz Primera (ref: cbfb)](#2004-perutz-primera-ref-cbfb)
+- [[2005] Agfa Agfapan APX 25 (ref: 5a92)](#2005-agfa-agfapan-apx-25-ref-5a92)
 - [[2005] Fujifilm Fujicolor Superia X-TRA (ref: 0446)](#2005-fujifilm-fujicolor-superia-x-tra-ref-0446)
 - [[2005] Ilford Delta 100 Professional (ref: 93b9)](#2005-ilford-delta-100-professional-ref-93b9)
 - [[2005] Agfa AgfaColor XRG 200 (ref: 689e)](#2005-agfa-agfacolor-xrg-200-ref-689e)
@@ -336,6 +337,7 @@ Total scans : 1273
 - [[2007] Klick 400ASA (ref: 8779)](#2007-klick-400asa-ref-8779)
 - [[2007] Kodak 110 Film (ref: 8cca)](#2007-kodak-110-film-ref-8cca)
 - [[2007] Kodak Ektachrome 320T (ref: 0e11)](#2007-kodak-ektachrome-320t-ref-0e11)
+- [[2007] Kodak Portra 160NC (ref: e513)](#2007-kodak-portra-160nc-ref-e513)
 - [[2007] Konica Minolta Commercial Color Film (ref: e903)](#2007-konica-minolta-commercial-color-film-ref-e903)
 - [[2007] Fujifilm Fujichrome Velvia 100F (ref: 32d4)](#2007-fujifilm-fujichrome-velvia-100f-ref-32d4)
 - [[2007] Kodak MAX (ref: 2361)](#2007-kodak-max-ref-2361)
@@ -614,6 +616,7 @@ Total scans : 1273
 - [[2027] ADOX CMS 20 II Pro (ref: 0bea)](#2027-adox-cms-20-ii-pro-ref-0bea)
 - [[2027] Lucky C200 (ref: 9c6c)](#2027-lucky-c200-ref-9c6c)
 - [[2027] Harman Switch Azure (ref: df9c)](#2027-harman-switch-azure-ref-df9c)
+- [[2027] Kodak Ektapan P3200 (ref: 2254)](#2027-kodak-ektapan-p3200-ref-2254)
 - [[2027] Optik Oldschool OptiColour 200 (ref: 099e)](#2027-optik-oldschool-opticolour-200-ref-099e)
 - [[2027] Harman Switch Azure (ref: 31bb)](#2027-harman-switch-azure-ref-31bb)
 - [[2027] Mira Films 800 Color Film (ref: 32e1)](#2027-mira-films-800-color-film-ref-32e1)
@@ -7117,6 +7120,27 @@ UUID  : 4e05e028af4c403786967ee168f3cbfb
 	<img src="./lowres/00491_001.jpg" alt="Perutz Primera 35mm film box inside" loading="lazy" width="431" height="500">
 </a>
 
+#### [2005] Agfa Agfapan APX 25 (ref: 5a92)
+
+```
+Format: 120          |  Process : BW      
+ISO   : 25           |  Expiry  : 2005-01 
+Type  : Single Pack  |  Quantity: N/A     
+Added : 2026-08-15   |  Author  : Warren Umbach
+UUID  : 3f10b7f948b641459292c754ec265a92
+```
+
+<a href="./archive/00696_000.jpg" target="_blank">
+	<img src="./lowres/00696_000.jpg" alt="Agfa Agfapan APX 25 120 film box outside" loading="lazy" width="500" height="460">
+</a>
+
+
+`UUID: bbf1d55f2f804c9fa609ea93f20db17e`↓
+
+<a href="./archive/00696_001.jpg" target="_blank">
+	<img src="./lowres/00696_001.jpg" alt="Agfa Agfapan APX 25 120 film box inside" loading="lazy" width="500" height="494">
+</a>
+
 #### [2005] Fujifilm Fujicolor Superia X-TRA (ref: 0446)
 
 ```
@@ -7818,6 +7842,27 @@ UUID  : 39eee484e9cf4b8aaade4a1092010e11
 
 <a href="./archive/00590_000.jpg" target="_blank">
 	<img src="./lowres/00590_000.jpg" alt="Kodak Ektachrome 320T 35mm film box outside" loading="lazy" width="421" height="500">
+</a>
+
+#### [2007] Kodak Portra 160NC (ref: e513)
+
+```
+Format: 35mm         |  Process : C-41    
+ISO   : 160          |  Expiry  : 2007-02 
+Type  : Bulk Roll    |  Quantity: 100ft   
+Added : 2026-08-15   |  Author  : @flyingcamerastudio
+UUID  : 9eb720d7de6e45bc97014b3e0717e513
+```
+
+<a href="./archive/00697_000.jpg" target="_blank">
+	<img src="./lowres/00697_000.jpg" alt="Kodak Portra 160NC 35mm film box outside" loading="lazy" width="500" height="353">
+</a>
+
+
+`UUID: fbdf25a3d97b4a0992a1d662621afd14`↓
+
+<a href="./archive/00697_001.jpg" target="_blank">
+	<img src="./lowres/00697_001.jpg" alt="Kodak Portra 160NC 35mm film box inside" loading="lazy" width="352" height="500">
 </a>
 
 #### [2007] Konica Minolta Commercial Color Film (ref: e903)
@@ -12723,6 +12768,20 @@ UUID  : 85e5b83007814fbd8b1a0c4caaf9df9c
 	<img src="./lowres/00553_001.jpg" alt="Harman Switch Azure 35mm film box inside" loading="lazy" width="348" height="499">
 </a>
 
+#### [2027] Kodak Ektapan P3200 (ref: 2254)
+
+```
+Format: 35mm         |  Process : BW      
+ISO   : 3200         |  Expiry  : 2027-11 
+Type  : Single Pack  |  Quantity: 36exp   
+Added : 2026-08-15   |  Author  : @titanic_159
+UUID  : 0d327a604980442d8f0a4fd9b4b92254
+```
+
+<a href="./archive/00695_000.jpg" target="_blank">
+	<img src="./lowres/00695_000.jpg" alt="Kodak Ektapan P3200 35mm film box outside" loading="lazy" width="461" height="499">
+</a>
+
 #### [2027] Optik Oldschool OptiColour 200 (ref: 099e)
 
 ```
@@ -14537,12 +14596,15 @@ Rank  Username                      Contributions
 44    @seklerek                     2     
 45    @ftfilmphotos                 2     
 46    @tylerdrey                    2     
-47    Yrikonchik                    1     
-48    @ad.astra.per.aspera.1894     1     
-49    Aoi Yuki                      1     
-50    lemoniter                     1     
-51    @shotbyliampewpew             1     
-52    Joo                           1     
+47    Warren Umbach                 2     
+48    @flyingcamerastudio           2     
+49    Yrikonchik                    1     
+50    @ad.astra.per.aspera.1894     1     
+51    Aoi Yuki                      1     
+52    lemoniter                     1     
+53    @shotbyliampewpew             1     
+54    Joo                           1     
+55    @titanic_159                  1     
 ```
 
 ## Questions or Comments?

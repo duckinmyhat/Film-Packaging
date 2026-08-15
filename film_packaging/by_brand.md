@@ -15,9 +15,9 @@ Want to contribute? [Check out the guidelines!](../contribution_guide.md)
 ☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️
 
 ```
-Last Updated: Aug 13 2026
-Unique items: 690
-Total scans : 1273
+Last Updated: Aug 15 2026
+Unique items: 693
+Total scans : 1278
 ```
 
 -----
@@ -51,6 +51,7 @@ Total scans : 1273
 - [Agfa Agfacolor Umkehr-Ultra T (ref: 01db)](#agfa-agfacolor-umkehr-ultra-t-ref-01db)
 - [Agfa Agfapan  APX 25 (ref: 805f)](#agfa-agfapan-apx-25-ref-805f)
 - [Agfa Agfapan APX 100 (ref: e271)](#agfa-agfapan-apx-100-ref-e271)
+- [Agfa Agfapan APX 25 (ref: 5a92)](#agfa-agfapan-apx-25-ref-5a92)
 - [Agfa Agfapan APX 400 (ref: 5855)](#agfa-agfapan-apx-400-ref-5855)
 - [Agfa Agfapan APX 400 (ref: 19bc)](#agfa-agfapan-apx-400-ref-19bc)
 - [Agfa Agfapan Rapid (ref: 5e7b)](#agfa-agfapan-rapid-ref-5e7b)
@@ -365,6 +366,7 @@ Total scans : 1273
 - [Kodak Ektacolor Pro 400 (ref: aa72)](#kodak-ektacolor-pro-400-ref-aa72)
 - [Kodak Ektacolor Pro Gold (ref: c3f8)](#kodak-ektacolor-pro-gold-ref-c3f8)
 - [Kodak Ektagraphic HC Slide Film (ref: d2a2)](#kodak-ektagraphic-hc-slide-film-ref-d2a2)
+- [Kodak Ektapan P3200 (ref: 2254)](#kodak-ektapan-p3200-ref-2254)
 - [Kodak Ektar 100 (ref: 4631)](#kodak-ektar-100-ref-4631)
 - [Kodak Ektar 100 (ref: 95ec)](#kodak-ektar-100-ref-95ec)
 - [Kodak Ektar 100 (ref: 3498)](#kodak-ektar-100-ref-3498)
@@ -447,6 +449,7 @@ Total scans : 1273
 - [Kodak Portra 160 (ref: ce56)](#kodak-portra-160-ref-ce56)
 - [Kodak Portra 160 (ref: 6b0a)](#kodak-portra-160-ref-6b0a)
 - [Kodak Portra 160 NC (ref: d52e)](#kodak-portra-160-nc-ref-d52e)
+- [Kodak Portra 160NC (ref: e513)](#kodak-portra-160nc-ref-e513)
 - [Kodak Portra 400 (ref: cf9c)](#kodak-portra-400-ref-cf9c)
 - [Kodak Portra 400 (ref: f4af)](#kodak-portra-400-ref-f4af)
 - [Kodak Portra 400 (ref: 9f18)](#kodak-portra-400-ref-9f18)
@@ -1421,6 +1424,27 @@ UUID  : e00a9a59b3d74a1d85ff4331bc73e271
 
 <a href="./archive/00191_000.jpg" target="_blank">
 	<img src="./lowres/00191_000.jpg" alt="Agfa Agfapan APX 100 35mm film box outside" loading="lazy" width="422" height="499">
+</a>
+
+#### Agfa Agfapan APX 25 (ref: 5a92)
+
+```
+Format: 120          |  Process : BW      
+ISO   : 25           |  Expiry  : 2005-01 
+Type  : Single Pack  |  Quantity: N/A     
+Added : 2026-08-15   |  Author  : Warren Umbach
+UUID  : 3f10b7f948b641459292c754ec265a92
+```
+
+<a href="./archive/00696_000.jpg" target="_blank">
+	<img src="./lowres/00696_000.jpg" alt="Agfa Agfapan APX 25 120 film box outside" loading="lazy" width="500" height="460">
+</a>
+
+
+`UUID: bbf1d55f2f804c9fa609ea93f20db17e`↓
+
+<a href="./archive/00696_001.jpg" target="_blank">
+	<img src="./lowres/00696_001.jpg" alt="Agfa Agfapan APX 25 120 film box inside" loading="lazy" width="500" height="494">
 </a>
 
 #### Agfa Agfapan APX 400 (ref: 5855)
@@ -7406,6 +7430,20 @@ UUID  : f2a364463c5d40ad9e438566b786d2a2
 	<img src="./lowres/00589_000.jpg" alt="Kodak Ektagraphic HC Slide Film 35mm film box outside" loading="lazy" width="416" height="500">
 </a>
 
+#### Kodak Ektapan P3200 (ref: 2254)
+
+```
+Format: 35mm         |  Process : BW      
+ISO   : 3200         |  Expiry  : 2027-11 
+Type  : Single Pack  |  Quantity: 36exp   
+Added : 2026-08-15   |  Author  : @titanic_159
+UUID  : 0d327a604980442d8f0a4fd9b4b92254
+```
+
+<a href="./archive/00695_000.jpg" target="_blank">
+	<img src="./lowres/00695_000.jpg" alt="Kodak Ektapan P3200 35mm film box outside" loading="lazy" width="461" height="499">
+</a>
+
 #### Kodak Ektar 100 (ref: 4631)
 
 ```
@@ -9072,6 +9110,27 @@ UUID  : 6052675492004641b862ed8f7c99d52e
 
 <a href="./archive/00680_000.jpg" target="_blank">
 	<img src="./lowres/00680_000.jpg" alt="Kodak Portra 160 NC 70mm film box outside" loading="lazy" width="500" height="427">
+</a>
+
+#### Kodak Portra 160NC (ref: e513)
+
+```
+Format: 35mm         |  Process : C-41    
+ISO   : 160          |  Expiry  : 2007-02 
+Type  : Bulk Roll    |  Quantity: 100ft   
+Added : 2026-08-15   |  Author  : @flyingcamerastudio
+UUID  : 9eb720d7de6e45bc97014b3e0717e513
+```
+
+<a href="./archive/00697_000.jpg" target="_blank">
+	<img src="./lowres/00697_000.jpg" alt="Kodak Portra 160NC 35mm film box outside" loading="lazy" width="500" height="353">
+</a>
+
+
+`UUID: fbdf25a3d97b4a0992a1d662621afd14`↓
+
+<a href="./archive/00697_001.jpg" target="_blank">
+	<img src="./lowres/00697_001.jpg" alt="Kodak Portra 160NC 35mm film box inside" loading="lazy" width="352" height="500">
 </a>
 
 #### Kodak Portra 400 (ref: cf9c)
@@ -14537,12 +14596,15 @@ Rank  Username                      Contributions
 44    @seklerek                     2     
 45    @ftfilmphotos                 2     
 46    @tylerdrey                    2     
-47    Yrikonchik                    1     
-48    @ad.astra.per.aspera.1894     1     
-49    Aoi Yuki                      1     
-50    lemoniter                     1     
-51    @shotbyliampewpew             1     
-52    Joo                           1     
+47    Warren Umbach                 2     
+48    @flyingcamerastudio           2     
+49    Yrikonchik                    1     
+50    @ad.astra.per.aspera.1894     1     
+51    Aoi Yuki                      1     
+52    lemoniter                     1     
+53    @shotbyliampewpew             1     
+54    Joo                           1     
+55    @titanic_159                  1     
 ```
 
 ## Questions or Comments?

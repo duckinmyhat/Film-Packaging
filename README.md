@@ -29,9 +29,9 @@ This project is **fully open-source**. [`[GitHub Repo]`](https://github.com/deku
 ☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️
 
 ```
-Last Updated: Aug 13 2026
-Unique items: 690
-Total scans : 1273
+Last Updated: Aug 15 2026
+Unique items: 693
+Total scans : 1278
 ```
 
 Or Sort by...
@@ -99,17 +99,25 @@ Rank  Username                      Contributions
 44    @seklerek                     2     
 45    @ftfilmphotos                 2     
 46    @tylerdrey                    2     
-47    Yrikonchik                    1     
-48    @ad.astra.per.aspera.1894     1     
-49    Aoi Yuki                      1     
-50    lemoniter                     1     
-51    @shotbyliampewpew             1     
-52    Joo                           1     
+47    Warren Umbach                 2     
+48    @flyingcamerastudio           2     
+49    Yrikonchik                    1     
+50    @ad.astra.per.aspera.1894     1     
+51    Aoi Yuki                      1     
+52    lemoniter                     1     
+53    @shotbyliampewpew             1     
+54    Joo                           1     
+55    @titanic_159                  1     
 ```
 
 ## Recent Activities
 
 ```
+2026-08-15
+  - @flyingcamerastudio: Kodak Portra 160NC
+  - @titanic_159: Kodak Ektapan P3200
+  - Warren Umbach: Agfa Agfapan APX 25
+
 2026-08-13
   - @janjuudas: Konica SXG 100
   - @janjuudas: Lucky LuckyColor BR100
@@ -149,15 +157,6 @@ Rank  Username                      Contributions
   - @gregrouxphotography: Fujifilm 200
   - @gregrouxphotography: Kodak Gold Plus
   - Chrisbes: Konica Konica Color SR-G 160
-
-2026-07-13
-  - Chrisbes: Fujifilm Fujicolor Pro 400H
-  - Chrisbes: Kodak Portra 400
-  - Chrisbes: Optik Oldschool OptiColour 200
-  - Luci 101: ORWO DK5
-  - nyctomanica: Fujifilm Provia 100F
-  - nyctomanica: Kodak Kodachrome 64
-  - nyctomanica: Polaroid 669
 ```
 
 ## Disclaimer

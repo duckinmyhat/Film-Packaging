@@ -1272,3 +1272,8 @@ index,sub_index,item_type,brand,product,film_format,film_speed_iso,process,expir
 692,0,film_box_outside,Lumière Union Photographique Industrielle,Plaques au Gélatino-Bromure d'Argent Extra Rapides,9x12cm,Unknown,BW,Unknown,1786617832,363efa6c6884a427e19cd5557f4b9e04,bb45ef5b684b4606b02cc7f9fb16a44b,00692_000.jpg,Rafa Laguillo,,Single Pack,Unknown
 693,0,film_box_outside,Agfa,Plaques Chromo Isolar,Unknown,Unknown,BW,Unknown,1786618059,49adfebbd68d6b0b64b2c9e69826d819,69f7043994f94dffb90d512ed5bc2c8a,00693_000.jpg,Rafa Laguillo,,Single Pack,Unknown
 694,0,film_box_outside,Kodak,UltraMax,35mm,400,C-41,200808,1786618108,f25b7204534aabe6d9205c8aa95f325a,a6d5604fc4404666acf42801bbc8145b,00694_000.jpg,Rafa Laguillo,,Multi-Pack-3,36exp
+695,0,film_box_outside,Kodak,Ektapan P3200,35mm,3200,BW,202711,1786795969,eababf3f45174e760fef780fe06a149f,0d327a604980442d8f0a4fd9b4b92254,00695_000.jpg,@titanic_159,,Single Pack,36exp
+696,0,film_box_outside,Agfa,Agfapan APX 25,120,25,BW,200501,1786796084,4f694357fcc3676d570da1f60f0758e6,3f10b7f948b641459292c754ec265a92,00696_000.jpg,Warren Umbach,,Single Pack,N/A
+696,1,film_box_inside,Agfa,Agfapan APX 25,120,25,BW,200501,1786796087,b3f884b8617f29d2c59fe527ba1fac92,bbf1d55f2f804c9fa609ea93f20db17e,00696_001.jpg,Warren Umbach,,Single Pack,N/A
+697,0,film_box_outside,Kodak,Portra 160NC,35mm,160,C-41,200702,1786796433,d031a6f0223d9883f0d1f49f3401b55e,9eb720d7de6e45bc97014b3e0717e513,00697_000.jpg,@flyingcamerastudio,,Bulk Roll,100ft
+697,1,film_box_inside,Kodak,Portra 160NC,35mm,160,C-41,200702,1786796435,caa3c9fd8b9fb1db63f6a657dd0406b6,fbdf25a3d97b4a0992a1d662621afd14,00697_001.jpg,@flyingcamerastudio,,Bulk Roll,100ft
