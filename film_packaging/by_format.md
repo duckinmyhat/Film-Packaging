@@ -15,9 +15,9 @@ Want to contribute? [Check out the guidelines!](../contribution_guide.md)
 ☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️
 
 ```
-Last Updated: Aug 15 2026
-Unique items: 693
-Total scans : 1278
+Last Updated: Aug 16 2026
+Unique items: 694
+Total scans : 1279
 ```
 
 -----
@@ -291,7 +291,7 @@ Total scans : 1278
 - [[35mm] Foma Fomapan Classic 100 (ref: 0030)](#35mm-foma-fomapan-classic-100-ref-0030)
 - [[35mm] Foma Fomapan Creative 200 (ref: 84a5)](#35mm-foma-fomapan-creative-200-ref-84a5)
 - [[35mm] Foma Ortho 400 (ref: c559)](#35mm-foma-ortho-400-ref-c559)
-- [[35mm] Foton Fotopan (ref: 6ba7)](#35mm-foton-fotopan-ref-6ba7)
+- [[35mm] Foton Fotopan CD (ref: 6ba7)](#35mm-foton-fotopan-cd-ref-6ba7)
 - [[35mm] Foton Mikrofilm Negatywowy Super Orto (ref: 003e)](#35mm-foton-mikrofilm-negatywowy-super-orto-ref-003e)
 - [[35mm] Foton Super Orto (ref: 050b)](#35mm-foton-super-orto-ref-050b)
 - [[35mm] Freestyle 500T (ref: 8073)](#35mm-freestyle-500t-ref-8073)
@@ -538,15 +538,16 @@ Total scans : 1278
 - [[35mm] Mr. Negative Silver Screen Negative (ref: c968)](#35mm-mr-negative-silver-screen-negative-ref-c968)
 - [[35mm] Mutascan Kodak Vision3 500T/5219 (ref: 5150)](#35mm-mutascan-kodak-vision3-500t5219-ref-5150)
 - [[35mm] Nishika Color Print Film (ref: baeb)](#35mm-nishika-color-print-film-ref-baeb)
-- [[35mm] ORWO Chrom UT18 (ref: 81b7)](#35mm-orwo-chrom-ut18-ref-81b7)
 - [[35mm] ORWO Chrom UT21 (ref: 3fd5)](#35mm-orwo-chrom-ut21-ref-3fd5)
 - [[35mm] ORWO DK5 (ref: e815)](#35mm-orwo-dk5-ref-e815)
 - [[35mm] ORWO NP 20 SL (ref: b16c)](#35mm-orwo-np-20-sl-ref-b16c)
 - [[35mm] ORWO NP22 (ref: 5437)](#35mm-orwo-np22-ref-5437)
 - [[35mm] ORWO OWRO Color PC7 (ref: 08f0)](#35mm-orwo-owro-color-pc7-ref-08f0)
+- [[35mm] ORWO OrwoChrom UT18 (ref: 81b7)](#35mm-orwo-orwochrom-ut18-ref-81b7)
 - [[35mm] ORWO OrwoChrome RC100 (ref: a9b6)](#35mm-orwo-orwochrome-rc100-ref-a9b6)
 - [[35mm] ORWO OrwoChrome UT18 (ref: f2ce)](#35mm-orwo-orwochrome-ut18-ref-f2ce)
 - [[35mm] ORWO UK18 (ref: c92d)](#35mm-orwo-uk18-ref-c92d)
+- [[35mm] Ogapan Panchromatic (ref: 9c23)](#35mm-ogapan-panchromatic-ref-9c23)
 - [[35mm] Optik Oldschool Motion 200T (ref: 0d90)](#35mm-optik-oldschool-motion-200t-ref-0d90)
 - [[35mm] Optik Oldschool Motion 500T (ref: bd42)](#35mm-optik-oldschool-motion-500t-ref-bd42)
 - [[35mm] Optik Oldschool OptiColour 200 (ref: 099e)](#35mm-optik-oldschool-opticolour-200-ref-099e)
@@ -6284,7 +6285,7 @@ UUID  : 676655ff95914769b0869d71d824c559
 	<img src="./lowres/00187_001.jpg" alt="Foma Ortho 400 35mm film box inside" loading="lazy" width="441" height="500">
 </a>
 
-#### [35mm] Foton Fotopan (ref: 6ba7)
+#### [35mm] Foton Fotopan CD (ref: 6ba7)
 
 ```
 Format: 35mm         |  Process : BW      
@@ -6295,21 +6296,21 @@ UUID  : e411c38ab057475f8874bd176d3e6ba7
 ```
 
 <a href="./archive/00529_000.jpg" target="_blank">
-	<img src="./lowres/00529_000.jpg" alt="Foton Fotopan 35mm film box outside" loading="lazy" width="500" height="469">
+	<img src="./lowres/00529_000.jpg" alt="Foton Fotopan CD 35mm film box outside" loading="lazy" width="500" height="469">
 </a>
 
 
 `UUID: c106929fe57e459dbac9ee8e10ca9b50`↓
 
 <a href="./archive/00529_001.jpg" target="_blank">
-	<img src="./lowres/00529_001.jpg" alt="Foton Fotopan 35mm film box leaflet" loading="lazy" width="283" height="500">
+	<img src="./lowres/00529_001.jpg" alt="Foton Fotopan CD 35mm film box leaflet" loading="lazy" width="283" height="500">
 </a>
 
 
 `UUID: 1dc440471e384b01a55f1877dc636836`↓
 
 <a href="./archive/00529_002.jpg" target="_blank">
-	<img src="./lowres/00529_002.jpg" alt="Foton Fotopan 35mm film box leaflet" loading="lazy" width="270" height="500">
+	<img src="./lowres/00529_002.jpg" alt="Foton Fotopan CD 35mm film box leaflet" loading="lazy" width="270" height="500">
 </a>
 
 #### [35mm] Foton Mikrofilm Negatywowy Super Orto (ref: 003e)
@@ -10757,48 +10758,6 @@ UUID  : c8f31c7a1adf423bbc4d35eae399baeb
 	<img src="./lowres/00406_000.jpg" alt="Nishika Color Print Film 35mm film box outside" loading="lazy" width="500" height="499">
 </a>
 
-#### [35mm] ORWO Chrom UT18 (ref: 81b7)
-
-```
-Format: 35mm         |  Process : Unknown 
-ISO   : 50           |  Expiry  : Unknown 
-Type  : Single Pack  |  Quantity: 36exp   
-Added : 2025-10-17   |  Author  : @recycling.film
-UUID  : d82a8047531f4e4bbdfe4c0bb95c81b7
-```
-
-<a href="./archive/00408_000.jpg" target="_blank">
-	<img src="./lowres/00408_000.jpg" alt="ORWO Chrom UT18 35mm film box outside" loading="lazy" width="488" height="500">
-</a>
-
-
-`UUID: 1515034bddc345419da08ea6a497ee34`↓
-
-<a href="./archive/00408_001.jpg" target="_blank">
-	<img src="./lowres/00408_001.jpg" alt="ORWO Chrom UT18 35mm film box leaflet" loading="lazy" width="343" height="499">
-</a>
-
-
-`UUID: 062fdd558f6c48fda2979f72c7443cad`↓
-
-<a href="./archive/00408_002.jpg" target="_blank">
-	<img src="./lowres/00408_002.jpg" alt="ORWO Chrom UT18 35mm film box leaflet" loading="lazy" width="306" height="500">
-</a>
-
-
-`UUID: acc4b02a5b2d422ebda7149636e817b3`↓
-
-<a href="./archive/00408_003.jpg" target="_blank">
-	<img src="./lowres/00408_003.jpg" alt="ORWO Chrom UT18 35mm film box processing envelope" loading="lazy" width="500" height="321">
-</a>
-
-
-`UUID: 437046f79d2141bfb2af8247bc1a6ba3`↓
-
-<a href="./archive/00408_004.jpg" target="_blank">
-	<img src="./lowres/00408_004.jpg" alt="ORWO Chrom UT18 35mm film box processing envelope" loading="lazy" width="500" height="308">
-</a>
-
 #### [35mm] ORWO Chrom UT21 (ref: 3fd5)
 
 ```
@@ -10916,6 +10875,48 @@ UUID  : 0bd454e6225a4c5799d36e51135208f0
 
 <a href="./archive/00673_001.jpg" target="_blank">
 	<img src="./lowres/00673_001.jpg" alt="ORWO OWRO Color PC7 35mm film box outside" loading="lazy" width="500" height="485">
+</a>
+
+#### [35mm] ORWO OrwoChrom UT18 (ref: 81b7)
+
+```
+Format: 35mm         |  Process : Unknown 
+ISO   : 50           |  Expiry  : Unknown 
+Type  : Single Pack  |  Quantity: 36exp   
+Added : 2025-10-17   |  Author  : @recycling.film
+UUID  : d82a8047531f4e4bbdfe4c0bb95c81b7
+```
+
+<a href="./archive/00408_000.jpg" target="_blank">
+	<img src="./lowres/00408_000.jpg" alt="ORWO OrwoChrom UT18 35mm film box outside" loading="lazy" width="488" height="500">
+</a>
+
+
+`UUID: 1515034bddc345419da08ea6a497ee34`↓
+
+<a href="./archive/00408_001.jpg" target="_blank">
+	<img src="./lowres/00408_001.jpg" alt="ORWO OrwoChrom UT18 35mm film box leaflet" loading="lazy" width="343" height="499">
+</a>
+
+
+`UUID: 062fdd558f6c48fda2979f72c7443cad`↓
+
+<a href="./archive/00408_002.jpg" target="_blank">
+	<img src="./lowres/00408_002.jpg" alt="ORWO OrwoChrom UT18 35mm film box leaflet" loading="lazy" width="306" height="500">
+</a>
+
+
+`UUID: acc4b02a5b2d422ebda7149636e817b3`↓
+
+<a href="./archive/00408_003.jpg" target="_blank">
+	<img src="./lowres/00408_003.jpg" alt="ORWO OrwoChrom UT18 35mm film box processing envelope" loading="lazy" width="500" height="321">
+</a>
+
+
+`UUID: 437046f79d2141bfb2af8247bc1a6ba3`↓
+
+<a href="./archive/00408_004.jpg" target="_blank">
+	<img src="./lowres/00408_004.jpg" alt="ORWO OrwoChrom UT18 35mm film box processing envelope" loading="lazy" width="500" height="308">
 </a>
 
 #### [35mm] ORWO OrwoChrome RC100 (ref: a9b6)
@@ -11042,6 +11043,20 @@ UUID  : d3755977cc6f49dab6e0fc8197b3c92d
 
 <a href="./archive/00535_006.jpg" target="_blank">
 	<img src="./lowres/00535_006.jpg" alt="ORWO UK18 35mm film box leaflet" loading="lazy" width="213" height="499">
+</a>
+
+#### [35mm] Ogapan Panchromatic (ref: 9c23)
+
+```
+Format: 35mm         |  Process : BW      
+ISO   : 40           |  Expiry  : 1962-10 
+Type  : Single Pack  |  Quantity: 36exp   
+Added : 2026-08-16   |  Author  : Constantino
+UUID  : c01fbe88bcfc41aa89cf002ce11b9c23
+```
+
+<a href="./archive/00698_000.jpg" target="_blank">
+	<img src="./lowres/00698_000.jpg" alt="Ogapan Panchromatic 35mm film box outside" loading="lazy" width="500" height="463">
 </a>
 
 #### [35mm] Optik Oldschool Motion 200T (ref: 0d90)
@@ -14605,6 +14620,7 @@ Rank  Username                      Contributions
 53    @shotbyliampewpew             1     
 54    Joo                           1     
 55    @titanic_159                  1     
+56    Constantino                   1     
 ```
 
 ## Questions or Comments?

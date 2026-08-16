@@ -29,9 +29,9 @@ This project is **fully open-source**. [`[GitHub Repo]`](https://github.com/deku
 ☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️
 
 ```
-Last Updated: Aug 15 2026
-Unique items: 693
-Total scans : 1278
+Last Updated: Aug 16 2026
+Unique items: 694
+Total scans : 1279
 ```
 
 Or Sort by...
@@ -108,11 +108,15 @@ Rank  Username                      Contributions
 53    @shotbyliampewpew             1     
 54    Joo                           1     
 55    @titanic_159                  1     
+56    Constantino                   1     
 ```
 
 ## Recent Activities
 
 ```
+2026-08-16
+  - Constantino: Ogapan Panchromatic
+
 2026-08-15
   - @flyingcamerastudio: Kodak Portra 160NC
   - @titanic_159: Kodak Ektapan P3200
@@ -152,11 +156,6 @@ Rank  Username                      Contributions
 2026-07-21
   - Dialupdude: 1Shot Fun Shooter Flash
   - waldoboro: Kodak Ektacolor Pro 400
-
-2026-07-16
-  - @gregrouxphotography: Fujifilm 200
-  - @gregrouxphotography: Kodak Gold Plus
-  - Chrisbes: Konica Konica Color SR-G 160
 ```
 
 ## Disclaimer

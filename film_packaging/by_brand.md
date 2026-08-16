@@ -15,9 +15,9 @@ Want to contribute? [Check out the guidelines!](../contribution_guide.md)
 ☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️
 
 ```
-Last Updated: Aug 15 2026
-Unique items: 693
-Total scans : 1278
+Last Updated: Aug 16 2026
+Unique items: 694
+Total scans : 1279
 ```
 
 -----
@@ -138,7 +138,7 @@ Total scans : 1278
 - [Foma Fomapan21 (ref: 75d9)](#foma-fomapan21-ref-75d9)
 - [Foma Ortho 400 (ref: 89e7)](#foma-ortho-400-ref-89e7)
 - [Foma Ortho 400 (ref: c559)](#foma-ortho-400-ref-c559)
-- [Foton Fotopan (ref: 6ba7)](#foton-fotopan-ref-6ba7)
+- [Foton Fotopan CD (ref: 6ba7)](#foton-fotopan-cd-ref-6ba7)
 - [Foton Fotopan F (ref: 0ad6)](#foton-fotopan-f-ref-0ad6)
 - [Foton Mikrofilm Negatywowy Super Orto (ref: 003e)](#foton-mikrofilm-negatywowy-super-orto-ref-003e)
 - [Foton Super Orto (ref: 050b)](#foton-super-orto-ref-050b)
@@ -577,7 +577,6 @@ Total scans : 1278
 - [Mutascan Kodak Vision3 500T/5219 (ref: 5150)](#mutascan-kodak-vision3-500t5219-ref-5150)
 - [Nishika Color Print Film (ref: baeb)](#nishika-color-print-film-ref-baeb)
 - [Northwest Custom Film Processing Ultra Minituature Film (ref: 70b1)](#northwest-custom-film-processing-ultra-minituature-film-ref-70b1)
-- [ORWO Chrom UT18 (ref: 81b7)](#orwo-chrom-ut18-ref-81b7)
 - [ORWO Chrom UT21 (ref: 3fd5)](#orwo-chrom-ut21-ref-3fd5)
 - [ORWO DK5 (ref: e815)](#orwo-dk5-ref-e815)
 - [ORWO DK5 (ref: a2dd)](#orwo-dk5-ref-a2dd)
@@ -587,12 +586,14 @@ Total scans : 1278
 - [ORWO NP15 (ref: 9a20)](#orwo-np15-ref-9a20)
 - [ORWO NP22 (ref: 5437)](#orwo-np22-ref-5437)
 - [ORWO OWRO Color PC7 (ref: 08f0)](#orwo-owro-color-pc7-ref-08f0)
+- [ORWO OrwoChrom UT18 (ref: 81b7)](#orwo-orwochrom-ut18-ref-81b7)
 - [ORWO OrwoChrome RC100 (ref: a9b6)](#orwo-orwochrome-rc100-ref-a9b6)
 - [ORWO OrwoChrome UT18 (ref: f2ce)](#orwo-orwochrome-ut18-ref-f2ce)
 - [ORWO OrwoColor UT13 (ref: a05d)](#orwo-orwocolor-ut13-ref-a05d)
 - [ORWO UK 17 (ref: 19a0)](#orwo-uk-17-ref-19a0)
 - [ORWO UK18 (ref: c92d)](#orwo-uk18-ref-c92d)
 - [ORWO UP 27 DS 8 (ref: 4d5a)](#orwo-up-27-ds-8-ref-4d5a)
+- [Ogapan Panchromatic (ref: 9c23)](#ogapan-panchromatic-ref-9c23)
 - [Ogapan Panchromatic (ref: a972)](#ogapan-panchromatic-ref-a972)
 - [One Instant Type 100 Peel-Apart Colorfilm (ref: ff2c)](#one-instant-type-100-peel-apart-colorfilm-ref-ff2c)
 - [Optik Oldschool Motion 200T (ref: 0d90)](#optik-oldschool-motion-200t-ref-0d90)
@@ -3080,7 +3081,7 @@ UUID  : 676655ff95914769b0869d71d824c559
 	<img src="./lowres/00187_001.jpg" alt="Foma Ortho 400 35mm film box inside" loading="lazy" width="441" height="500">
 </a>
 
-#### Foton Fotopan (ref: 6ba7)
+#### Foton Fotopan CD (ref: 6ba7)
 
 ```
 Format: 35mm         |  Process : BW      
@@ -3091,21 +3092,21 @@ UUID  : e411c38ab057475f8874bd176d3e6ba7
 ```
 
 <a href="./archive/00529_000.jpg" target="_blank">
-	<img src="./lowres/00529_000.jpg" alt="Foton Fotopan 35mm film box outside" loading="lazy" width="500" height="469">
+	<img src="./lowres/00529_000.jpg" alt="Foton Fotopan CD 35mm film box outside" loading="lazy" width="500" height="469">
 </a>
 
 
 `UUID: c106929fe57e459dbac9ee8e10ca9b50`↓
 
 <a href="./archive/00529_001.jpg" target="_blank">
-	<img src="./lowres/00529_001.jpg" alt="Foton Fotopan 35mm film box leaflet" loading="lazy" width="283" height="500">
+	<img src="./lowres/00529_001.jpg" alt="Foton Fotopan CD 35mm film box leaflet" loading="lazy" width="283" height="500">
 </a>
 
 
 `UUID: 1dc440471e384b01a55f1877dc636836`↓
 
 <a href="./archive/00529_002.jpg" target="_blank">
-	<img src="./lowres/00529_002.jpg" alt="Foton Fotopan 35mm film box leaflet" loading="lazy" width="270" height="500">
+	<img src="./lowres/00529_002.jpg" alt="Foton Fotopan CD 35mm film box leaflet" loading="lazy" width="270" height="500">
 </a>
 
 #### Foton Fotopan F (ref: 0ad6)
@@ -11470,48 +11471,6 @@ Notes : There was a roll of 127 ekfe R100 inside, not sure if it's the original,
 	<img src="./lowres/00425_002.jpg" alt="Northwest Custom Film Processing Ultra Minituature Film Unknown film box processing envelope" loading="lazy" width="500" height="218">
 </a>
 
-#### ORWO Chrom UT18 (ref: 81b7)
-
-```
-Format: 35mm         |  Process : Unknown 
-ISO   : 50           |  Expiry  : Unknown 
-Type  : Single Pack  |  Quantity: 36exp   
-Added : 2025-10-17   |  Author  : @recycling.film
-UUID  : d82a8047531f4e4bbdfe4c0bb95c81b7
-```
-
-<a href="./archive/00408_000.jpg" target="_blank">
-	<img src="./lowres/00408_000.jpg" alt="ORWO Chrom UT18 35mm film box outside" loading="lazy" width="488" height="500">
-</a>
-
-
-`UUID: 1515034bddc345419da08ea6a497ee34`↓
-
-<a href="./archive/00408_001.jpg" target="_blank">
-	<img src="./lowres/00408_001.jpg" alt="ORWO Chrom UT18 35mm film box leaflet" loading="lazy" width="343" height="499">
-</a>
-
-
-`UUID: 062fdd558f6c48fda2979f72c7443cad`↓
-
-<a href="./archive/00408_002.jpg" target="_blank">
-	<img src="./lowres/00408_002.jpg" alt="ORWO Chrom UT18 35mm film box leaflet" loading="lazy" width="306" height="500">
-</a>
-
-
-`UUID: acc4b02a5b2d422ebda7149636e817b3`↓
-
-<a href="./archive/00408_003.jpg" target="_blank">
-	<img src="./lowres/00408_003.jpg" alt="ORWO Chrom UT18 35mm film box processing envelope" loading="lazy" width="500" height="321">
-</a>
-
-
-`UUID: 437046f79d2141bfb2af8247bc1a6ba3`↓
-
-<a href="./archive/00408_004.jpg" target="_blank">
-	<img src="./lowres/00408_004.jpg" alt="ORWO Chrom UT18 35mm film box processing envelope" loading="lazy" width="500" height="308">
-</a>
-
 #### ORWO Chrom UT21 (ref: 3fd5)
 
 ```
@@ -11797,6 +11756,48 @@ UUID  : 0bd454e6225a4c5799d36e51135208f0
 
 <a href="./archive/00673_001.jpg" target="_blank">
 	<img src="./lowres/00673_001.jpg" alt="ORWO OWRO Color PC7 35mm film box outside" loading="lazy" width="500" height="485">
+</a>
+
+#### ORWO OrwoChrom UT18 (ref: 81b7)
+
+```
+Format: 35mm         |  Process : Unknown 
+ISO   : 50           |  Expiry  : Unknown 
+Type  : Single Pack  |  Quantity: 36exp   
+Added : 2025-10-17   |  Author  : @recycling.film
+UUID  : d82a8047531f4e4bbdfe4c0bb95c81b7
+```
+
+<a href="./archive/00408_000.jpg" target="_blank">
+	<img src="./lowres/00408_000.jpg" alt="ORWO OrwoChrom UT18 35mm film box outside" loading="lazy" width="488" height="500">
+</a>
+
+
+`UUID: 1515034bddc345419da08ea6a497ee34`↓
+
+<a href="./archive/00408_001.jpg" target="_blank">
+	<img src="./lowres/00408_001.jpg" alt="ORWO OrwoChrom UT18 35mm film box leaflet" loading="lazy" width="343" height="499">
+</a>
+
+
+`UUID: 062fdd558f6c48fda2979f72c7443cad`↓
+
+<a href="./archive/00408_002.jpg" target="_blank">
+	<img src="./lowres/00408_002.jpg" alt="ORWO OrwoChrom UT18 35mm film box leaflet" loading="lazy" width="306" height="500">
+</a>
+
+
+`UUID: acc4b02a5b2d422ebda7149636e817b3`↓
+
+<a href="./archive/00408_003.jpg" target="_blank">
+	<img src="./lowres/00408_003.jpg" alt="ORWO OrwoChrom UT18 35mm film box processing envelope" loading="lazy" width="500" height="321">
+</a>
+
+
+`UUID: 437046f79d2141bfb2af8247bc1a6ba3`↓
+
+<a href="./archive/00408_004.jpg" target="_blank">
+	<img src="./lowres/00408_004.jpg" alt="ORWO OrwoChrom UT18 35mm film box processing envelope" loading="lazy" width="500" height="308">
 </a>
 
 #### ORWO OrwoChrome RC100 (ref: a9b6)
@@ -12126,6 +12127,20 @@ UUID  : b009e5b8edc4410da0efdcc563624d5a
 
 <a href="./archive/00645_005.jpg" target="_blank">
 	<img src="./lowres/00645_005.jpg" alt="ORWO UP 27 DS 8 8mm film box leaflet" loading="lazy" width="187" height="500">
+</a>
+
+#### Ogapan Panchromatic (ref: 9c23)
+
+```
+Format: 35mm         |  Process : BW      
+ISO   : 40           |  Expiry  : 1962-10 
+Type  : Single Pack  |  Quantity: 36exp   
+Added : 2026-08-16   |  Author  : Constantino
+UUID  : c01fbe88bcfc41aa89cf002ce11b9c23
+```
+
+<a href="./archive/00698_000.jpg" target="_blank">
+	<img src="./lowres/00698_000.jpg" alt="Ogapan Panchromatic 35mm film box outside" loading="lazy" width="500" height="463">
 </a>
 
 #### Ogapan Panchromatic (ref: a972)
@@ -14605,6 +14620,7 @@ Rank  Username                      Contributions
 53    @shotbyliampewpew             1     
 54    Joo                           1     
 55    @titanic_159                  1     
+56    Constantino                   1     
 ```
 
 ## Questions or Comments?

@@ -15,9 +15,9 @@ Want to contribute? [Check out the guidelines!](../contribution_guide.md)
 ☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️
 
 ```
-Last Updated: Aug 15 2026
-Unique items: 693
-Total scans : 1278
+Last Updated: Aug 16 2026
+Unique items: 694
+Total scans : 1279
 ```
 
 -----
@@ -220,8 +220,8 @@ Total scans : 1278
 - [[@recycling.film] Kodak Tri-X Pan (ref: 85e9)](#recyclingfilm-kodak-tri-x-pan-ref-85e9)
 - [[@recycling.film] Kodak UltraMax (ref: e4ad)](#recyclingfilm-kodak-ultramax-ref-e4ad)
 - [[@recycling.film] Nishika Color Print Film (ref: baeb)](#recyclingfilm-nishika-color-print-film-ref-baeb)
-- [[@recycling.film] ORWO Chrom UT18 (ref: 81b7)](#recyclingfilm-orwo-chrom-ut18-ref-81b7)
 - [[@recycling.film] ORWO NP15 (ref: 9a20)](#recyclingfilm-orwo-np15-ref-9a20)
+- [[@recycling.film] ORWO OrwoChrom UT18 (ref: 81b7)](#recyclingfilm-orwo-orwochrom-ut18-ref-81b7)
 - [[@recycling.film] Perfect Photo Inc. Perfect-Pan Film (ref: c214)](#recyclingfilm-perfect-photo-inc-perfect-pan-film-ref-c214)
 - [[@recycling.film] Perutz Peromnia 21 (ref: fa4a)](#recyclingfilm-perutz-peromnia-21-ref-fa4a)
 - [[@recycling.film] Perutz Perpantic Film (ref: 58b1)](#recyclingfilm-perutz-perpantic-film-ref-58b1)
@@ -278,6 +278,7 @@ Total scans : 1278
 - [[Chrisbes] Reflx Lab 640T AHU (ref: 2ce9)](#chrisbes-reflx-lab-640t-ahu-ref-2ce9)
 - [[Chrisbes] Reflx Lab 800T (ref: 6b6b)](#chrisbes-reflx-lab-800t-ref-6b6b)
 - [[Chrisbes] Reflx Lab Fortuna (ref: 56a5)](#chrisbes-reflx-lab-fortuna-ref-56a5)
+- [[Constantino] Ogapan Panchromatic (ref: 9c23)](#constantino-ogapan-panchromatic-ref-9c23)
 - [[Dialupdude] 1Shot Color Print Film (ref: 8cf0)](#dialupdude-1shot-color-print-film-ref-8cf0)
 - [[Dialupdude] 1Shot Fun Shooter Flash (ref: 31aa)](#dialupdude-1shot-fun-shooter-flash-ref-31aa)
 - [[Dialupdude] Fujifilm 400 Speed Film (ref: 7f19)](#dialupdude-fujifilm-400-speed-film-ref-7f19)
@@ -311,7 +312,7 @@ Total scans : 1278
 - [[Kraksen] Marix Professional Negative Movie Color Film (ref: c457)](#kraksen-marix-professional-negative-movie-color-film-ref-c457)
 - [[Luci 101] Agfa AgfaChrome 100RS (ref: 2c42)](#luci-101-agfa-agfachrome-100rs-ref-2c42)
 - [[Luci 101] Agfa AgfaChrome 50 S (ref: eb28)](#luci-101-agfa-agfachrome-50-s-ref-eb28)
-- [[Luci 101] Foton Fotopan (ref: 6ba7)](#luci-101-foton-fotopan-ref-6ba7)
+- [[Luci 101] Foton Fotopan CD (ref: 6ba7)](#luci-101-foton-fotopan-cd-ref-6ba7)
 - [[Luci 101] Foton Mikrofilm Negatywowy Super Orto (ref: 003e)](#luci-101-foton-mikrofilm-negatywowy-super-orto-ref-003e)
 - [[Luci 101] Foton Super Orto (ref: 050b)](#luci-101-foton-super-orto-ref-050b)
 - [[Luci 101] Gevaert Panchro Super (ref: fd4c)](#luci-101-gevaert-panchro-super-ref-fd4c)
@@ -4260,48 +4261,6 @@ UUID  : c8f31c7a1adf423bbc4d35eae399baeb
 	<img src="./lowres/00406_000.jpg" alt="Nishika Color Print Film 35mm film box outside" loading="lazy" width="500" height="499">
 </a>
 
-#### [@recycling.film] ORWO Chrom UT18 (ref: 81b7)
-
-```
-Format: 35mm         |  Process : Unknown 
-ISO   : 50           |  Expiry  : Unknown 
-Type  : Single Pack  |  Quantity: 36exp   
-Added : 2025-10-17   |  Author  : @recycling.film
-UUID  : d82a8047531f4e4bbdfe4c0bb95c81b7
-```
-
-<a href="./archive/00408_000.jpg" target="_blank">
-	<img src="./lowres/00408_000.jpg" alt="ORWO Chrom UT18 35mm film box outside" loading="lazy" width="488" height="500">
-</a>
-
-
-`UUID: 1515034bddc345419da08ea6a497ee34`↓
-
-<a href="./archive/00408_001.jpg" target="_blank">
-	<img src="./lowres/00408_001.jpg" alt="ORWO Chrom UT18 35mm film box leaflet" loading="lazy" width="343" height="499">
-</a>
-
-
-`UUID: 062fdd558f6c48fda2979f72c7443cad`↓
-
-<a href="./archive/00408_002.jpg" target="_blank">
-	<img src="./lowres/00408_002.jpg" alt="ORWO Chrom UT18 35mm film box leaflet" loading="lazy" width="306" height="500">
-</a>
-
-
-`UUID: acc4b02a5b2d422ebda7149636e817b3`↓
-
-<a href="./archive/00408_003.jpg" target="_blank">
-	<img src="./lowres/00408_003.jpg" alt="ORWO Chrom UT18 35mm film box processing envelope" loading="lazy" width="500" height="321">
-</a>
-
-
-`UUID: 437046f79d2141bfb2af8247bc1a6ba3`↓
-
-<a href="./archive/00408_004.jpg" target="_blank">
-	<img src="./lowres/00408_004.jpg" alt="ORWO Chrom UT18 35mm film box processing envelope" loading="lazy" width="500" height="308">
-</a>
-
 #### [@recycling.film] ORWO NP15 (ref: 9a20)
 
 ```
@@ -4328,6 +4287,48 @@ UUID  : 50956257d99f4f24a3ec712e77379a20
 
 <a href="./archive/00394_002.jpg" target="_blank">
 	<img src="./lowres/00394_002.jpg" alt="ORWO NP15 120 film box leaflet" loading="lazy" width="322" height="499">
+</a>
+
+#### [@recycling.film] ORWO OrwoChrom UT18 (ref: 81b7)
+
+```
+Format: 35mm         |  Process : Unknown 
+ISO   : 50           |  Expiry  : Unknown 
+Type  : Single Pack  |  Quantity: 36exp   
+Added : 2025-10-17   |  Author  : @recycling.film
+UUID  : d82a8047531f4e4bbdfe4c0bb95c81b7
+```
+
+<a href="./archive/00408_000.jpg" target="_blank">
+	<img src="./lowres/00408_000.jpg" alt="ORWO OrwoChrom UT18 35mm film box outside" loading="lazy" width="488" height="500">
+</a>
+
+
+`UUID: 1515034bddc345419da08ea6a497ee34`↓
+
+<a href="./archive/00408_001.jpg" target="_blank">
+	<img src="./lowres/00408_001.jpg" alt="ORWO OrwoChrom UT18 35mm film box leaflet" loading="lazy" width="343" height="499">
+</a>
+
+
+`UUID: 062fdd558f6c48fda2979f72c7443cad`↓
+
+<a href="./archive/00408_002.jpg" target="_blank">
+	<img src="./lowres/00408_002.jpg" alt="ORWO OrwoChrom UT18 35mm film box leaflet" loading="lazy" width="306" height="500">
+</a>
+
+
+`UUID: acc4b02a5b2d422ebda7149636e817b3`↓
+
+<a href="./archive/00408_003.jpg" target="_blank">
+	<img src="./lowres/00408_003.jpg" alt="ORWO OrwoChrom UT18 35mm film box processing envelope" loading="lazy" width="500" height="321">
+</a>
+
+
+`UUID: 437046f79d2141bfb2af8247bc1a6ba3`↓
+
+<a href="./archive/00408_004.jpg" target="_blank">
+	<img src="./lowres/00408_004.jpg" alt="ORWO OrwoChrom UT18 35mm film box processing envelope" loading="lazy" width="500" height="308">
 </a>
 
 #### [@recycling.film] Perfect Photo Inc. Perfect-Pan Film (ref: c214)
@@ -5254,6 +5255,20 @@ UUID  : bdd39fdcda30420cb3b0cfb12bbf56a5
 	<img src="./lowres/00672_000.jpg" alt="Reflx Lab Fortuna 110 film box outside" loading="lazy" width="500" height="390">
 </a>
 
+#### [Constantino] Ogapan Panchromatic (ref: 9c23)
+
+```
+Format: 35mm         |  Process : BW      
+ISO   : 40           |  Expiry  : 1962-10 
+Type  : Single Pack  |  Quantity: 36exp   
+Added : 2026-08-16   |  Author  : Constantino
+UUID  : c01fbe88bcfc41aa89cf002ce11b9c23
+```
+
+<a href="./archive/00698_000.jpg" target="_blank">
+	<img src="./lowres/00698_000.jpg" alt="Ogapan Panchromatic 35mm film box outside" loading="lazy" width="500" height="463">
+</a>
+
 #### [Dialupdude] 1Shot Color Print Film (ref: 8cf0)
 
 ```
@@ -5940,7 +5955,7 @@ UUID  : 614f88677713446992d710403ec5eb28
 	<img src="./lowres/00566_005.jpg" alt="Agfa AgfaChrome 50 S 120 film box leaflet" loading="lazy" width="486" height="500">
 </a>
 
-#### [Luci 101] Foton Fotopan (ref: 6ba7)
+#### [Luci 101] Foton Fotopan CD (ref: 6ba7)
 
 ```
 Format: 35mm         |  Process : BW      
@@ -5951,21 +5966,21 @@ UUID  : e411c38ab057475f8874bd176d3e6ba7
 ```
 
 <a href="./archive/00529_000.jpg" target="_blank">
-	<img src="./lowres/00529_000.jpg" alt="Foton Fotopan 35mm film box outside" loading="lazy" width="500" height="469">
+	<img src="./lowres/00529_000.jpg" alt="Foton Fotopan CD 35mm film box outside" loading="lazy" width="500" height="469">
 </a>
 
 
 `UUID: c106929fe57e459dbac9ee8e10ca9b50`↓
 
 <a href="./archive/00529_001.jpg" target="_blank">
-	<img src="./lowres/00529_001.jpg" alt="Foton Fotopan 35mm film box leaflet" loading="lazy" width="283" height="500">
+	<img src="./lowres/00529_001.jpg" alt="Foton Fotopan CD 35mm film box leaflet" loading="lazy" width="283" height="500">
 </a>
 
 
 `UUID: 1dc440471e384b01a55f1877dc636836`↓
 
 <a href="./archive/00529_002.jpg" target="_blank">
-	<img src="./lowres/00529_002.jpg" alt="Foton Fotopan 35mm film box leaflet" loading="lazy" width="270" height="500">
+	<img src="./lowres/00529_002.jpg" alt="Foton Fotopan CD 35mm film box leaflet" loading="lazy" width="270" height="500">
 </a>
 
 #### [Luci 101] Foton Mikrofilm Negatywowy Super Orto (ref: 003e)
@@ -14605,6 +14620,7 @@ Rank  Username                      Contributions
 53    @shotbyliampewpew             1     
 54    Joo                           1     
 55    @titanic_159                  1     
+56    Constantino                   1     
 ```
 
 ## Questions or Comments?
