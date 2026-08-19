@@ -15,13 +15,14 @@ Want to contribute? [Check out the guidelines!](../contribution_guide.md)
 ☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️
 
 ```
-Last Updated: Aug 16 2026
-Unique items: 694
-Total scans : 1279
+Last Updated: Aug 19 2026
+Unique items: 695
+Total scans : 1281
 ```
 
 -----
 
+- [[2026-08-19] Hansa Hansacolor 100 Super Plus (ref: 67b2)](#2026-08-19-hansa-hansacolor-100-super-plus-ref-67b2)
 - [[2026-08-16] Ogapan Panchromatic (ref: 9c23)](#2026-08-16-ogapan-panchromatic-ref-9c23)
 - [[2026-08-15] Kodak Portra 160NC (ref: e513)](#2026-08-15-kodak-portra-160nc-ref-e513)
 - [[2026-08-15] Agfa Agfapan APX 25 (ref: 5a92)](#2026-08-15-agfa-agfapan-apx-25-ref-5a92)
@@ -719,6 +720,27 @@ Total scans : 1279
 
 
 -----
+
+
+`UUID: c8f70224514b43a599f262caebbdfc02`↓
+
+<a href="./archive/00699_001.jpg" target="_blank">
+	<img src="./lowres/00699_001.jpg" alt="Hansa Hansacolor 100 Super Plus 35mm film box inside" loading="lazy" width="386" height="500">
+</a>
+
+#### [2026-08-19] Hansa Hansacolor 100 Super Plus (ref: 67b2)
+
+```
+Format: 35mm         |  Process : C-41    
+ISO   : 100          |  Expiry  : 2000-11 
+Type  : Single Pack  |  Quantity: 24exp   
+Added : 2026-08-19   |  Author  : @pommegranny
+UUID  : ec5187c506fe4e84bc10fa21d39467b2
+```
+
+<a href="./archive/00699_000.jpg" target="_blank">
+	<img src="./lowres/00699_000.jpg" alt="Hansa Hansacolor 100 Super Plus 35mm film box outside" loading="lazy" width="431" height="499">
+</a>
 
 #### [2026-08-16] Ogapan Panchromatic (ref: 9c23)
 
@@ -14613,14 +14635,15 @@ Rank  Username                      Contributions
 46    @tylerdrey                    2     
 47    Warren Umbach                 2     
 48    @flyingcamerastudio           2     
-49    Yrikonchik                    1     
-50    @ad.astra.per.aspera.1894     1     
-51    Aoi Yuki                      1     
-52    lemoniter                     1     
-53    @shotbyliampewpew             1     
-54    Joo                           1     
-55    @titanic_159                  1     
-56    Constantino                   1     
+49    @pommegranny                  2     
+50    Yrikonchik                    1     
+51    @ad.astra.per.aspera.1894     1     
+52    Aoi Yuki                      1     
+53    lemoniter                     1     
+54    @shotbyliampewpew             1     
+55    Joo                           1     
+56    @titanic_159                  1     
+57    Constantino                   1     
 ```
 
 ## Questions or Comments?

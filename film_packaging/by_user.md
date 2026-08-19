@@ -15,9 +15,9 @@ Want to contribute? [Check out the guidelines!](../contribution_guide.md)
 ☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️
 
 ```
-Last Updated: Aug 16 2026
-Unique items: 694
-Total scans : 1279
+Last Updated: Aug 19 2026
+Unique items: 695
+Total scans : 1281
 ```
 
 -----
@@ -190,6 +190,7 @@ Total scans : 1279
 - [[@photos.by.qi] Lomography Lomochrome Purple (ref: 8b00)](#photosbyqi-lomography-lomochrome-purple-ref-8b00)
 - [[@photos.by.qi] Space Cat Film Mars 250D (ref: 5027)](#photosbyqi-space-cat-film-mars-250d-ref-5027)
 - [[@photos.by.qi] Walkens Speed 400 (ref: 740f)](#photosbyqi-walkens-speed-400-ref-740f)
+- [[@pommegranny] Hansa Hansacolor 100 Super Plus (ref: 67b2)](#pommegranny-hansa-hansacolor-100-super-plus-ref-67b2)
 - [[@recycling.film] ADOX KB 17 (ref: 88a5)](#recyclingfilm-adox-kb-17-ref-88a5)
 - [[@recycling.film] Agfa AgfaChrome 50 S (ref: 71a8)](#recyclingfilm-agfa-agfachrome-50-s-ref-71a8)
 - [[@recycling.film] Agfa Agfacolor Negative Film Special CNS (ref: 9b03)](#recyclingfilm-agfa-agfacolor-negative-film-special-cns-ref-9b03)
@@ -3719,6 +3720,27 @@ UUID  : 198465748a5e41f8ad634fffa08a740f
 
 <a href="./archive/00228_000.jpg" target="_blank">
 	<img src="./lowres/00228_000.jpg" alt="Walkens Speed 400 35mm film box outside" loading="lazy" width="397" height="500">
+</a>
+
+#### [@pommegranny] Hansa Hansacolor 100 Super Plus (ref: 67b2)
+
+```
+Format: 35mm         |  Process : C-41    
+ISO   : 100          |  Expiry  : 2000-11 
+Type  : Single Pack  |  Quantity: 24exp   
+Added : 2026-08-19   |  Author  : @pommegranny
+UUID  : ec5187c506fe4e84bc10fa21d39467b2
+```
+
+<a href="./archive/00699_000.jpg" target="_blank">
+	<img src="./lowres/00699_000.jpg" alt="Hansa Hansacolor 100 Super Plus 35mm film box outside" loading="lazy" width="431" height="499">
+</a>
+
+
+`UUID: c8f70224514b43a599f262caebbdfc02`↓
+
+<a href="./archive/00699_001.jpg" target="_blank">
+	<img src="./lowres/00699_001.jpg" alt="Hansa Hansacolor 100 Super Plus 35mm film box inside" loading="lazy" width="386" height="500">
 </a>
 
 #### [@recycling.film] ADOX KB 17 (ref: 88a5)
@@ -14613,14 +14635,15 @@ Rank  Username                      Contributions
 46    @tylerdrey                    2     
 47    Warren Umbach                 2     
 48    @flyingcamerastudio           2     
-49    Yrikonchik                    1     
-50    @ad.astra.per.aspera.1894     1     
-51    Aoi Yuki                      1     
-52    lemoniter                     1     
-53    @shotbyliampewpew             1     
-54    Joo                           1     
-55    @titanic_159                  1     
-56    Constantino                   1     
+49    @pommegranny                  2     
+50    Yrikonchik                    1     
+51    @ad.astra.per.aspera.1894     1     
+52    Aoi Yuki                      1     
+53    lemoniter                     1     
+54    @shotbyliampewpew             1     
+55    Joo                           1     
+56    @titanic_159                  1     
+57    Constantino                   1     
 ```
 
 ## Questions or Comments?

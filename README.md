@@ -29,9 +29,9 @@ This project is **fully open-source**. [`[GitHub Repo]`](https://github.com/deku
 ☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️
 
 ```
-Last Updated: Aug 16 2026
-Unique items: 694
-Total scans : 1279
+Last Updated: Aug 19 2026
+Unique items: 695
+Total scans : 1281
 ```
 
 Or Sort by...
@@ -101,19 +101,23 @@ Rank  Username                      Contributions
 46    @tylerdrey                    2     
 47    Warren Umbach                 2     
 48    @flyingcamerastudio           2     
-49    Yrikonchik                    1     
-50    @ad.astra.per.aspera.1894     1     
-51    Aoi Yuki                      1     
-52    lemoniter                     1     
-53    @shotbyliampewpew             1     
-54    Joo                           1     
-55    @titanic_159                  1     
-56    Constantino                   1     
+49    @pommegranny                  2     
+50    Yrikonchik                    1     
+51    @ad.astra.per.aspera.1894     1     
+52    Aoi Yuki                      1     
+53    lemoniter                     1     
+54    @shotbyliampewpew             1     
+55    Joo                           1     
+56    @titanic_159                  1     
+57    Constantino                   1     
 ```
 
 ## Recent Activities
 
 ```
+2026-08-19
+  - @pommegranny: Hansa Hansacolor 100 Super Plus
+
 2026-08-16
   - Constantino: Ogapan Panchromatic
 
@@ -152,10 +156,6 @@ Rank  Username                      Contributions
   - nyctomanica: Polaroid Originals Color i-Type Film
   - nyctomanica: Polaroid Originals Color SX-70 Film
   - Rafa Laguillo: Kodak No3 Special Kodak Autographic Film
-
-2026-07-21
-  - Dialupdude: 1Shot Fun Shooter Flash
-  - waldoboro: Kodak Ektacolor Pro 400
 ```
 
 ## Disclaimer

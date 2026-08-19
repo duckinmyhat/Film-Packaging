@@ -1278,3 +1278,5 @@ index,sub_index,item_type,brand,product,film_format,film_speed_iso,process,expir
 697,0,film_box_outside,Kodak,Portra 160NC,35mm,160,C-41,200702,1786796433,d031a6f0223d9883f0d1f49f3401b55e,9eb720d7de6e45bc97014b3e0717e513,00697_000.jpg,@flyingcamerastudio,,Bulk Roll,100ft
 697,1,film_box_inside,Kodak,Portra 160NC,35mm,160,C-41,200702,1786796435,caa3c9fd8b9fb1db63f6a657dd0406b6,fbdf25a3d97b4a0992a1d662621afd14,00697_001.jpg,@flyingcamerastudio,,Bulk Roll,100ft
 698,0,film_box_outside,Ogapan,Panchromatic,35mm,40,BW,196210,1786881546,10945aaf6a02d317c525371adc341b5b,c01fbe88bcfc41aa89cf002ce11b9c23,00698_000.jpg,Constantino,,Single Pack,36exp
+699,0,film_box_outside,Hansa,Hansacolor 100 Super Plus,35mm,100,C-41,200011,1787174265,8a7d8fcc671b6051ee9a98cfca496808,ec5187c506fe4e84bc10fa21d39467b2,00699_000.jpg,@pommegranny,,Single Pack,24exp
+699,1,film_box_inside,Hansa,Hansacolor 100 Super Plus,35mm,100,C-41,200011,1787174270,c30da3f558561ef9ccdc53c098dc3c63,c8f70224514b43a599f262caebbdfc02,00699_001.jpg,@pommegranny,,Single Pack,24exp

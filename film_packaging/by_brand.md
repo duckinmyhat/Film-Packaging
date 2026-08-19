@@ -15,9 +15,9 @@ Want to contribute? [Check out the guidelines!](../contribution_guide.md)
 ☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️
 
 ```
-Last Updated: Aug 16 2026
-Unique items: 694
-Total scans : 1279
+Last Updated: Aug 19 2026
+Unique items: 695
+Total scans : 1281
 ```
 
 -----
@@ -247,6 +247,7 @@ Total scans : 1279
 - [Gevaert Ultra Panchro Normal (ref: 1ff6)](#gevaert-ultra-panchro-normal-ref-1ff6)
 - [Great Films Processing Kodachrome (ref: c012)](#great-films-processing-kodachrome-ref-c012)
 - [Hands On Film Midnight 1600 (ref: 4411)](#hands-on-film-midnight-1600-ref-4411)
+- [Hansa Hansacolor 100 Super Plus (ref: 67b2)](#hansa-hansacolor-100-super-plus-ref-67b2)
 - [Harman Phoenix (ref: 8eb4)](#harman-phoenix-ref-8eb4)
 - [Harman Phoenix (ref: 637f)](#harman-phoenix-ref-637f)
 - [Harman Phoenix II (ref: f686)](#harman-phoenix-ii-ref-f686)
@@ -5066,6 +5067,27 @@ UUID  : 515a9a246a8e4eed87d77142623a4411
 
 <a href="./archive/00206_000.jpg" target="_blank">
 	<img src="./lowres/00206_000.jpg" alt="Hands On Film Midnight 1600 35mm film box outside" loading="lazy" width="473" height="500">
+</a>
+
+#### Hansa Hansacolor 100 Super Plus (ref: 67b2)
+
+```
+Format: 35mm         |  Process : C-41    
+ISO   : 100          |  Expiry  : 2000-11 
+Type  : Single Pack  |  Quantity: 24exp   
+Added : 2026-08-19   |  Author  : @pommegranny
+UUID  : ec5187c506fe4e84bc10fa21d39467b2
+```
+
+<a href="./archive/00699_000.jpg" target="_blank">
+	<img src="./lowres/00699_000.jpg" alt="Hansa Hansacolor 100 Super Plus 35mm film box outside" loading="lazy" width="431" height="499">
+</a>
+
+
+`UUID: c8f70224514b43a599f262caebbdfc02`↓
+
+<a href="./archive/00699_001.jpg" target="_blank">
+	<img src="./lowres/00699_001.jpg" alt="Hansa Hansacolor 100 Super Plus 35mm film box inside" loading="lazy" width="386" height="500">
 </a>
 
 #### Harman Phoenix (ref: 8eb4)
@@ -14613,14 +14635,15 @@ Rank  Username                      Contributions
 46    @tylerdrey                    2     
 47    Warren Umbach                 2     
 48    @flyingcamerastudio           2     
-49    Yrikonchik                    1     
-50    @ad.astra.per.aspera.1894     1     
-51    Aoi Yuki                      1     
-52    lemoniter                     1     
-53    @shotbyliampewpew             1     
-54    Joo                           1     
-55    @titanic_159                  1     
-56    Constantino                   1     
+49    @pommegranny                  2     
+50    Yrikonchik                    1     
+51    @ad.astra.per.aspera.1894     1     
+52    Aoi Yuki                      1     
+53    lemoniter                     1     
+54    @shotbyliampewpew             1     
+55    Joo                           1     
+56    @titanic_159                  1     
+57    Constantino                   1     
 ```
 
 ## Questions or Comments?
