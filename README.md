@@ -29,9 +29,9 @@ This project is **fully open-source**. [`[GitHub Repo]`](https://github.com/deku
 ☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️
 
 ```
-Last Updated: Aug 19 2026
-Unique items: 695
-Total scans : 1281
+Last Updated: Aug 21 2026
+Unique items: 699
+Total scans : 1288
 ```
 
 Or Sort by...
@@ -57,10 +57,10 @@ Rank  Username                      Contributions
 2     Luci 101                      102   
 3     @photos.by.qi                 72    
 4     Pelicram                      71    
-5     @Hol.m35                      67    
+5     @Hol.m35                      69    
 6     @ellafridalindblom            67    
-7     @recycling.film               66    
-8     nyctomanica                   65    
+7     nyctomanica                   67    
+8     @recycling.film               66    
 9     Dialupdude                    30    
 10    Mauphoto                      28    
 11    The Compartmentalist          25    
@@ -82,15 +82,15 @@ Rank  Username                      Contributions
 27    lilyu.xyz                     9     
 28    lt_col_tall                   9     
 29    MCB18                         9     
-30    @toastergod101                7     
-31    @filmfotofella                7     
-32    GreatGizmo74                  6     
-33    nick                          6     
-34    Greg                          6     
-35    Kraksen                       5     
-36    @gregrouxphotography          5     
-37    Tobias                        5     
-38    Rafa Laguillo                 5     
+30    Rafa Laguillo                 8     
+31    @toastergod101                7     
+32    @filmfotofella                7     
+33    GreatGizmo74                  6     
+34    nick                          6     
+35    Greg                          6     
+36    Kraksen                       5     
+37    @gregrouxphotography          5     
+38    Tobias                        5     
 39    @janjuudas                    5     
 40    Henry Gunn                    4     
 41    TheSelousScout                4     
@@ -115,6 +115,12 @@ Rank  Username                      Contributions
 ## Recent Activities
 
 ```
+2026-08-21
+  - @Hol.m35: Candido Color Negative Film 800
+  - nyctomanica: Kodak Technical Pan
+  - Rafa Laguillo: Kodak Plus-X
+  - Rafa Laguillo: Werlisa Werlisa Sport 100
+
 2026-08-19
   - @pommegranny: Hansa Hansacolor 100 Super Plus
 
@@ -132,30 +138,6 @@ Rank  Username                      Contributions
   - Rafa Laguillo: Agfa Plaques Chromo Isolar
   - Rafa Laguillo: Kodak UltraMax
   - Rafa Laguillo: Lumière Union Photographique Industrielle Plaques au Gélatino-Bromure d'Argent Extra Rapides
-
-2026-08-04
-  - @Hol.m35: Fujifilm Instax Mini
-  - @Hol.m35: Fujifilm Instax Mini Contact Sheet
-  - @Hol.m35: Fujifilm Instax Mini Macaron
-  - @Hol.m35: Lomography Color Negative 120 Film 400
-  - @Hol.m35: Optik Oldschool OptiMono 100
-  - Chrisbes: Lomography Lomochrome Metropolis
-  - Chrisbes: Reflx Lab 200T
-  - Chrisbes: Reflx Lab Fortuna
-  - Joo: Ogapan Panchromatic
-  - Luci 101: ORWO OWRO Color PC7
-  - MCB18: Kodak Imagelink HQ Microfilm
-  - MCB18: Kodak Infrared Aerographic Film 2424
-  - MCB18: Kodak Plus-X Pan
-  - MCB18: Kodak Portra 160 NC
-  - MCB18: Kodak RAR Film 2479
-  - MCB18: Kodak RS Pan
-  - MCB18: Kodak Technical Pan Film 2415
-  - nyctomanica: Polaroid 125i Gloss
-  - nyctomanica: Polaroid Originals Color 600 Film
-  - nyctomanica: Polaroid Originals Color i-Type Film
-  - nyctomanica: Polaroid Originals Color SX-70 Film
-  - Rafa Laguillo: Kodak No3 Special Kodak Autographic Film
 ```
 
 ## Disclaimer

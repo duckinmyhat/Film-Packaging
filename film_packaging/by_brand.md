@@ -15,9 +15,9 @@ Want to contribute? [Check out the guidelines!](../contribution_guide.md)
 ☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️
 
 ```
-Last Updated: Aug 19 2026
-Unique items: 695
-Total scans : 1281
+Last Updated: Aug 21 2026
+Unique items: 699
+Total scans : 1288
 ```
 
 -----
@@ -93,6 +93,7 @@ Total scans : 1281
 - [Building 2 500T (ref: 70d9)](#building-2-500t-ref-70d9)
 - [Building 2 50D (ref: e548)](#building-2-50d-ref-e548)
 - [Camera Film Photo Limited Kiki Pan 320 (ref: 3937)](#camera-film-photo-limited-kiki-pan-320-ref-3937)
+- [Candido Color Negative Film 800 (ref: c39e)](#candido-color-negative-film-800-ref-c39e)
 - [Candido Colour Negative Film (ref: 6cd2)](#candido-colour-negative-film-ref-6cd2)
 - [CatLABS X Film 320 Pro (ref: 1c69)](#catlabs-x-film-320-pro-ref-1c69)
 - [CatLABS X Film 80 MKII (ref: bcd1)](#catlabs-x-film-80-mkii-ref-bcd1)
@@ -444,6 +445,7 @@ Total scans : 1281
 - [Kodak Plus-X (ref: 99a6)](#kodak-plus-x-ref-99a6)
 - [Kodak Plus-X (ref: 4b73)](#kodak-plus-x-ref-4b73)
 - [Kodak Plus-X (ref: b867)](#kodak-plus-x-ref-b867)
+- [Kodak Plus-X (ref: a250)](#kodak-plus-x-ref-a250)
 - [Kodak Plus-X (ref: 7958)](#kodak-plus-x-ref-7958)
 - [Kodak Plus-X Pan (ref: f5cc)](#kodak-plus-x-pan-ref-f5cc)
 - [Kodak Plus-X Pan (ref: 9a4c)](#kodak-plus-x-pan-ref-9a4c)
@@ -482,6 +484,7 @@ Total scans : 1281
 - [Kodak T-MAX P3200 (ref: 43a2)](#kodak-t-max-p3200-ref-43a2)
 - [Kodak T-MAX P3200 (ref: e727)](#kodak-t-max-p3200-ref-e727)
 - [Kodak Technical Pan (ref: f4cf)](#kodak-technical-pan-ref-f4cf)
+- [Kodak Technical Pan (ref: 951e)](#kodak-technical-pan-ref-951e)
 - [Kodak Technical Pan 6415 (ref: 03be)](#kodak-technical-pan-6415-ref-03be)
 - [Kodak Technical Pan Film 2415 (ref: 20de)](#kodak-technical-pan-film-2415-ref-20de)
 - [Kodak Tri-X (ref: d9af)](#kodak-tri-x-ref-d9af)
@@ -711,6 +714,7 @@ Total scans : 1281
 - [VEB Fotochemische Werke Berlin Dekopan Super S (ref: 1620)](#veb-fotochemische-werke-berlin-dekopan-super-s-ref-1620)
 - [Walgreen All Purpose Film (ref: 541b)](#walgreen-all-purpose-film-ref-541b)
 - [Walkens Speed 400 (ref: 740f)](#walkens-speed-400-ref-740f)
+- [Werlisa Werlisa Sport 100 (ref: d7fe)](#werlisa-werlisa-sport-100-ref-d7fe)
 - [Wolfen NC500 (ref: 91c1)](#wolfen-nc500-ref-91c1)
 - [Wolfen NP100 (ref: 71a6)](#wolfen-np100-ref-71a6)
 - [York Photo Labs DXG 200 (ref: 4bf8)](#york-photo-labs-dxg-200-ref-4bf8)
@@ -2133,6 +2137,27 @@ UUID  : b0f0117fd8d74332b67a2e8be3db3937
 
 <a href="./archive/00585_001.jpg" target="_blank">
 	<img src="./lowres/00585_001.jpg" alt="Camera Film Photo Limited Kiki Pan 320 35mm film box inside" loading="lazy" width="463" height="500">
+</a>
+
+#### Candido Color Negative Film 800 (ref: c39e)
+
+```
+Format: 35mm         |  Process : C-41    
+ISO   : 800          |  Expiry  : 2028-07 
+Type  : Single Pack  |  Quantity: 36exp   
+Added : 2026-08-21   |  Author  : @Hol.m35
+UUID  : c4f0677d117446678179ccfafb84c39e
+```
+
+<a href="./archive/00702_000.jpg" target="_blank">
+	<img src="./lowres/00702_000.jpg" alt="Candido Color Negative Film 800 35mm film box outside" loading="lazy" width="402" height="500">
+</a>
+
+
+`UUID: 07b09cec6d9948a2b546a3d122001e62`↓
+
+<a href="./archive/00702_001.jpg" target="_blank">
+	<img src="./lowres/00702_001.jpg" alt="Candido Color Negative Film 800 35mm film box inside" loading="lazy" width="456" height="500">
 </a>
 
 #### Candido Colour Negative Film (ref: 6cd2)
@@ -9051,6 +9076,20 @@ UUID  : def2a04d52794b00aa61a0b801bdb867
 	<img src="./lowres/00379_000.jpg" alt="Kodak Plus-X 35mm film cartridge" loading="lazy" width="500" height="500">
 </a>
 
+#### Kodak Plus-X (ref: a250)
+
+```
+Format: 616          |  Process : BW      
+ISO   : Unknown      |  Expiry  : 1957-10 
+Type  : Single Pack  |  Quantity: N/A     
+Added : 2026-08-21   |  Author  : Rafa Laguillo
+UUID  : 8d1ad6f1ec4d42c3b5b35ffa6718a250
+```
+
+<a href="./archive/00701_000.jpg" target="_blank">
+	<img src="./lowres/00701_000.jpg" alt="Kodak Plus-X 616 film box outside" loading="lazy" width="500" height="436">
+</a>
+
 #### Kodak Plus-X (ref: 7958)
 
 ```
@@ -9730,6 +9769,27 @@ UUID  : e65b4252384141028ee037892c6bf4cf
 
 <a href="./archive/00106_001.jpg" target="_blank">
 	<img src="./lowres/00106_001.jpg" alt="Kodak Technical Pan 35mm film box inside" loading="lazy" width="315" height="500">
+</a>
+
+#### Kodak Technical Pan (ref: 951e)
+
+```
+Format: 35mm         |  Process : BW      
+ISO   : Unknown      |  Expiry  : 2005-01 
+Type  : Single Pack  |  Quantity: 36exp   
+Added : 2026-08-21   |  Author  : nyctomanica
+UUID  : 79d06b422e074d53a6d37add1a0a951e
+```
+
+<a href="./archive/00703_000.jpg" target="_blank">
+	<img src="./lowres/00703_000.jpg" alt="Kodak Technical Pan 35mm film box outside" loading="lazy" width="408" height="500">
+</a>
+
+
+`UUID: 8882c643007f427fad8d9033cefd64d0`↓
+
+<a href="./archive/00703_001.jpg" target="_blank">
+	<img src="./lowres/00703_001.jpg" alt="Kodak Technical Pan 35mm film box inside" loading="lazy" width="408" height="500">
 </a>
 
 #### Kodak Technical Pan 6415 (ref: 03be)
@@ -14459,6 +14519,27 @@ UUID  : 198465748a5e41f8ad634fffa08a740f
 	<img src="./lowres/00228_000.jpg" alt="Walkens Speed 400 35mm film box outside" loading="lazy" width="397" height="500">
 </a>
 
+#### Werlisa Werlisa Sport 100 (ref: d7fe)
+
+```
+Format: 35mm         |  Process : C-41    
+ISO   : 100          |  Expiry  : 2009-12 
+Type  : Single Pack  |  Quantity: 24exp   
+Added : 2026-08-21   |  Author  : Rafa Laguillo
+UUID  : 738ee5f957e543ee8baa4824dcacd7fe
+```
+
+<a href="./archive/00700_000.jpg" target="_blank">
+	<img src="./lowres/00700_000.jpg" alt="Werlisa Werlisa Sport 100 35mm film box outside" loading="lazy" width="407" height="499">
+</a>
+
+
+`UUID: 8d4781efd91f44d3a51f6bf402f1fdf8`↓
+
+<a href="./archive/00700_001.jpg" target="_blank">
+	<img src="./lowres/00700_001.jpg" alt="Werlisa Werlisa Sport 100 35mm film box inside" loading="lazy" width="408" height="500">
+</a>
+
 #### Wolfen NC500 (ref: 91c1)
 
 ```
@@ -14591,10 +14672,10 @@ Rank  Username                      Contributions
 2     Luci 101                      102   
 3     @photos.by.qi                 72    
 4     Pelicram                      71    
-5     @Hol.m35                      67    
+5     @Hol.m35                      69    
 6     @ellafridalindblom            67    
-7     @recycling.film               66    
-8     nyctomanica                   65    
+7     nyctomanica                   67    
+8     @recycling.film               66    
 9     Dialupdude                    30    
 10    Mauphoto                      28    
 11    The Compartmentalist          25    
@@ -14616,15 +14697,15 @@ Rank  Username                      Contributions
 27    lilyu.xyz                     9     
 28    lt_col_tall                   9     
 29    MCB18                         9     
-30    @toastergod101                7     
-31    @filmfotofella                7     
-32    GreatGizmo74                  6     
-33    nick                          6     
-34    Greg                          6     
-35    Kraksen                       5     
-36    @gregrouxphotography          5     
-37    Tobias                        5     
-38    Rafa Laguillo                 5     
+30    Rafa Laguillo                 8     
+31    @toastergod101                7     
+32    @filmfotofella                7     
+33    GreatGizmo74                  6     
+34    nick                          6     
+35    Greg                          6     
+36    Kraksen                       5     
+37    @gregrouxphotography          5     
+38    Tobias                        5     
 39    @janjuudas                    5     
 40    Henry Gunn                    4     
 41    TheSelousScout                4     

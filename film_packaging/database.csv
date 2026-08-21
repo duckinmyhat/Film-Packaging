@@ -1280,3 +1280,10 @@ index,sub_index,item_type,brand,product,film_format,film_speed_iso,process,expir
 698,0,film_box_outside,Ogapan,Panchromatic,35mm,40,BW,196210,1786881546,10945aaf6a02d317c525371adc341b5b,c01fbe88bcfc41aa89cf002ce11b9c23,00698_000.jpg,Constantino,,Single Pack,36exp
 699,0,film_box_outside,Hansa,Hansacolor 100 Super Plus,35mm,100,C-41,200011,1787174265,8a7d8fcc671b6051ee9a98cfca496808,ec5187c506fe4e84bc10fa21d39467b2,00699_000.jpg,@pommegranny,,Single Pack,24exp
 699,1,film_box_inside,Hansa,Hansacolor 100 Super Plus,35mm,100,C-41,200011,1787174270,c30da3f558561ef9ccdc53c098dc3c63,c8f70224514b43a599f262caebbdfc02,00699_001.jpg,@pommegranny,,Single Pack,24exp
+700,0,film_box_outside,Werlisa,Werlisa Sport 100,35mm,100,C-41,200912,1787304695,66f51d04182361d2fb0d288a42d0d9a1,738ee5f957e543ee8baa4824dcacd7fe,00700_000.jpg,Rafa Laguillo,,Single Pack,24exp
+700,1,film_box_inside,Werlisa,Werlisa Sport 100,35mm,100,C-41,200912,1787304697,408d6ab22ef72783462714a4ce67be09,8d4781efd91f44d3a51f6bf402f1fdf8,00700_001.jpg,Rafa Laguillo,,Single Pack,24exp
+701,0,film_box_outside,Kodak,Plus-X,616,Unknown,BW,195710,1787304793,1b280bc13b0bc8f311ed7ff6e2ca9734,8d1ad6f1ec4d42c3b5b35ffa6718a250,00701_000.jpg,Rafa Laguillo,,Single Pack,N/A
+702,0,film_box_outside,Candido,Color Negative Film 800,35mm,800,C-41,202807,1787304938,c14a18f402b9a39319052f82da962e9b,c4f0677d117446678179ccfafb84c39e,00702_000.jpg,@Hol.m35,,Single Pack,36exp
+702,1,film_box_inside,Candido,Color Negative Film 800,35mm,800,C-41,202807,1787304939,53503df4f1757ca38de3957557406ef9,07b09cec6d9948a2b546a3d122001e62,00702_001.jpg,@Hol.m35,,Single Pack,36exp
+703,0,film_box_outside,Kodak,Technical Pan,35mm,Unknown,BW,200501,1787305031,085d784366a9e3369d9f6419dc905f92,79d06b422e074d53a6d37add1a0a951e,00703_000.jpg,nyctomanica,,Single Pack,36exp
+703,1,film_box_inside,Kodak,Technical Pan,35mm,Unknown,BW,200501,1787305034,f2649f5d34bd82d9c5ef7b019692adb3,8882c643007f427fad8d9033cefd64d0,00703_001.jpg,nyctomanica,,Single Pack,36exp

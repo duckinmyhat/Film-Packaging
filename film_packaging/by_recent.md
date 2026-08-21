@@ -15,13 +15,17 @@ Want to contribute? [Check out the guidelines!](../contribution_guide.md)
 ☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️
 
 ```
-Last Updated: Aug 19 2026
-Unique items: 695
-Total scans : 1281
+Last Updated: Aug 21 2026
+Unique items: 699
+Total scans : 1288
 ```
 
 -----
 
+- [[2026-08-21] Kodak Technical Pan (ref: 951e)](#2026-08-21-kodak-technical-pan-ref-951e)
+- [[2026-08-21] Candido Color Negative Film 800 (ref: c39e)](#2026-08-21-candido-color-negative-film-800-ref-c39e)
+- [[2026-08-21] Kodak Plus-X (ref: a250)](#2026-08-21-kodak-plus-x-ref-a250)
+- [[2026-08-21] Werlisa Werlisa Sport 100 (ref: d7fe)](#2026-08-21-werlisa-werlisa-sport-100-ref-d7fe)
 - [[2026-08-19] Hansa Hansacolor 100 Super Plus (ref: 67b2)](#2026-08-19-hansa-hansacolor-100-super-plus-ref-67b2)
 - [[2026-08-16] Ogapan Panchromatic (ref: 9c23)](#2026-08-16-ogapan-panchromatic-ref-9c23)
 - [[2026-08-15] Kodak Portra 160NC (ref: e513)](#2026-08-15-kodak-portra-160nc-ref-e513)
@@ -720,6 +724,83 @@ Total scans : 1281
 
 
 -----
+
+
+`UUID: 8882c643007f427fad8d9033cefd64d0`↓
+
+<a href="./archive/00703_001.jpg" target="_blank">
+	<img src="./lowres/00703_001.jpg" alt="Kodak Technical Pan 35mm film box inside" loading="lazy" width="408" height="500">
+</a>
+
+#### [2026-08-21] Kodak Technical Pan (ref: 951e)
+
+```
+Format: 35mm         |  Process : BW      
+ISO   : Unknown      |  Expiry  : 2005-01 
+Type  : Single Pack  |  Quantity: 36exp   
+Added : 2026-08-21   |  Author  : nyctomanica
+UUID  : 79d06b422e074d53a6d37add1a0a951e
+```
+
+<a href="./archive/00703_000.jpg" target="_blank">
+	<img src="./lowres/00703_000.jpg" alt="Kodak Technical Pan 35mm film box outside" loading="lazy" width="408" height="500">
+</a>
+
+
+`UUID: 07b09cec6d9948a2b546a3d122001e62`↓
+
+<a href="./archive/00702_001.jpg" target="_blank">
+	<img src="./lowres/00702_001.jpg" alt="Candido Color Negative Film 800 35mm film box inside" loading="lazy" width="456" height="500">
+</a>
+
+#### [2026-08-21] Candido Color Negative Film 800 (ref: c39e)
+
+```
+Format: 35mm         |  Process : C-41    
+ISO   : 800          |  Expiry  : 2028-07 
+Type  : Single Pack  |  Quantity: 36exp   
+Added : 2026-08-21   |  Author  : @Hol.m35
+UUID  : c4f0677d117446678179ccfafb84c39e
+```
+
+<a href="./archive/00702_000.jpg" target="_blank">
+	<img src="./lowres/00702_000.jpg" alt="Candido Color Negative Film 800 35mm film box outside" loading="lazy" width="402" height="500">
+</a>
+
+#### [2026-08-21] Kodak Plus-X (ref: a250)
+
+```
+Format: 616          |  Process : BW      
+ISO   : Unknown      |  Expiry  : 1957-10 
+Type  : Single Pack  |  Quantity: N/A     
+Added : 2026-08-21   |  Author  : Rafa Laguillo
+UUID  : 8d1ad6f1ec4d42c3b5b35ffa6718a250
+```
+
+<a href="./archive/00701_000.jpg" target="_blank">
+	<img src="./lowres/00701_000.jpg" alt="Kodak Plus-X 616 film box outside" loading="lazy" width="500" height="436">
+</a>
+
+
+`UUID: 8d4781efd91f44d3a51f6bf402f1fdf8`↓
+
+<a href="./archive/00700_001.jpg" target="_blank">
+	<img src="./lowres/00700_001.jpg" alt="Werlisa Werlisa Sport 100 35mm film box inside" loading="lazy" width="408" height="500">
+</a>
+
+#### [2026-08-21] Werlisa Werlisa Sport 100 (ref: d7fe)
+
+```
+Format: 35mm         |  Process : C-41    
+ISO   : 100          |  Expiry  : 2009-12 
+Type  : Single Pack  |  Quantity: 24exp   
+Added : 2026-08-21   |  Author  : Rafa Laguillo
+UUID  : 738ee5f957e543ee8baa4824dcacd7fe
+```
+
+<a href="./archive/00700_000.jpg" target="_blank">
+	<img src="./lowres/00700_000.jpg" alt="Werlisa Werlisa Sport 100 35mm film box outside" loading="lazy" width="407" height="499">
+</a>
 
 
 `UUID: c8f70224514b43a599f262caebbdfc02`↓
@@ -14591,10 +14672,10 @@ Rank  Username                      Contributions
 2     Luci 101                      102   
 3     @photos.by.qi                 72    
 4     Pelicram                      71    
-5     @Hol.m35                      67    
+5     @Hol.m35                      69    
 6     @ellafridalindblom            67    
-7     @recycling.film               66    
-8     nyctomanica                   65    
+7     nyctomanica                   67    
+8     @recycling.film               66    
 9     Dialupdude                    30    
 10    Mauphoto                      28    
 11    The Compartmentalist          25    
@@ -14616,15 +14697,15 @@ Rank  Username                      Contributions
 27    lilyu.xyz                     9     
 28    lt_col_tall                   9     
 29    MCB18                         9     
-30    @toastergod101                7     
-31    @filmfotofella                7     
-32    GreatGizmo74                  6     
-33    nick                          6     
-34    Greg                          6     
-35    Kraksen                       5     
-36    @gregrouxphotography          5     
-37    Tobias                        5     
-38    Rafa Laguillo                 5     
+30    Rafa Laguillo                 8     
+31    @toastergod101                7     
+32    @filmfotofella                7     
+33    GreatGizmo74                  6     
+34    nick                          6     
+35    Greg                          6     
+36    Kraksen                       5     
+37    @gregrouxphotography          5     
+38    Tobias                        5     
 39    @janjuudas                    5     
 40    Henry Gunn                    4     
 41    TheSelousScout                4     
